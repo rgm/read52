@@ -1,0 +1,1171 @@
+bplist00Ò_WebMainResource_WebSubresourcesÕ	
+_WebResourceData_WebResourceMIMEType_WebResourceTextEncodingName_WebResourceFrameName^WebResourceURLOÐ<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN"><!--last modified on Thu, Sep 03, 1998 09:56 AM--><html><head>
+	<meta http-equiv="Content-Type" content="text/html;CHARSET=iso-8859-1">
+	<meta name="GENERATOR" content="Symantec Visual Page 1.0.3">
+	<meta name="Author" content="Brad Cox">
+	<title>Planning the Software Industrial Revolution</title>
+<link id="_shutUp" rel="stylesheet" type="text/css" href="data:text/css;base64,LyogCiAqIHNodXR1cC5jc3MgMjAxMS0xMS0xNwogKiB3ZWIgLSBwZWFudXQgZ2FsbGVyeSA9IGJsaXNzCiAqCiAqIGJ5IFN0ZXZlbiBGcmFuayA8c3RldmVuZkBwYW5pYy5jb20+CiAqIDxodHRwOi8vc3RldmVuZi5jb20vcGFnZXMvc2h1dHVwLz4KICoKICogTm90ZXM6CiAqCiAqIDEuIElmIHlvdSB3YW50IHRvIFJFLUVOQUJMRSBjb21tZW50cyBmb3IgYSBzcGVjaWZpYyBzaXRlLCBhZGQgYW4KICogb3ZlcnJpZGUgYWZ0ZXIgaW1wb3J0aW5nIHRoaXMgZmlsZS4gIEZvciBleGFtcGxlLCB0byByZS1lbmFibGUKICoganVzdCBTbGFzaGRvdCBjb21tZW50czoKICogIAogKiBAaW1wb3J0IHVybCgiaHR0cDovL3N0ZXZlbmYuY29tL3BhZ2VzL3NodXR1cC9zaHV0dXAtbGF0ZXN0LmNzcyIpOwogKiAKICogI2NvbW1lbnRsaXN0aW5nIHsKICogICAgIGRpc3BsYXk6IGluaGVyaXQgIWltcG9ydGFudDsKICogfQogKgogKiBCZSBhd2FyZSB0aGF0IHNvbWUgc2l0ZXMgbWF5IGJlIGFmZmVjdGVkIGJ5IG1vcmUgdGhhbiBvbmUgcnVsZS4KICoKICogMi4gSWYgeW91J2QgbGlrZSB0byBqdXN0IGZhZGUgY29tbWVudHMgb3V0IHJhdGhlciB0aGFuIGNvbXBsZXRlbHkgCiAqIHJlbW92ZSB0aGVtIGZyb20gdGhlIHBhZ2U6CiAqIAogKiBSZXBsYWNlOgogKiAgICAgZGlzcGxheTogbm9uZSAhaW1wb3J0YW50OwogKgogKiBXaXRoIHNvbWV0aGluZyBsaWtlOgogKiAgICAgb3BhY2l0eTogMC4xOwogKgogKi8KCi8qIFlvdVR1YmUgKHN0YW5kYXJkIGFuZCBGZWF0aGVyIGludGVyZmFjZXMpICovCgojd2F0Y2gtY29tbWVudC1wYW5lbCwgI2NtLCAjd2F0Y2gtY29tbWVudHMtY29yZSwKCi8qIERpZ2cgYW5kIG90aGVyIHNpdGVzIHRoYXQgdXNlICJjb21tZW50cyIgZGl2cyAqLwoKLmNvbW1lbnRzLCAjY29tbWVudHMsCgovKiBDTk4gYW5kIG90aGVyIHNpdGVzIHRoYXQgdXNlIERpc3F1cyAqLwoKI2Rpc3F1c190aHJlYWQsCiNkc3EtY29udGVudCwKCi8qIEFpbid0IEl0IENvb2wgTmV3cyAqLwoKLmJsb2NrLXRhbGtiYWNrX3N0b3J5LAoKLyogVmVyc2lvblRyYWNrZXIgKi8KCiNwcm9kUmV2aWV3cywKCi8qIE1hY1VwZGF0ZSAqLwoKLnJldmNvbnRlbnQsCgovKiBXb3JkUHJlc3MgZGVmYXVsdCBLdWJyaWNrIHRoZW1lIGFuZCBkZXNjZW5kZW50cyAqLwoKLmNvbW1lbnRsaXN0LAoKLyogU2xhc2hkb3QgKi8KCiNjb21tZW50bGlzdGluZywKCi8qIENCQyBOZXdzICovCgojc29jaWFsY29tbWVudHMsCgovKiBDfE5ldCBOZXdzLmNvbSAqLwoKLmNvbW1lbnR3cmFwcGVyLAoKLyogUmVkZGl0ICovCgouY29tbWVudGFyZWEsCgovKiBPcmVnb25MaXZlIGFuZCBnZW5lcmljICJjb21tZW50IiBjbGFzcyAqLwoKLmNvbW1lbnQsCgovKiBLQVRVICovCgojY29tbWVudGZvcm0sCgovKiBXYXNoaW5ndG9uIFBvc3QgYW5kIG90aGVyIHNpdGVzIHRoYXQgdXNlICJjb21tZW50VGV4dCIgZGl2cyAqLwoKLmNvbW1lbnRUZXh0LAoKLyogR2FubmV0dCBuZXdzcGFwZXJzIGFuZCBvdGhlciBzaXRlcyB0aGF0IHVzZSBQbHVjayAqLwoKZGl2I3BsdWNrY29tbWVudHMsCgovKiBMYXN0LmZtIHNob3V0Ym94ICovCgpkaXYjcGFnZSBkaXYjY29udGVudCBoMiNzaG91dGJveCwgZGl2I3BhZ2UgZGl2I2NvbnRlbnQgZGl2I3Nob3V0Ym94Q29udGFpbmVyLAoKLyogVGhlIEdsb2JlIGFuZCBNYWlsICovCgojbGF0ZXN0LWNvbW1lbnRzLAoKLyogRVcgKi8KCi5jb21tZW50SG9sZGVyLAoKLyogVW5rbm93biAqLwoKLmNvbW1lbnRzLWxpc3QsCiNibG9nQ29tbWVudHMsCiNjb21tZW50c19wYW5lLAojY29tbWVudGNvbnRhaW5lciwKI2NvbW1lbnRzRGl2LAoKLyogQm94ZWUgKi8KCi5jb21tZW50LWNvbnRhaW5lciwgI2NvbW1lbnQtY29udGFpbmVyLAoKLyogTUxCICovCgojY29tbWVudF9jb250YWluZXIsCgovKiBDTk4gKi8KCiNjb21tZW50YmxvYiwKI2NubkNvbW1lbnRzLAoKLyogVGhlIFN0cmFuZ2VyICovCgojQnJvd3NlQ29tbWVudHMsCgovKiBZYWhvbyBOZXdzICovCgoubXdwcGh1LWNvbW1lbnRzLAoudWdjY210LWNvbW1lbnRzLAoKLyogQ29kaW5nIEhvcnJvciAqLwoKLmNvbW1lbnRzLWJvZHksCgovKiBzZWVuIG9uIFJldXRlcnMgKi8KCi5hcnRpY2xlQ29tbWVudHMsCgovKiBuYXRpb25hbHBvc3QuY29tIChQbHVjaykgKi8KCi5wbHVjay1jb21tLAoKLyogS0FUVSAqLwoKLnBhZ2UtY29tbWVudHMsCgovKiBEZXZpYW50QXJ0ICovCgojZ21pLUNDb21tZW50TWFzdGVyLAoKLyogU29tZSBibG9ncyAqLwoKLmNvbW1lbnRzLWNvbnRhaW5lciwKCi8qIE9wcmFoICovCgojbWVkaWFfY29tbWVudHMsCgovKiA5dG81bWFjICovCgojaWRjLWNvbnRhaW5lci1wYXJlbnQsCgovKiBMaXZlZnlyZSAqLwoKI2xpdmVmeXJlLWJvZHksCgovKiBQQyBXb3JsZCAqLwoKI2FydGljbGVDb21tZW50cywKCi8qIFNsYXRlICovCgouanMtQ29tbWVudHNBcmVhLAoKLyogTllUaW1lcyBCbG9ncyAqLwoKI3JlYWRlckNvbW1lbnRzLAoucmVhZGVyQ29tbWVudHMsCgovKiBCQkMgTmV3cyAqLwoKLmRuYS1jb21tZW50LAoKLyogWkROZXQgKi8KCi52aWV3LTYsIC5zcGFjZS1fNSwKCi8qIEdhbWFzdXRyYSAqLwoKLmFsbF9jb21tZW50cywKCi8qIGR2aWNlLmNvbSAqLwoKI2Rpc3BsYXlfY29tbWVudHMsCgovKiBocC5jb20gKi8KCi5hcnRpY2xlLWNvbW1lbnRzLAoKLyogdW5pb25sZWFkZXIuY29tICovCgojY29tbWVudHNjb250YWluZXIsCgovKiBpZmMuY29tICovCgouZWNoby1zdHJlYW0tY29udGFpbmVyLAoKLyogY3JlYXRpdmVyZXZpZXcuY28udWsgKi8KCiNmZWVkYmFjaywKCi8qIHd3ZWVrLmNvbSAqLwoKLkNvbW1lbnRzLAoKLyogdGhlbmV4dHdlYi5jb20gKi8KCiNsZl9jb21tZW50cywKI2xmX3R3aXR0ZXJfY29tbWVudHMsCiNsZl9mYWNlYm9va19jb21tZW50cywKCi8qIENyYWNrZWQgKi8KIAojY29tbWVudHNfc2VjdGlvbgoKewoJZGlzcGxheTogbm9uZSAhaW1wb3J0YW50Owp9Cg=="></head>
+
+<body bgcolor="#FFFFFF">
+
+<center>
+<h1>
+<table border="0" width="100%">
+	<tbody><tr>
+		<td><img src="MachinestsToolchest50.jpg" width="283" height="341" align="RIGHT" alt="Machinists Toolchest" border="0"></td>
+		<td>
+			<h1 align="CENTER">Planning the Software Industrial Revolution</h1>
+			<h3 align="CENTER">by <a href="/cox">Brad J. Cox</a> Ph.D</h3>
+			<p align="CENTER">November 1990<br>
+			IEEE Software magazine<br>
+			<i>Software Technologies of the 1990's.</i><br>
+			(c) 1990 IEEE; All Rights Reserved.</p>
+
+			<p align="CENTER">Also see <a href="PSIRResponse.html">Technology Transition: A Historical
+			Perspective</a> by Allan Willey 
+		</p></td>
+	</tr>
+</tbody></table>
+</h1>
+</center>
+
+<table width="250" bgcolor="#eeeeee" align="right" cellspacing="0" cellpadding="10">
+<tbody><tr><th>Addendum: May 2001</th>
+</tr><tr><td>
+When I wrote this article I was only beginning to be aware of the far-reaching implications of
+a key difference between industrial and information age goods. Industrial age goods are made of atoms that are difficult to replicate and transport. 
+But the digital goods of the information age are made of bits that can be copied and 
+transported so easily that it undercuts the economic incentives that motivate people to 
+manufacture goods of any kind. See <a href="/mybank">Mybank.dom</a> for efforts to remedy this.
+</td></tr>
+</tbody></table>
+
+<p>The possibility of a software industrial revolution, in which programmers stop
+coding everything from scratch and begin assembling applications from well-stocked
+catalogs of reusable software components, is an enduring dream that continues to
+elude our grasp. Although object-oriented programming has brought the software industrial
+revolution a step closer, common-sense organizational principles like reusability
+and interchangeability are still the exception rather than the rule.</p>
+
+<p>According to the historian, Thomas Kuhn, science does not progress continuously,
+by gradually extending an established paradigm. It proceeds as a series of revolutionary
+upheavals<a href="#KUHN">[KUHN]</a>. The discovery of
+unreconcilable shortcomings in an established paradigm produces a crisis that may
+lead to a revolution in which the established paradigm is overthrown and replaced.</p>
+
+<p>The software crisis is such a crisis, and the software industrial revolution is
+such a revolution. The familiar process-centric paradigm of software engineering,
+where progress is measured by advancement of the software development process, entered
+the crisis stage 23 years ago when the term, software crisis, was first coined. The
+paradigm that may launch the Information Age is similar to the one that launched
+the Manufacturing Age 200 years ago. It is a product-centric paradigm in which progress
+is measured by the accretion of standard, interchangeable, reusable components, and
+only secondarily by advancing the processes used to build them (Figure 1).</p>
+
+<p><img src="PSIR1.gif" width="182" height="176" align="LEFT" border="0"><i>Figure
+1: Whereas mature engineering domains define standard products and allow diverse
+processes to be used in making them, in software we do the reverse, defining standard
+languages and methodologies from which standard components are to magically ensue.</i>
+</p><h2>Software crisis</h2>
+
+<p>The gunsmith shop in colonial Williamsburg, Va., is a fascinating place to watch
+gunsmiths build guns as we build software: by fabricating each part from raw materials
+and hand-fitting each part to each assembly. When I was last there, the gunsmith
+was filing a beautifully proportioned wood screw from a wrought iron rod that he'd
+forged on the anvil behind his shop, cutting its threads entirely by hand and by
+eye. I was fascinated by how he tested a newly forged gun barrel -- charging it with
+four times the normal load, strapping it to a log, and letting `er rip from behind
+a sturdy shelter -- not the least hindered by academia's paralyzing obsession that
+such testing `only' reveals the presence of defects, not their absence.</p>
+
+<p>The cottage-industry approach to gunsmithing was in harmony with the economic,
+technological, and cultural realities of colonial America. It made sense to expend
+cheap labor as long as steel was imported at great cost from Europe. But as industrialization
+drove materials costs down and demand exceeded what the gunsmiths could produce,
+they began to experience pressure to replace the cottage-industry gunsmith's process-centered
+approach with a product-centered approach; high-precision interchangeable parts to
+address the consumer's demand for less costly, easily repairable products.</p>
+
+<p>The same inexorable pressure is happening today as the cost of hardware plummets
+and demand for software exceeds our ability to supply it. As irresistible force meets
+immovable object, we experience the pressure as the software crisis: the awareness
+that software is too costly and of insufficient quality, and its development nearly
+impossible to manage.</p>
+
+<p>Insofar as this pressure is truly inexorable, nothing we think or do will stand
+in its path. The software industrial revolution will occur, sometime, somewhere,
+whether our value system is for it or against it, because it is our consumers' values
+that govern the outcome. It is only a question of how quickly, and of whether we
+or our competitors will service the inexorable pressure for change.
+</p><h2>Software industrial revolution</h2>
+
+<p>Contrary to what a casual understanding of the industrial revolution may suggest,
+the displacement of cut-to-fit craftsmanship by high-precision interchangeable parts
+didn't happen overnight and it didn't happen easily. The heroes of this revolution
+were not the cottage-industry gunsmiths, who actually played almost no role whatsoever,
+for or against. The value system of the craftsman culture, so palpable in that Williamsburg
+gunsmith, was too strong. They stayed busy in their workshops, filing on their iron
+bars, and left it to their <i>consumers</i> to find another way.</p>
+
+<p>It was actually the ultimate consumer of ordnance products, Thomas Jefferson,
+who found the solution in 1785 during a visit to France prior to his presidency.
+Congress supported his proposal with remarkable steadfastness through 25 years of
+unsuccessful attempts, such as Ely Whitney's pioneering effort, until John Hall finally
+succeeded in 1822. An additional 24 years were to elapse before `Armory Practice
+`spread to private contractors. A half-century! This may even be a fundamental time-constant
+of such revolutions, since similar lags occurred in the telephony, phonograph, automobile,
+steamboat, railroad and other industries. On this time scale, the distinction between
+evolution and revolution can be exceedingly hard to discern.</p>
+
+<p>Although I certainly hope that events will prove me wrong, I fear that the software
+industrial revolution will take as long, or even longer. Figure 2 represents where
+we are today by juxtaposing two hotly contested imperatives as to how to escape the
+software crisis.<a href="#DIJKSTRA">[DIJKSTRA]</a>,
+<a href="#FETZER">[FETZER]</a>.</p>
+
+<p>The first viewpoint is the intangibility imperative, which is most common in computer
+science circles. Its advocates view software as an solitary, mental, abstract activity
+akin to mathematics. For example, Fetzer attributes the following expression of this
+viewpoint to C.A.R. Hoare:
+
+
+</p><blockquote>
+	
+<p><i>"I hold the opinion that the construction of computer programs is a mathematical
+	activity like the solution of differential equations, that programs can be derived
+	from their specifications through mathematical insight, calculation, and proof, using
+	algebraic laws as simple and elegant as those of elementary arithmetic."</i>
+
+</p></blockquote>
+
+
+<p>But this viewpoint is hardly unique to academics. Most programmers will readily
+relate to this quote, by one of Apple's most creative programmers, that compares
+programming to novel writing, another solitary, mental, abstract activity:
+
+
+</p><blockquote>
+	
+<p><i>"Reusing other people's code would prove that I don't care about my work.
+	I would no more reuse code than Ernest Hemingway would have reused other authors'
+	paragraphs."</i>
+
+</p></blockquote>
+
+<p>The opposing viewpoint is the tangibility imperative, which is more common in
+software engineering circles. Its advocates counter that although software is like
+mathematics or novel writing in many ways, the intangibility imperative works best
+for problems that do not exceed the abilities or the longevity of an individual.
+Intangibles are notoriously hard to produce by committee. Furthermore, the intangibility
+imperative concentrates power in the hands of those with the abstract reasoning skills
+to comprehend an intangible product, the producers. The consumers are left powerless,
+unable to contribute the financial and legal resources that are needed to drive deep-seated
+cultural and technological changes.</p>
+
+<p>This drive to empower the consumer by making software as accessible and immediate
+as everyday tangible objects underlies the recent enthusiasm for direct-manipulation
+(iconic) user interfaces, browsers, personal workstations, and other techniques for
+making software more tangible, less abstract, and more approachable by nonprogrammers.
+The recent enthusiasm for object-oriented technologies is particularly interesting
+in that both camps embrace it, but for opposite reasons -- tangibility advocates
+for encapsulation and dynamic binding; intangibility advocates for inheritance and
+static binding. This apparent convergence but actual divergence is responsible for
+much of the confusion as to what the term means.</p>
+
+<p>This article does not propose that either imperative eliminate the other. Software
+really is an abstract/concrete swamp, a hybrid for which dual perspectives can be
+useful as first-order approximations to a complex reality. Rather, it proposes a
+paradigm shift to a new frame of reference in which both imperatives co-exist, each
+predominating at different times and places. I've emphasized the tangibility imperative
+throughout this paper because of the need to begin building and using commercially
+robust repositories of trusted, stable components whose properties can be understood
+and tabulated in standard catalogs, like the handbooks of other mature engineering
+domains. The intangibility imperative will always retain its present role as the
+primary tool of solitary, mental creativity, and will acquire even greater utility
+for predicting how trusted, quantifiable components, the raw materials of a mature
+software engineering discipline, will behave when assembled and placed under load.
+</p><h2>Object-oriented technologies</h2>
+
+<p>Objects are turning up all over! There are object-oriented databases, object-oriented
+drawing programs, object-oriented telephone switching systems, object-oriented user
+interfaces, and object-oriented analysis and design methods. And, oh yes, there are
+object-oriented programming languages. Lots of them, of every description, from Ada
+at the conservative right to Smalltalk at the radical left, with C++ and Objective-C
+somewhere in between. And everyone is asking, "What could such different technologies
+possibly have in common? Do they have <i>anything</i> in common? What does object-oriented
+really <i>mean</i>?"</p>
+
+<p>What does any adjective mean in this murky swamp we call software? No one is confused
+when adjectives like `small' or `fast' mean entirely different things in nuclear
+physics, gardening, and geology. But in this murky domain of intangible abstractions,
+it is all too easy to lose your bearings, to misunderstand the context, to confuse
+the very small with the extremely large. So the low-level modularity/binding technologies
+of Ada and C++ are confused with the higher level ones of Smalltalk, and all three
+with hybrid environments like Objective-C. And visually intuitive, non-sequential
+technologies like Fabrik <a href="#INGALLS">[INGALLS]</a>
+and Metaphor <a href="#METAPHOR">[METAPHOR]</a> are
+summarily excluded for being iconic rather than textual and for not supporting inheritance
+-- forgetting that the same is true of tangible everyday entities that are indisputably
+objects.</p>
+
+<p>Such confusion is not surprising. The denizens of the software domain, from the
+tiniest expression to the largest application, are as intangible as any ghost. And
+because we invent them all from first principles, everything we encounter there is
+unique and unfamiliar, composed of components that have never been seen before and
+will never be seen again, and that obey laws that don't generalize to future encounters.
+Software is a place where dreams are planted and nightmares harvested, an abstract,
+mystical swamp where terrible demons compete with magical panaceas, a world of werewolves
+and silver bullets. As long all we can know for certain is the code we ourselves
+wrote during the last week or so, mystical belief will reign over quantifiable reason.
+Terms like `computer science' and `software engineering' will remain oxymorons --
+at best, content-free twaddle spawned of wishful thinking and, at worst, a cruel
+and selfish fraud on the consumers who pay our salaries.</p>
+
+<p>In the broadest sense, object-oriented refers to an objective, not a technology
+for achieving it. It means wielding all the tools we can muster, from well-proven
+antiques like Cobol to missing ones like specification languages, to enable our consumers
+by letting them reason about our products via the common-sense skills we all use
+to understand tangible objects.</p>
+
+<p>But since reverting to this broader meaning might confuse terminology even further,
+I use a separate term, `software industrial revolution', to mean what object-oriented
+has always meant to me: transforming programming from a solitary cut-to-fit craft
+into an organizational enterprise like manufacturing. This means allowing consumers
+at every level of an organization to solve their own software problems as home owners
+solve plumbing problems: by assembling their own solutions from a robust commercial
+market in off-the-shelf subcomponents, which are in turn supplied by multiple lower
+level echelons of producers.</p>
+
+<p>Clearly, software products are different from tangible products like plumbing
+supplies, and the differences are not small. However I shall gloss over the differences
+until the end of this article and first emphasize a compelling similarity. Except
+for small programs that a solitary programmer builds for personal use, both programming
+and plumbing are <i>organizational</i> activities. Both are engaged in by people
+like those who raised the pyramids, flew to the moon, repair their plumbing, and
+build computer hardware -ordinary people with the common sense to organize as producers
+and consumers of each other's products instead of reinventing everything from first
+principles.
+</p><h2>Value Rigidity</h2>
+
+
+<blockquote>
+	
+<p><i>"All kinds of examples from motorcycle maintenance could be given, but
+	the most striking example of value rigidity I can think of is the old South Indian
+	Monkey Trap, which depends on value rigidity for its effectiveness. The trap is a
+	coconut shell with a hole in it, baited with food. The monkey reaches in and is suddenly
+	trapped&nbsp;- by nothing more than his own value rigidity. He can't revalue the
+	food. He cannot see that freedom without food is more valuable than capture with
+	it. The villagers are coming to get him and take him away. They're coming closer&nbsp;.&nbsp;.&nbsp;.
+	closer!&nbsp;.&nbsp;.&nbsp;. now!</i></p>
+	
+<p><i>There is a fact this monkey should know: if he opens his hand he's free. But
+	how is he going to discover this fact? By removing the value rigidity that rates
+	food above freedom. How is he going to do that? Well, he should somehow try to slow
+	down deliberately and go over ground that he has been over before and see if things
+	he thought were important really were important, and well, stop yanking and just
+	stare at the coconut for a while. Before long he should get a nibble from a little
+	fact wondering if he is interested in it."</i><a href="#PIRSIG">[PIRSIG]</a>
+
+</p></blockquote>
+
+
+<p>The software industrial revolution, like all revolutions, is as much cultural
+as technological. It involves not only tools but also values; deeply held beliefs
+about the nature of software, our role in its construction and use, and ultimately
+our ideals of good versus bad. Revolutions happen so slowly, and often displace one
+group by another, because of value rigidity, the inability to relax the pursuit of
+an older good to gain a newer one. Examples of potential value rigidity traps abound:
+
+</p><ul>
+	<li>Programs must be provably correct, as opposed to compliant to specification within
+	a stated tolerance,
+	</li><li>We should focus on solutions that will bear fruit quickly, within a manager's
+	12-month planning horizon,
+	</li><li>Seamless panaceas are better than kits of diverse tools, and
+	</li><li>Software is a closed universe in which all potential interactions between the
+	parts of that universe can be declared when these parts are created by their compiler.
+</li></ul>
+
+
+<p>Consider the last two of these in more detail. The closed-universe model surfaces
+as the belief that compile-time type checking is universally `better'. The preference
+for panaceas instead of tools surfaces as the belief that early and late binding
+are mutually exclusive panaceas, that one should be chosen at the expense of the
+other by the language designer rather than providing many binding technologies that
+the user can choose from according to the job at hand.</p>
+
+<p>To see how these value systems keep us trapped in the software crisis, consider
+the program in Figure 3. This program was written according to the closed-universe
+model. That is, everything is declared in advance so that the compiler can prevent
+a supposedly common kind of error through strong type checking.</p>
+
+<p>But in return, this programmer has given up the opportunity to escape the software
+crisis by building a market in reusable software components, such as Set. To see
+why, shift your focus from the assembly to the parts that make it up -- from the
+application to the Set class. For Set's add: method to be consistent with the type
+declaration in the application (Word* currentWord), the compiler must insist that
+the formal argument of Set's add: method, aMember, be declared as Word*, ByteArray*
+or AbstractArray*, depending on which declares the messages that add: will send to
+aMember. The closed-universe model forces Set's designer to look forward in time
+and anticipate what consumers will use Set for -- at compile time -- when Set is
+produced by the compiler, rather than at run time, when it is used by installing
+it into its reuse environment.</p>
+<pre>	Set* uniqueWords;
+	Word* currentWord;
+	uniqueWords = [Set new];
+	while (getWord(buf) != EOF) {
+		currentWord = [Word str:buf];
+		[uniqueWords add:currentWord];
+	}
+	printf("uniqueWords = %d\n", [uniqueWords size]);</pre>
+
+<p><i>Figure 3: This program computes the number of unique words in a document. It
+turns tokens produced by the getWord subroutine into instances of Word (currentWord)
+and adds these to an instance of Set (uniqueWords), relying on the set to discard
+duplicates. As written here, the application is strictly type-checked at compile
+time. A more flexible solution would have been to declare currentWord to be of type
+id rather than Word* to delay binding until run time.</i></p>
+
+<p>But what about consumers whose set members are not implemented as a subclass of
+AbstractArray? Why not sets of Wrenches or sets of Unicorns? Why not sets of Sets?
+A commercial Set must be reusable for members of any class, regardless of how its
+consumer chose to implement them -- regardless of the members' inheritance hierarchy.
+But this involves an open-universe model in which Set's members are checked not when
+Set is compiled, but when it is used -- when it is drawn from a library of compiled
+code and first encounters its members at runtime. Set must be written so its members
+may be chosen after Set has been compiled, packaged in a library, and delivered in
+binary form through the market in software components.</p>
+
+<p>In Objective-C, the syntax for doing this is to replace the offending type declaration,
+Word*, with the anonymous type name, id. This instructs the compiler that the add:
+method is prepared to deal with instances of any class, excluding only types other
+than id. Because type checking and binding are now deferred until runtime, Set can
+be compiled once and for all and distributed in binary form for reuse as a commercial
+software component. By relaxing our frantic grasp on the compile-time type-checking
+bait, we've taken a step toward freedom from the software crisis.</p>
+
+<p>The point of this example is not that runtime type checking and anonymous types
+are better or worse than the converse. Although the example used dynamic binding
+to attach members to sets, it used static binding to build the getWord() subroutine.
+The example shows that seamless panaceas -- languages that do not offer multiple
+modularity/binding technologies -- prevent these markets by failing to provide modularity/binding
+technologies suitable for users at different levels of the producer/consumer hierarchy.
+Strongly coupled languages like Ada and C++ are deficient insofar as they do not
+also support loosely coupled modularity/binding technologies like screwing, bolting,
+welding, soldering, pinning, riveting, and mortising. And loosely coupled environments
+like Smalltalk are deficient insofar as they fail to support tightly coupled modularity/binding
+technologies like forging and casting. Hybrid environments like Objective C and CLOS,
+and analogous ones that could be based on Cobol, Ada, Pascal, or C++, support multiple
+modularity/binding technologies as tools to be picked up or laid aside according
+to the job at hand.
+</p><h2>Software Architecture</h2>
+
+<p>It is easy to see how interchangeable parts could help in manufacturing. But manufacturing
+involves replicating a standard product, while programming does not. Programming
+is not an assembly-line business but a build-to-order one, more akin to plumbing
+than gun manufacturing.</p>
+
+<p>But the principles of standardization and interchangeability pioneered for standard
+products apply directly to build-to-order industries like plumbing. They enabled
+the markets of today where all manner of specialized problems can be solved by binding
+standardized components into new and larger assemblies.</p>
+
+<p>Mature industries like plumbing are less complex than ours, not because software
+is intrinsically more complicated, but because they -- and not we -have solved their
+complexity, nonconformity, and changeability problems by using a producer/consumer
+hierarchy to distribute these problems across time and organizational space. The
+plumbing supply market lets plumbers solve only the complexities of a single level
+of the producer/consumer hierarchy without having to think about lower levels, for
+example, by reinventing pipes, faucets, thermostats, and water pumps from first principles.</p>
+
+<p>Thomas Kuhn points out that the crucial test of a new paradigm is whether it reveals
+a simpler structure for what was previously chaotic. Certainly the process-centric
+software universe is chaotic today. The process-centric paradigm requires that only
+one process be `right', so each new contender must slug it out for that coveted title,
+`standard' -- rapid prototyping versus Milspec 2167, object-oriented versus structured,
+Ada versus Smalltalk, C++ versus Objective-C. Different levels of the producer-consumer
+hierarchy are not permitted to use specialized tools for their specialized tasks,
+skills, and interests, but must fit themselves to the latest panacea.</p>
+
+<p>But by focusing on the nature of the products of these languages and methodologies,
+rather than on them as processes significant unto theselves, a simpler pattern emerges
+that is reminiscent of the distinct integration levels of hardware engineering (Figure
+4). The hardware community's monumental achievements are largely due to the division
+of labor made possible by the loosely coupled modularity/binding technologies in
+this figure. Card-level pluggability lets end-users plug off-the-shelf cards to build
+custom hardware solutions without having to understand soldering irons and silicon
+chips. Chip-level pluggability lets vendors build cards from off-the-shelf chips
+without needing to understand the minute gate and block-level details that <i>their</i>
+vendors must know to build silicon chips. Each modularity/binding technology encapsulates
+a level of complexity so that the consumer needn't know or care how components from
+a lower level were implemented, but only how to use them to solve the problem at
+hand.</p>
+
+<p><img src="PSIR4.gif" width="479" height="251" align="BOTTOM" border="0"><i> Figure
+4: Object-oriented means different things at different levels of integration. Pie
+slices represent the extent to which several popular languages support work at each
+level.</i></p>
+
+<p>Each of the integration levels in this figure already exists in software, scattered
+among competing languages. Asking for a context-independent meaning for object-oriented
+is like asking for a context-independent meaning for adjectives like small or fast.
+Just as it is proper that small means entirely different things for atoms, sparkplugs,
+automobiles, and traffic jams, it is proper that object mean different things at
+different levels of the software architecture that this figure proposes. The rest
+of this article will indicate level of granularity is being discussed by qualifying
+`object' with the level names in this figure -- chip-level objects, card-level objects,
+and so forth.
+</p><h2>A Commercial Example</h2>
+
+<p>Stepstone was founded seven years ago to pursue the ideas in this paper on a commercial
+scale. Its mission is providing pluggable chip-level software components to C system-builders
+who realize that building large systems (rack-level objects) with only the modularity/binding
+technologies that C provides is equivalent to wafer-scale integration, something
+that hardware engineering can barely accomplish to this day.</p>
+
+<p>However, C did not support pluggability -- the ability to bind a component into
+a new environment dynamically, when the component is used, rather than statically,
+when it is produced. So we built an enabling technology; a C pre-processor to support
+a loosely coupled chip-level modularity/binding technology within C's gate- and block-level
+technologies.</p>
+
+<p>The goal of this extended language, Objective-C, was not to be yet another language
+nor, as originally envisioned, even to repair C's long-standing deficiencies (subsequent
+versions have since addressed many of these deficiencies by supporting ANSI improvements,
+even for older C compilers that don't provide them). It was to provide enabling technology
+for building the Objective-C System-building Environment and a multilevel market
+in software components.</p>
+
+<p>Stepstone's experience amounts to an experimental study of the software components
+market strategy in action. The good news is that, with substantial libraries now
+in the field and others on the way, the chip-level software components market concept
+has been tried and proven sound for diverse applications in banking, insurance, factory
+automation, battlefield management, CAD/CAM, CASE, and many others. The component
+libraries have proven to be flexible enough, and easy enough to learn and use, that
+they have been used to build highly graphical applications in all of these domains,
+and sufficiently portable that it has been possible to support them on most hardware
+and software platforms during this era of rapid platform evolution.</p>
+
+<p>The bad news is that this experiment has shown that it is exceedingly difficult,
+even with state-of-the-art technologies, to design and build components that are
+both useful and genuinely reusable, to document them so customers can understand
+them, to port them to an unceasing torrent of new hardware platforms, to ensure that
+recent enhancements or ports haven't violated some existing interface, and to market
+them to a culture whose value system, like the Williamsburg gunsmith, encourages
+building everything from first principles. A particularly discouraging example of
+this value system is that, in spite of the time and money we've invested in libraries
+and environmental tools like browsers, Objective-C is still thought of as yet another
+programming language to be compared with Ada and C++, rather than as the tiniest
+part of a much larger environment of ready-to-use software components and tools.</p>
+
+<p>This experiment has also shown that chip-level objects are only a beginning, not
+an end. The transition from how the machine forces programmers to think to how everyone
+expects tangible objects to behave is not a single step but many.</p>
+
+<p>At the gate and block levels of Figure 4, object-oriented means encapsulation
+and sometimes inheritance, but the dynamism of everyday objects has been intentionally
+relinquished in favor of machine-oriented virtues like computational efficiency and
+static binding.</p>
+
+<p>At the intermediate (chip) level, the open-universe model of everyday experience
+is introduced. At this level, all possible interactions between parts and the whole
+do not have to be known and declared in advance, when the universe is created by
+the compiler.</p>
+
+<p><img src="PSIR5.gif" width="293" height="187" align="LEFT" border="0"><i> Figure
+5: Example of how a non-programmer might construct a custom Macintosh application
+by assembling software cards, or data-flow modules.</i></p>
+
+<p>But on the scale of any significant system, gate-, block-, and even chip-level
+objects are extremely small units of granularity -- grains of sand where bricks are
+needed. Furthermore, since chip-level objects are no less procedural than conventional
+expressions and subroutines, they are just as alien to nonprogrammers. Until invoked
+by passing them a thread of control from outside, they are as inert as conventional
+data, quite unlike the objects of everyday experience.</p>
+
+<p>Fabrik pioneered a path that we hope the object-oriented world will soon notice
+and follow. Since Fabrik was written in Smalltalk, it consists internally of chip-level
+objects. But externally, it projects a higher-level kind of object, a `card-level
+object', to the user. These higher-level objects communicate, not synchronously through
+procedural invocation, but asynchronously by sending chip-level objects through communication
+channel objects such as Streams. They amount to a new kind of `object' that encapsulates
+a copy of the machine's thread of control on a software `card', along with the chip-level
+objects used to build that card. Software cards are objects of the sort that programmers
+call lightweight processes; objects that operate as coroutines of one another, not
+subroutines.</p>
+
+<p>Since software cards can operate concurrently, they admit a tangible user interface
+(as Figure 5 shows) that is uniquely intuitive for nonprogrammers and for this reason
+alone, more fundamentally object-oriented than the procedural, single-threaded languages
+of today. Like the tangible objects of everyday experience, card-level objects provide
+their own thread of control internally, they don't communicate by procedural invocation,
+they don't support inheritance, and their user interface is iconic, not textual.</p>
+
+<p>By adding these and probably more architectural levels, each level can cater to
+the needs, skills, and interests of a particular constituency of the software components
+market. The programmer shortage can be solved as the telephone-operator shortage
+was solved, by making every computer user a programmer.
+</p><h2>Adopting the product-centered paradigm</h2>
+
+<p>Once Congress mandated interchangeable parts, technologies for building them followed
+posthaste. The first phase focused on water-powered tools such as Blanchard's pattern
+lathe. This lathe represents the mainstream approach of the software community until
+now, the search for technologies capable of transforming progressively higher-level
+descriptions of the problem, like the gun-stock pattern that guides this lathe, into
+concrete implementations that are correct by construction.</p>
+
+<p>Today, this lathe stands in the American History Museum in Washingtin D.C. However
+the point of this exhibit is that the crucial innovation that made interchangeable
+parts possible was not only the elimination of cut-to-fit craftsmanship by tools
+like Blanchard's lathe. The crucial discovery was made, not by Blanchard, but by
+John Hall, in realizing that implementation tools were insufficient unless supplemented
+by specification tools capable of determining whether parts complied to specification
+within tolerance. The museum reinforces this point by displaying a box of hardened
+steel inspection gauges in the same exhibit with Blanchard's lathe.</p>
+
+<p>This discovery has not yet occurred in software. Although it is easy to find articles
+with specification in their title, they usually mean implementation, as in "automatically
+generating code from specifications". Although such higher level implementation
+tools are clearly worthwhile, it is misleading to call them specification languages
+because this obscures the absence of true specification technologies in software
+-- the rulers, protractors, calipers, micrometers, and gauges of manufacturing. Programmers
+continue to rely exclusively on implementation technologies, be they ultrahigh-level
+programming languages -- tools of certainty like the Blanchard lathe -- or lower
+level languages -- tools of risk like the rasps, files, and spoke-shaves that it
+displaced.</p>
+
+<p>The confusion of implementation and specification is particularly prominent in
+that most fashionable of object-oriented features: inheritance. As used in object-oriented
+language circles, inheritance is the Blanchard lathe of software -- a powerful and
+important tool for creating new classes from existing ones, but not nearly as useful
+for specifying static properties such as how they fit into their environment, and
+useless for describing dynamic properties such as what these classes do.</p>
+
+<p>Rather than laboriously building each new class by hand, inheritance copies functionality
+from a network of existing classes to create a new class that is, until the programmer
+begins overriding or adding methods, correct by construction. Such hierarchies show
+how a class's internals were constructed. They say nothing, or worse, mislead, as
+to the class's specification -- the static and dynamic properties that the class
+offers to its consumers.</p>
+
+<p>For example, Figure 6 shows the implementation hierarchy for a Semaphore class
+that inherits four existing classes. Contrast this implementation hierarchy with
+the following facts:</p>
+
+<p><img src="PSIR6.gif" width="219" height="140" align="LEFT" border="0"><i> Figure
+6: Implementation hierarchy showing how new classes are implemented from existing
+ones. However, it provides a misleading picture of what the customer is interested
+in: the specification of what the classes do.</i></p>
+
+<p>Semaphores are a kind of Queue only from the arcane viewpoint of their author.
+This hierarchy resulted from a speed optimization of no interest to consumers, who
+should view them as scheduling primitives with only wait and signal methods. How
+will the producer tell the consumer to avoid some, many, or all of those irrelevant
+and dangerous methods being inherited from all four superclasses? And if such static
+issues are handled statically, where will dynamic ones be handled -- the vital question
+of what Semaphore does?</p>
+
+<p>This hierarchy says quite explicitly that OrderedCollection is similar to Set
+and dissimilar to Queue. However exactly the opposite is true. Queue is functionally
+identical to OrderedCollection. I carefully hand-crafted Queue to have each of OrderedCollection's
+methods, each with precisely the same semantics, to show that encapsulation lets
+a class's internals be revised without affecting its externals. But how will the
+consumer discover that OrderedCollection and Queue provide the same functionality
+-- that they are competing implementations of precisely the same specification? And
+how will any commercially significant differences, like time/space trade-offs, be
+expressed independently of these similarities?</p>
+
+<p>Manufacturing handles this issue by providing two separate classes of tools, implementation
+tools for the producer's side of the interface, and specification tools for the consumer's
+side. Shouldn't we do likewise? Shouldn't conceptual aids like inheritance be used
+on both sides, but separately, just as Blanchard's lathe and Hall's inspection gauges
+deal with different views of the same object's interface? Shouldn't Semaphore's consumer
+interface be expressed in an explicit specification hierarchy as in Figure 7, independently
+of the producer's implementation hierarchy?</p>
+
+<p><img src="PSIR7.gif" width="224" height="94" align="LEFT" border="0"><i> Figure
+7: Specification hierarchy for the example in Figure 6. Such a specification hierarchy
+uses the names of test procedures, not classes, that verify (gauge) whether an implementation
+compiles to a specification within a tolerance embodied in each test.</i></p>
+
+<p>Just as a caliper is not a `higher level' lathe, a specification tool is not a
+higher level implementation tool. Specification is not the implementation tool's
+job. Separating the two would eliminate performance as a constraint on the specification
+tool, allowing knowledge representation shells that already support rich conceptual
+relationships to be used as basis for a specification language `compiler'. The two
+tools can be deployed as coequal partners, both central to the development process,
+as in Figure 8.</p>
+
+<p>The primitives of the specification language are ordinary test procedures -predicates
+with a single argument that identifies the putative implementation to be tested.
+A test procedure exercises its argument to determine whether it behaves according
+to its specification. For example, a putative duck is an acceptable duck upon passing
+the isADuck gauge. The specification compiler builds this gauge by assembling walksLikeADuck
+and quacksLikeADuck test procedures from the library. The `compiler' is simply an
+off-the-shelf knowledge representation tool for invoking test procedures stored for
+this purpose in the test procedure library.</p>
+
+<p>The test procedure libraries play the role in software as elsewhere - defining
+the shared vocabulary that makes producer-consumer dialog possible. For example,
+in "I need a pound of roofing nails", <i>pound</i> is defined by a test
+procedure involving a scale, and <i>nail </i>by a test procedure involving shape
+recognition by the natural senses. Test procedures are particularly crucial in software
+because of the natural senses' inability to contribute to the specification of otherwise
+intangible software products like Stack or Set. Making software tangible and observable,
+rather than intangible and speculative, is the first step to making software engineering
+and computer science a reality.</p>
+
+<p><img src="PSIR8.gif" width="219" height="166" align="LEFT" border="0"><i>Figure
+8: A development process in which specification is given the same emphasis as implementation.</i></p>
+
+<p>Test procedures collect `operational', or indirect, measurements of what we'd
+really like to know, the product's quality as perceived by the customer. They monitor
+the consumer's interface, rather than our traditional focus on the producer's interface
+(i.e. by counting lines of code, cyclomatic complexity, Halsted metrics, etc). This
+knowlege of how product quality varys over time can then be feed back to improve
+the process through statistical quality control techniques, as described in <a href="#DEMING">[DEMING]</a>, that play such a key role in manufacturing today.</p>
+
+<p>The novelty of this approach is threefold:
+
+</p><ul>
+	<li>Applying inheritance concepts not only to implementation, but to specification
+	and testing, thus making the specification explicit,
+	</li><li>Preserving test procedures for reuse across different implementations, versions,
+	or ports through an inheritance hierarchy,
+	</li><li>Distributing the specifications and test procedures between producers and consumers
+	to define a common vocabulary that both parties can use for agreeing on software
+	semantics.
+</li></ul>
+
+
+<p>The implications could be immense, once we adjust to the cultural changes that
+this implies, a shift in power away from those who produce the code to those who
+consume it -- from those who control the implementations to those who control the
+specifications.</p>
+
+<p>Specification/testing languages could lead to less reliance on source code, new
+ways of documenting code for reuse, and fundamentally new ideas for classifying large
+libraries of code so it can be located readily in reference manuals, component catalogs,
+and browsers.</p>
+
+<p>Specification/testing languages could free us from our preoccupation with standardized
+processes (programming languages) and our neglect of standardized products (software
+components). Producers would be freed to use whatever language is best for each task,
+knowing that the consumer will compile the specification to determine whether the
+result is as specified.</p>
+
+<p>Specification/testing languages can provide rigor to open universe situations
+when compile-time type checking is not viable. For example, in the set example described
+earlier, the implementation-oriented declaration AbstractArray* was too restrictive
+because sets should work for members that are not subclasses of AbstractArray. However,
+the anonymous type id is unnecessarily permissive because sets do impose a protocol
+requirement that you'd like to check before runtime. But because specification/testing
+tools can induce static meanings (isADuck) from dynamic behavior (quacksLikeADuck),
+why not feed this back to the programming language as implementation-independent
+type declarations? This amounts to a new notion of type that encompasses both the
+static and dynamic properties, rather than the static implementation-oriented meaning
+of today.</p>
+
+<p>At Stepstone, implementing software components has never been a big problem, but
+making them tangible to consumers has been. The marketing department experiences
+this in explaining the value of a component to potential customers. Customers experience
+it when they try to find useful components in libraries that are organized by inheritance
+hierarchies and not by specification hierarchies. And the development team experiences
+it when changing a released component in any fashion, such as when porting it to
+a new machine, repairing a fault, or extending it with new functionality.Without
+tools to express the old specification independently from the new and then determine
+whether the old specification is intact while independently testing the new one,
+development quickly slows to a crawl. All available resources become consumed in
+quality assurance.
+</p><h2>Conclusions</h2>
+
+<p>Of course, intangible software components quite different from the tangible components
+of gunsmithing and plumbing, and the differences go even beyond the abstract/concrete
+distinction of Figure 2. The most fundamental differences include:
+
+</p><ul>
+	<li>complexity, nonconformity, and mutability
+	</li><li>intangibility (invisibility)
+	</li><li>single-threadedness
+	</li><li>ease of duplication.
+</li></ul>
+
+
+<p>This list originated in a list Brooks provided to distinguish "the inescapable
+essence of software, as opposed to mere accidents of how we produce software today"<a name="returnToBrooks"></a><a href="#BROOKS">[BROOKS]</a>. I added two properties
+that he neglected to mention: single-threadedness and ease of duplication. However
+I did this, not to reinforce his implication that the software crisis is an inescapable
+consequence of software's essence. I did it to argue that all of the items on this
+list are only obstacles that can, and will, be overcome.</p>
+
+<p>A robust software components market addresses the complexity, nonconformity, and
+mutability obstacle by providing an alternative to implementing everything from first
+principles.</p>
+
+<p>Object-oriented programming technologies at each of the many levels of Figure
+4 address the intangibility obstacle, particularly if supported by a specification
+technology as in Figure 8.</p>
+
+<p>Ultra-high-level (card- and rack-level) object-oriented languages also address
+the intangibility obstacle by providing non-procedural objects that nonprogrammers
+can manipulate via direct-manipulation user interfaces.</p>
+
+<p>Card- and rack-level languages address the single-threadedness obstacle by relaxing
+the relentlessly procedural, single-thread-of-control restrictions of the gate-,
+block-, and chip-level languages of today.</p>
+
+<p>The problem, of course, is the absence of easy technological solutions to the
+ease-of-duplication obstacle, which stands ready to undercut any assault we might
+mount on the others by inhibiting the growth of a commercially robust software components
+market. Such markets will be weak as long as it is difficult for component producers
+to guarantee income commensurate to their investments by controlling the ability
+to replicate copies.</p>
+
+<p>But as long as the pressure for change increases as the software crisis grows
+ever more severe, solutions to even this last obstacle will be sought, and they will
+be found, either by us or our competitors. Ideally, the solutions will be technical.
+Perhaps they will be legal, economic, and policy sanctions imposed by our consumers.
+Perhaps they will be the kind of sheer determination that the free-enterprise system
+is famous for inspiring.</p>
+
+<p>I only wish that I were as confident that the changes will come quickly or that
+we, the current software development community, will be the ones who make it happen.
+Or will we stay busy at our terminals, filing away at software like gunsmiths at
+iron bars, and leave it to our consumers to find a solution that leaves us sitting
+there?
+</p><h2>About the author</h2>
+
+<p><a href="/cox">Brad J. Cox</a> is a cofounder and chief technical officer
+The Stepstone Corporation and the originator of the Objective-C System-building Environment
+and many of its Software-IC libraries. He is the author of the book, <i>Object-oriented
+Programming, An Evolutionary Approach</i> (Addison Wesley 1986). He is presently
+writing a second book, <i>Superdistribution: Objects as Property on the Electronic
+Frontier</i> (Addison Wesley 1996), along the lines of this article.</p>
+
+<p>Dr. Cox's received his Ph.D. from the University of Chicago and carried out post-doctoral
+studies at the National Institutes of Health and at the Woods Hole Marine Biological
+Laboratories. He is a member of ACM and IEEE.
+
+
+</p><blockquote>
+	
+<p>Objective-C, Software-IC, and ICpak are registered trademarks of The Stepstone
+	Corporation; 75 Glen Road; Sandy Hook CT 06482.
+
+</p></blockquote>
+
+<h2>References</h2>
+
+<dl>
+	<dt><a name="BROOKS"></a>[BROOKS]</dt>
+	<dd>F.P. Brooks, <i><a href="/mon/SoftwareEngineering/BrooksNoSilverBullet.html">No Silver Bullet; Essence and Accidents of Software Engineering</a></i>Computer,
+	April 1987.
+	</dd><dt><a name="DEMING"></a>[DEMING]</dt>
+	<dd>W.E. Deming, <i>"Out of the Crisis",</i> MIT Center for Advanced Engineering
+	Study, Cambridge MA, 02139; 1989.
+	</dd><dt><a name="DIJKSTRA"></a>[DIJKSTRA]</dt>
+	<dd>E. Dijkstra, <i>"The Cruelty of Really Teaching Computer Science,"</i>
+	Comm. ACM, Dec. 1989.
+	</dd><dt><a name="FETZER"></a>[FETZER]</dt>
+	<dd>H. Fetzer, <i>"Program Verification: The Very Idea",</i> Comm. ACM,
+	Sept. 1988.
+	</dd><dt><a name="INGALLS"></a>[INGALLS]</dt>
+	<dd>Dan Ingalls, Scott Wallace, Yu-Ying Chow, Frank Ludolph, Ken Doyle; <i>"Fabrik;
+	A Visual Programming Environment";</i> OOPSLA `88 Proceedings.
+	</dd><dt><a name="KUHN"></a>[KUHN]</dt>
+	<dd>Thomas Kuhn; <i>"The Structure of Scientific Revolutions";</i> The
+	University of Chicago press; 1962
+	</dd><dt><a name="METAPHOR"></a>[METAPHOR]</dt>
+	<dd>Metaphor is an office automation product of Metaphor Computer Systems; Mountain
+	View, CA.
+	</dd><dt><a name="PIRSIG"></a>[PIRSIG]</dt>
+	<dd>Robert M. Pirsig; <i>"Zen and the Art of Motorcycle Maintenance: An Inquiry
+	into Values";</i> Quill William Morrow; New York; 1974.
+</dd></dl>
+
+
+</body></html>Ytext/htmlUUTF-8P_&http://virtualschool.edu/cox/pub/PSIR/¨$).3Ô_WebResourceResponseOž/* 
+ * shutup.css 2011-11-17
+ * web - peanut gallery = bliss
+ *
+ * by Steven Frank <stevenf@panic.com>
+ * <http://stevenf.com/pages/shutup/>
+ *
+ * Notes:
+ *
+ * 1. If you want to RE-ENABLE comments for a specific site, add an
+ * override after importing this file.  For example, to re-enable
+ * just Slashdot comments:
+ *  
+ * @import url("http://stevenf.com/pages/shutup/shutup-latest.css");
+ * 
+ * #commentlisting {
+ *     display: inherit !important;
+ * }
+ *
+ * Be aware that some sites may be affected by more than one rule.
+ *
+ * 2. If you'd like to just fade comments out rather than completely 
+ * remove them from the page:
+ * 
+ * Replace:
+ *     display: none !important;
+ *
+ * With something like:
+ *     opacity: 0.1;
+ *
+ */
+
+/* YouTube (standard and Feather interfaces) */
+
+#watch-comment-panel, #cm, #watch-comments-core,
+
+/* Digg and other sites that use "comments" divs */
+
+.comments, #comments,
+
+/* CNN and other sites that use Disqus */
+
+#disqus_thread,
+#dsq-content,
+
+/* Ain't It Cool News */
+
+.block-talkback_story,
+
+/* VersionTracker */
+
+#prodReviews,
+
+/* MacUpdate */
+
+.revcontent,
+
+/* WordPress default Kubrick theme and descendents */
+
+.commentlist,
+
+/* Slashdot */
+
+#commentlisting,
+
+/* CBC News */
+
+#socialcomments,
+
+/* C|Net News.com */
+
+.commentwrapper,
+
+/* Reddit */
+
+.commentarea,
+
+/* OregonLive and generic "comment" class */
+
+.comment,
+
+/* KATU */
+
+#commentform,
+
+/* Washington Post and other sites that use "commentText" divs */
+
+.commentText,
+
+/* Gannett newspapers and other sites that use Pluck */
+
+div#pluckcomments,
+
+/* Last.fm shoutbox */
+
+div#page div#content h2#shoutbox, div#page div#content div#shoutboxContainer,
+
+/* The Globe and Mail */
+
+#latest-comments,
+
+/* EW */
+
+.commentHolder,
+
+/* Unknown */
+
+.comments-list,
+#blogComments,
+#comments_pane,
+#commentcontainer,
+#commentsDiv,
+
+/* Boxee */
+
+.comment-container, #comment-container,
+
+/* MLB */
+
+#comment_container,
+
+/* CNN */
+
+#commentblob,
+#cnnComments,
+
+/* The Stranger */
+
+#BrowseComments,
+
+/* Yahoo News */
+
+.mwpphu-comments,
+.ugccmt-comments,
+
+/* Coding Horror */
+
+.comments-body,
+
+/* seen on Reuters */
+
+.articleComments,
+
+/* nationalpost.com (Pluck) */
+
+.pluck-comm,
+
+/* KATU */
+
+.page-comments,
+
+/* DeviantArt */
+
+#gmi-CCommentMaster,
+
+/* Some blogs */
+
+.comments-container,
+
+/* Oprah */
+
+#media_comments,
+
+/* 9to5mac */
+
+#idc-container-parent,
+
+/* Livefyre */
+
+#livefyre-body,
+
+/* PC World */
+
+#articleComments,
+
+/* Slate */
+
+.js-CommentsArea,
+
+/* NYTimes Blogs */
+
+#readerComments,
+.readerComments,
+
+/* BBC News */
+
+.dna-comment,
+
+/* ZDNet */
+
+.view-6, .space-_5,
+
+/* Gamasutra */
+
+.all_comments,
+
+/* dvice.com */
+
+#display_comments,
+
+/* hp.com */
+
+.article-comments,
+
+/* unionleader.com */
+
+#commentscontainer,
+
+/* ifc.com */
+
+.echo-stream-container,
+
+/* creativereview.co.uk */
+
+#feedback,
+
+/* wweek.com */
+
+.Comments,
+
+/* thenextweb.com */
+
+#lf_comments,
+#lf_twitter_comments,
+#lf_facebook_comments,
+
+/* Cracked */
+ 
+#comments_section
+
+{
+	display: none !important;
+}
+Xtext/css_•data:text/css;base64,LyogCiAqIHNodXR1cC5jc3MgMjAxMS0xMS0xNwogKiB3ZWIgLSBwZWFudXQgZ2FsbGVyeSA9IGJsaXNzCiAqCiAqIGJ5IFN0ZXZlbiBGcmFuayA8c3RldmVuZkBwYW5pYy5jb20+CiAqIDxodHRwOi8vc3RldmVuZi5jb20vcGFnZXMvc2h1dHVwLz4KICoKICogTm90ZXM6CiAqCiAqIDEuIElmIHlvdSB3YW50IHRvIFJFLUVOQUJMRSBjb21tZW50cyBmb3IgYSBzcGVjaWZpYyBzaXRlLCBhZGQgYW4KICogb3ZlcnJpZGUgYWZ0ZXIgaW1wb3J0aW5nIHRoaXMgZmlsZS4gIEZvciBleGFtcGxlLCB0byByZS1lbmFibGUKICoganVzdCBTbGFzaGRvdCBjb21tZW50czoKICogIAogKiBAaW1wb3J0IHVybCgiaHR0cDovL3N0ZXZlbmYuY29tL3BhZ2VzL3NodXR1cC9zaHV0dXAtbGF0ZXN0LmNzcyIpOwogKiAKICogI2NvbW1lbnRsaXN0aW5nIHsKICogICAgIGRpc3BsYXk6IGluaGVyaXQgIWltcG9ydGFudDsKICogfQogKgogKiBCZSBhd2FyZSB0aGF0IHNvbWUgc2l0ZXMgbWF5IGJlIGFmZmVjdGVkIGJ5IG1vcmUgdGhhbiBvbmUgcnVsZS4KICoKICogMi4gSWYgeW91J2QgbGlrZSB0byBqdXN0IGZhZGUgY29tbWVudHMgb3V0IHJhdGhlciB0aGFuIGNvbXBsZXRlbHkgCiAqIHJlbW92ZSB0aGVtIGZyb20gdGhlIHBhZ2U6CiAqIAogKiBSZXBsYWNlOgogKiAgICAgZGlzcGxheTogbm9uZSAhaW1wb3J0YW50OwogKgogKiBXaXRoIHNvbWV0aGluZyBsaWtlOgogKiAgICAgb3BhY2l0eTogMC4xOwogKgogKi8KCi8qIFlvdVR1YmUgKHN0YW5kYXJkIGFuZCBGZWF0aGVyIGludGVyZmFjZXMpICovCgojd2F0Y2gtY29tbWVudC1wYW5lbCwgI2NtLCAjd2F0Y2gtY29tbWVudHMtY29yZSwKCi8qIERpZ2cgYW5kIG90aGVyIHNpdGVzIHRoYXQgdXNlICJjb21tZW50cyIgZGl2cyAqLwoKLmNvbW1lbnRzLCAjY29tbWVudHMsCgovKiBDTk4gYW5kIG90aGVyIHNpdGVzIHRoYXQgdXNlIERpc3F1cyAqLwoKI2Rpc3F1c190aHJlYWQsCiNkc3EtY29udGVudCwKCi8qIEFpbid0IEl0IENvb2wgTmV3cyAqLwoKLmJsb2NrLXRhbGtiYWNrX3N0b3J5LAoKLyogVmVyc2lvblRyYWNrZXIgKi8KCiNwcm9kUmV2aWV3cywKCi8qIE1hY1VwZGF0ZSAqLwoKLnJldmNvbnRlbnQsCgovKiBXb3JkUHJlc3MgZGVmYXVsdCBLdWJyaWNrIHRoZW1lIGFuZCBkZXNjZW5kZW50cyAqLwoKLmNvbW1lbnRsaXN0LAoKLyogU2xhc2hkb3QgKi8KCiNjb21tZW50bGlzdGluZywKCi8qIENCQyBOZXdzICovCgojc29jaWFsY29tbWVudHMsCgovKiBDfE5ldCBOZXdzLmNvbSAqLwoKLmNvbW1lbnR3cmFwcGVyLAoKLyogUmVkZGl0ICovCgouY29tbWVudGFyZWEsCgovKiBPcmVnb25MaXZlIGFuZCBnZW5lcmljICJjb21tZW50IiBjbGFzcyAqLwoKLmNvbW1lbnQsCgovKiBLQVRVICovCgojY29tbWVudGZvcm0sCgovKiBXYXNoaW5ndG9uIFBvc3QgYW5kIG90aGVyIHNpdGVzIHRoYXQgdXNlICJjb21tZW50VGV4dCIgZGl2cyAqLwoKLmNvbW1lbnRUZXh0LAoKLyogR2FubmV0dCBuZXdzcGFwZXJzIGFuZCBvdGhlciBzaXRlcyB0aGF0IHVzZSBQbHVjayAqLwoKZGl2I3BsdWNrY29tbWVudHMsCgovKiBMYXN0LmZtIHNob3V0Ym94ICovCgpkaXYjcGFnZSBkaXYjY29udGVudCBoMiNzaG91dGJveCwgZGl2I3BhZ2UgZGl2I2NvbnRlbnQgZGl2I3Nob3V0Ym94Q29udGFpbmVyLAoKLyogVGhlIEdsb2JlIGFuZCBNYWlsICovCgojbGF0ZXN0LWNvbW1lbnRzLAoKLyogRVcgKi8KCi5jb21tZW50SG9sZGVyLAoKLyogVW5rbm93biAqLwoKLmNvbW1lbnRzLWxpc3QsCiNibG9nQ29tbWVudHMsCiNjb21tZW50c19wYW5lLAojY29tbWVudGNvbnRhaW5lciwKI2NvbW1lbnRzRGl2LAoKLyogQm94ZWUgKi8KCi5jb21tZW50LWNvbnRhaW5lciwgI2NvbW1lbnQtY29udGFpbmVyLAoKLyogTUxCICovCgojY29tbWVudF9jb250YWluZXIsCgovKiBDTk4gKi8KCiNjb21tZW50YmxvYiwKI2NubkNvbW1lbnRzLAoKLyogVGhlIFN0cmFuZ2VyICovCgojQnJvd3NlQ29tbWVudHMsCgovKiBZYWhvbyBOZXdzICovCgoubXdwcGh1LWNvbW1lbnRzLAoudWdjY210LWNvbW1lbnRzLAoKLyogQ29kaW5nIEhvcnJvciAqLwoKLmNvbW1lbnRzLWJvZHksCgovKiBzZWVuIG9uIFJldXRlcnMgKi8KCi5hcnRpY2xlQ29tbWVudHMsCgovKiBuYXRpb25hbHBvc3QuY29tIChQbHVjaykgKi8KCi5wbHVjay1jb21tLAoKLyogS0FUVSAqLwoKLnBhZ2UtY29tbWVudHMsCgovKiBEZXZpYW50QXJ0ICovCgojZ21pLUNDb21tZW50TWFzdGVyLAoKLyogU29tZSBibG9ncyAqLwoKLmNvbW1lbnRzLWNvbnRhaW5lciwKCi8qIE9wcmFoICovCgojbWVkaWFfY29tbWVudHMsCgovKiA5dG81bWFjICovCgojaWRjLWNvbnRhaW5lci1wYXJlbnQsCgovKiBMaXZlZnlyZSAqLwoKI2xpdmVmeXJlLWJvZHksCgovKiBQQyBXb3JsZCAqLwoKI2FydGljbGVDb21tZW50cywKCi8qIFNsYXRlICovCgouanMtQ29tbWVudHNBcmVhLAoKLyogTllUaW1lcyBCbG9ncyAqLwoKI3JlYWRlckNvbW1lbnRzLAoucmVhZGVyQ29tbWVudHMsCgovKiBCQkMgTmV3cyAqLwoKLmRuYS1jb21tZW50LAoKLyogWkROZXQgKi8KCi52aWV3LTYsIC5zcGFjZS1fNSwKCi8qIEdhbWFzdXRyYSAqLwoKLmFsbF9jb21tZW50cywKCi8qIGR2aWNlLmNvbSAqLwoKI2Rpc3BsYXlfY29tbWVudHMsCgovKiBocC5jb20gKi8KCi5hcnRpY2xlLWNvbW1lbnRzLAoKLyogdW5pb25sZWFkZXIuY29tICovCgojY29tbWVudHNjb250YWluZXIsCgovKiBpZmMuY29tICovCgouZWNoby1zdHJlYW0tY29udGFpbmVyLAoKLyogY3JlYXRpdmVyZXZpZXcuY28udWsgKi8KCiNmZWVkYmFjaywKCi8qIHd3ZWVrLmNvbSAqLwoKLkNvbW1lbnRzLAoKLyogdGhlbmV4dHdlYi5jb20gKi8KCiNsZl9jb21tZW50cywKI2xmX3R3aXR0ZXJfY29tbWVudHMsCiNsZl9mYWNlYm9va19jb21tZW50cywKCi8qIENyYWNrZWQgKi8KIAojY29tbWVudHNfc2VjdGlvbgoKewoJZGlzcGxheTogbm9uZSAhaW1wb3J0YW50Owp9Cg==O‹bplist00Ô67X$versionX$objectsY$archiverT$top † «%&-./012U$nullÛ	
+R$6R$2R$7R$3R$8V$classR$4R$9R$0R$5R$1€€ €€€
+€€	€ Ó !"#[NS.relativeWNS.base€€€ _•data:text/css;base64,LyogCiAqIHNodXR1cC5jc3MgMjAxMS0xMS0xNwogKiB3ZWIgLSBwZWFudXQgZ2FsbGVyeSA9IGJsaXNzCiAqCiAqIGJ5IFN0ZXZlbiBGcmFuayA8c3RldmVuZkBwYW5pYy5jb20+CiAqIDxodHRwOi8vc3RldmVuZi5jb20vcGFnZXMvc2h1dHVwLz4KICoKICogTm90ZXM6CiAqCiAqIDEuIElmIHlvdSB3YW50IHRvIFJFLUVOQUJMRSBjb21tZW50cyBmb3IgYSBzcGVjaWZpYyBzaXRlLCBhZGQgYW4KICogb3ZlcnJpZGUgYWZ0ZXIgaW1wb3J0aW5nIHRoaXMgZmlsZS4gIEZvciBleGFtcGxlLCB0byByZS1lbmFibGUKICoganVzdCBTbGFzaGRvdCBjb21tZW50czoKICogIAogKiBAaW1wb3J0IHVybCgiaHR0cDovL3N0ZXZlbmYuY29tL3BhZ2VzL3NodXR1cC9zaHV0dXAtbGF0ZXN0LmNzcyIpOwogKiAKICogI2NvbW1lbnRsaXN0aW5nIHsKICogICAgIGRpc3BsYXk6IGluaGVyaXQgIWltcG9ydGFudDsKICogfQogKgogKiBCZSBhd2FyZSB0aGF0IHNvbWUgc2l0ZXMgbWF5IGJlIGFmZmVjdGVkIGJ5IG1vcmUgdGhhbiBvbmUgcnVsZS4KICoKICogMi4gSWYgeW91J2QgbGlrZSB0byBqdXN0IGZhZGUgY29tbWVudHMgb3V0IHJhdGhlciB0aGFuIGNvbXBsZXRlbHkgCiAqIHJlbW92ZSB0aGVtIGZyb20gdGhlIHBhZ2U6CiAqIAogKiBSZXBsYWNlOgogKiAgICAgZGlzcGxheTogbm9uZSAhaW1wb3J0YW50OwogKgogKiBXaXRoIHNvbWV0aGluZyBsaWtlOgogKiAgICAgb3BhY2l0eTogMC4xOwogKgogKi8KCi8qIFlvdVR1YmUgKHN0YW5kYXJkIGFuZCBGZWF0aGVyIGludGVyZmFjZXMpICovCgojd2F0Y2gtY29tbWVudC1wYW5lbCwgI2NtLCAjd2F0Y2gtY29tbWVudHMtY29yZSwKCi8qIERpZ2cgYW5kIG90aGVyIHNpdGVzIHRoYXQgdXNlICJjb21tZW50cyIgZGl2cyAqLwoKLmNvbW1lbnRzLCAjY29tbWVudHMsCgovKiBDTk4gYW5kIG90aGVyIHNpdGVzIHRoYXQgdXNlIERpc3F1cyAqLwoKI2Rpc3F1c190aHJlYWQsCiNkc3EtY29udGVudCwKCi8qIEFpbid0IEl0IENvb2wgTmV3cyAqLwoKLmJsb2NrLXRhbGtiYWNrX3N0b3J5LAoKLyogVmVyc2lvblRyYWNrZXIgKi8KCiNwcm9kUmV2aWV3cywKCi8qIE1hY1VwZGF0ZSAqLwoKLnJldmNvbnRlbnQsCgovKiBXb3JkUHJlc3MgZGVmYXVsdCBLdWJyaWNrIHRoZW1lIGFuZCBkZXNjZW5kZW50cyAqLwoKLmNvbW1lbnRsaXN0LAoKLyogU2xhc2hkb3QgKi8KCiNjb21tZW50bGlzdGluZywKCi8qIENCQyBOZXdzICovCgojc29jaWFsY29tbWVudHMsCgovKiBDfE5ldCBOZXdzLmNvbSAqLwoKLmNvbW1lbnR3cmFwcGVyLAoKLyogUmVkZGl0ICovCgouY29tbWVudGFyZWEsCgovKiBPcmVnb25MaXZlIGFuZCBnZW5lcmljICJjb21tZW50IiBjbGFzcyAqLwoKLmNvbW1lbnQsCgovKiBLQVRVICovCgojY29tbWVudGZvcm0sCgovKiBXYXNoaW5ndG9uIFBvc3QgYW5kIG90aGVyIHNpdGVzIHRoYXQgdXNlICJjb21tZW50VGV4dCIgZGl2cyAqLwoKLmNvbW1lbnRUZXh0LAoKLyogR2FubmV0dCBuZXdzcGFwZXJzIGFuZCBvdGhlciBzaXRlcyB0aGF0IHVzZSBQbHVjayAqLwoKZGl2I3BsdWNrY29tbWVudHMsCgovKiBMYXN0LmZtIHNob3V0Ym94ICovCgpkaXYjcGFnZSBkaXYjY29udGVudCBoMiNzaG91dGJveCwgZGl2I3BhZ2UgZGl2I2NvbnRlbnQgZGl2I3Nob3V0Ym94Q29udGFpbmVyLAoKLyogVGhlIEdsb2JlIGFuZCBNYWlsICovCgojbGF0ZXN0LWNvbW1lbnRzLAoKLyogRVcgKi8KCi5jb21tZW50SG9sZGVyLAoKLyogVW5rbm93biAqLwoKLmNvbW1lbnRzLWxpc3QsCiNibG9nQ29tbWVudHMsCiNjb21tZW50c19wYW5lLAojY29tbWVudGNvbnRhaW5lciwKI2NvbW1lbnRzRGl2LAoKLyogQm94ZWUgKi8KCi5jb21tZW50LWNvbnRhaW5lciwgI2NvbW1lbnQtY29udGFpbmVyLAoKLyogTUxCICovCgojY29tbWVudF9jb250YWluZXIsCgovKiBDTk4gKi8KCiNjb21tZW50YmxvYiwKI2NubkNvbW1lbnRzLAoKLyogVGhlIFN0cmFuZ2VyICovCgojQnJvd3NlQ29tbWVudHMsCgovKiBZYWhvbyBOZXdzICovCgoubXdwcGh1LWNvbW1lbnRzLAoudWdjY210LWNvbW1lbnRzLAoKLyogQ29kaW5nIEhvcnJvciAqLwoKLmNvbW1lbnRzLWJvZHksCgovKiBzZWVuIG9uIFJldXRlcnMgKi8KCi5hcnRpY2xlQ29tbWVudHMsCgovKiBuYXRpb25hbHBvc3QuY29tIChQbHVjaykgKi8KCi5wbHVjay1jb21tLAoKLyogS0FUVSAqLwoKLnBhZ2UtY29tbWVudHMsCgovKiBEZXZpYW50QXJ0ICovCgojZ21pLUNDb21tZW50TWFzdGVyLAoKLyogU29tZSBibG9ncyAqLwoKLmNvbW1lbnRzLWNvbnRhaW5lciwKCi8qIE9wcmFoICovCgojbWVkaWFfY29tbWVudHMsCgovKiA5dG81bWFjICovCgojaWRjLWNvbnRhaW5lci1wYXJlbnQsCgovKiBMaXZlZnlyZSAqLwoKI2xpdmVmeXJlLWJvZHksCgovKiBQQyBXb3JsZCAqLwoKI2FydGljbGVDb21tZW50cywKCi8qIFNsYXRlICovCgouanMtQ29tbWVudHNBcmVhLAoKLyogTllUaW1lcyBCbG9ncyAqLwoKI3JlYWRlckNvbW1lbnRzLAoucmVhZGVyQ29tbWVudHMsCgovKiBCQkMgTmV3cyAqLwoKLmRuYS1jb21tZW50LAoKLyogWkROZXQgKi8KCi52aWV3LTYsIC5zcGFjZS1fNSwKCi8qIEdhbWFzdXRyYSAqLwoKLmFsbF9jb21tZW50cywKCi8qIGR2aWNlLmNvbSAqLwoKI2Rpc3BsYXlfY29tbWVudHMsCgovKiBocC5jb20gKi8KCi5hcnRpY2xlLWNvbW1lbnRzLAoKLyogdW5pb25sZWFkZXIuY29tICovCgojY29tbWVudHNjb250YWluZXIsCgovKiBpZmMuY29tICovCgouZWNoby1zdHJlYW0tY29udGFpbmVyLAoKLyogY3JlYXRpdmVyZXZpZXcuY28udWsgKi8KCiNmZWVkYmFjaywKCi8qIHd3ZWVrLmNvbSAqLwoKLkNvbW1lbnRzLAoKLyogdGhlbmV4dHdlYi5jb20gKi8KCiNsZl9jb21tZW50cywKI2xmX3R3aXR0ZXJfY29tbWVudHMsCiNsZl9mYWNlYm9va19jb21tZW50cywKCi8qIENyYWNrZWQgKi8KIAojY29tbWVudHNfc2VjdGlvbgoKewoJZGlzcGxheTogbm9uZSAhaW1wb3J0YW50Owp9Cg==Ò'()*Z$classnameX$classesUNSURL¢+,UNSURLXNSObject#A´‘i¦wóŒXtext/cssž#ïÿÿÿÿÿÿÒ'(34]NSURLResponse¢5,]NSURLResponse_NSKeyedArchiverÑ89_WebResourceResponse€    # - 2 7 C I ` c f i l o v y |  ‚ … ‡ ‰ ‹   ‘ “ • — ™ › ¢ ® ¶ ¸ º ¼UZentw}†‘š¦«¹¼ÊÜßõ             :              ÷ÔORÿØÿà JFIF 66  ÿÛ „ 
+
+		
+% #!,!#'(***.1-)1%)*(
+	
+(((((((((((((((((((((((((((((((((((((((((((((((((((ÿÄ¢          	
+       	
+   } !1AQa"q2‘¡#B±ÁRÑð$3br‚	
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyzƒ„…†‡ˆ‰Š’“”•–—˜™š¢£¤¥¦§¨©ª²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ×ØÙÚáâãäåæçèéêñòóôõö÷øùú  w !1AQaq"2B‘¡±Á	#3RðbrÑ
+$4á%ñ&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz‚ƒ„…†‡ˆ‰Š’“”•–—˜™š¢£¤¥¦§¨©ª²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ×ØÙÚâãäåæçèéêòóôõö÷øùúÿÀ U" ÿÚ   ? ðŽh£&Š¡™¥À3G”PÑõ¤¢
+)(¢€
+(¢Q@yMå	2¸$Œnã½9ëL#ä õéN%‡‘@ìEEI…nŸ/ÖšP¥E.ÓŒâ’€
+(¢€
+(¢€
+(¢Q@Q@Q@Q@Q@QLŠ( Š( Š( Š( Š( Š( ¯4_:íã#‘žõ÷©"ê9Å"Ð»0ÙÛœv5 ñÅ[ß¥ŠVè*l:®ý¹CÆáÈ'Ó#Šcjû±eÛ»ŒŒ04ß”ŒçÔ¬‡4Â¦žÄŽØ{sM#)sŽ*W|ÈÙG@Hàž?Ä~t‚Š~Ìôþt…HúRÚ(¢€
+(¢Q@Q@Q@fŒÐES ¢Š*€(¢ŠV ¢Š)€QE¬ER ¢Š( <dÍB*Uèh-cHÙõí×½9c–Ü—·”ƒÐ€q‘éïL±Žüt«0À2{V“NçlaE]Zen&‹Ëï ÇéÓòÅ7hqÁÝô«¸R6ºŠ‚K%o¸ÛOéVª§¹œ¨Kìê@Ñ‚2 ãÒ¥†öx"0ä4,AhÙA}ztÇ\STI†•UÀ=	<ûqÍXXÜ(Úïm/B²|È~Œ9L­]Ì\z®¤¶–@öð´(Ü¥÷e±ÉzÃ'­B%ÏßÏ~õ,Ö²BuùO”åOÐŽ*¹Zw!¦Iµd7¡â£e*pr¡¤ÛOIY:`FhI90ÈXàÂO /*9éÉÈúô¦˜.ìnP9+È_J ŽŠ(©QE QEÀ%.)(h¢Š°
+(¢€
+(¢€
+(¢€
+(¥ ¢—b	E/Z@) ìsR¯CLœÔˆ¹àÐiU\€Gfô¨*qÖ¬@A8ÍsHî§aànç­!Lr*Â ÏZc®NzvÀ¬¯©ÓË¡Bå‰ ¬;Õ‹¯õ¸çŽ9ªãžk²
+<ÊŸ¹'Œšnáœ0ÚiÃªýOøU·‰$^‡µL¥Ê¦æ´e-½Ç#ÔRæ¦kV^c?…G¸¯§åÅRiìD¢ãº"Å •`TGBI´1ù[w·CM#©’Ébž—6þ`=Yc¡ä~`õ?„é§GrÙ.âvÚIŽb!a×»§§@r}*‘Ê	z\Ú\YJaº‚H% ’¡VéÁ¨jÃß]Il–¯q+AÊFÎJ¡öª½
+(¢i)M%0Š(«`´Qõ ¥Å¢˜(Å.)Á	è(€Râ¬GjíØóV¢ÓÙ¿„Õ¨6#8!=©Â&=mÅ¥–ÇÉúUÈ´rz¯é[G&.ds‹lÇµ[˜ãÜGzì"Ñ7òþ”O¤ØJM¬÷åMûN@ù†G$þu0Îœ˜âù‘ÅŠ½¦ÍkÂ½ÜhŒuŒ±PÈýkGRðé±Ë/”~íÌD¼Mõþ$>Ì+1,&iR0Ï¯œ©üGÃ¶¦É4ìtsiZV¬ºe×‘+Ë½Á
+IôWû­ÿ ŽŸj¡s¥O§>ËˆÞ9žTÇ·½f<WL¡MÃŽ2¬?‘³¥øžêÝE½ÆË‹^†+…óG·uú©œ£lìuB¤VjQód%w{Šp˜Hp0>µÕ[Xø]É¶¼M.èôŠâLÀçÚ\¿G ûÕMkÂ¦“ÿ vR(e,®¼†êá‡¸${×<é¸ô:ã$Öç(Ý#6{ÔD`qVY>óT%I®£Ë{Žˆ*‚3€?Æ¬˜Âà©ÅEl¹•˜t«gæ<ç©/xì¡p®z’­1€#¥teê2=EE‘ÛšKÈo³"ku=DÛÐa°Aõ«<Ö ¹o›•¬[¹ÏR)+¢sÚ›JÔ•¡ÊÂŠ(¤ ¢Š( 4bŒQš`¿J(« ¢–œ4Àn)ënÙ«[ÆkJÚÇ8&µ…7!\ÏŠÍŸµhÛé™ÇËZ–Öjô­;{e«¾–¹›‘™–££š£¢æµ`²-Ž+JßOÉ-zTðË±›‘‘œ (çµ_‡Oü8­¨4ÞA#S\Æ¿â=Ó3F#²IÀÎìñ…ÿ Ò´éaaÏPpŒª>X”õÝn6vd<ç‚È3ƒè=ýëŸxçµ]…×’|Ì¬r#þõ3ùZ$ÂÞ.ãU“‰%v-óÛ'Þç¥v^ÒVÎ0°¹³½¹š+Ößâv ò¤uÁ†[9Zù¹×©ŒßÃØô}œ0ë—í~_ð#„Óõélä@cÇ~vÿ ˆýGµzgƒ<7àÿ #µÕÌ6Ú”í±-Ô˜¡”Ã)lôiö©õ?‡ºa‚´*·r¦ù,gáN8&7Îô ã¶âx®+Pð]ö•4’i³´n‡‰×ù0ük*ØZ•)µþðÁ
+¶~ñÑøûáãxsJšxÞfåU1ùÌjýá)€Ý•ÎHÁnkÊf³–ó$‹´±œ¯ãè}ŽwúÄ_Nž4Õd¹†â,*O¹‰EôÏÞþúìÖÛ§†<S¶iq§ß°¾°
+ža=w'	/?î1ï\ô)8G’Nïúþ»šN<ÚÅÜòH&h˜b­ê:×S¢xËRÒà{D˜Ic0"KYQ^žþYàuÚ}ëO_øoa^GêV@e¯4Ä%¢ôÖÊýGæ¸Él&Š?:&Yáï$G!ÞWñ«i§¡	‹$h¹
+r2pHÆEUuÚséÍ;Ïo§µ5e@á¥MËèZ”KÙZ5.*a"°ùSë]µ†±àýrí¯´Ïì‹€‹<û¼,w\£qU5Ÿ_YÛCO–ÛVÒú›»ó=›Œ¡ÿ xÆ²œîuSšQµÎH†?täQå+õ>¢–[w…‰å}Ã+£>â³³èhÚê5 Ç|Z£)Üæ¯	œ†³Ï­mNýNJöÑ!¦’M­N@¢Š( ¢Š( Í¢Žhiq@4qæµJâ‰º®ÛÚçbÖÔq[Ö ò×]*.Z’åb¥½–qZÚ0ÅZ¶¶Ž+^ÞÌqÅz”°ænFtn@ùsZvö1û¤V­¥šñÇ5·ed¤øŠï…ŒœŒ‹].SÔþ•³m¤²Fd‘Â¢Œ³1ÀQÜ’kic´±¶{«©"RÒHÜäž6ñôºð{K"ÖºLg¦póö¿¢þ&¹ñÈaÖš±Ó§*¯MƒÅ>/ûq’ÃO”ÃbqŒyÞ¸ô^¾æ¹‹-]"à±³Ü¹+ö‰N	Sèz)ëß½IáÏ_øºçË„y0‘æÎy	ŸOï9ì?æ¥ñ­¦¦ÝGc£Å!š–i¼ÝÊO§»z‘€:b¾W‰uêûîïò=ŠtåJŸ´†‹ñ~†¾—áÛM:ÚÂöæhe–íÜ2ÿ ©e+þ±vž¹¾FpsÍMý­¦éºùÓõ¥œèì_³YJUÈÿ X«»±éÇÒ¸í?RžÒ%L¶ù+²E%sÜØóØ÷®ÏG»ð§ˆ`6zªÍÆƒÍ|­èŒ‚}p}˜žŸ*ÔT—»¿õ÷ž¥áÛu…î…|¾%Ð˜î–ÒC‹›cýà½r~¾„WSmáÛ«XídŠÖAˆî\ü°~Vrð[(}NEx”Ô4¹"Ô<3â´™\!ÉåloBý úâº½?Æº†©%¿Ä}9í‚[»Aw
+Œ\±Æ~eù[*?—Áª»]?ëúÿ ‡%ÓjV–ŒÙñÃ¨yó¬W–¡e@ÇÞÀàã#,1ÛŒš½Â_è'û^ÒíãÊ]¤ŒäŸö”¬=±ôÅ_‡H›ìVÒCq 5,X s	M¥GPJí'œ‚:rÐKªøæÔ´“u¥$™¼±s¾K@rr”{¨ö,9¯?1úÅg	¦ýÛÝlÝúß«]ž†Ô¡]ìÞÏ§£íêq3êž&øömVÖ{¯¶;¸ƒ4ÝlŽÀñýÚ»=ç‡¼PâçT·w’ÿ «Õ4çìO÷°9ìCcÏ5ívÆ•ãÏj±ÝG4gÌ¶m¤7±Võå^ ø]§^Ù]jšK=FøøÓ¤"4=]ŽÑŒáƒ2“Œd‹Âch¥-Zþ½Wšééfó•ÓjkS†×<yj’\À©ªÚF	{›Û<CÖH==×ö«‹–ÂO,Ë‹qêSï/ûÊy^žõ×®±«øråmµ{[.xÎÂ6Î íž=r§¿JÓ–ãKñ0I/à‰ná5GÈOûL0ÿ ¾7v»¬žÄòßcÌJÒÒ¼Eªè·kwc{=¼ëÿ -br®G¡#¨ö9Õ±ªxbêÝËl7Ñ I’öL£Õ—£~ú×<mƒ4' d€0ëõ_ðÍKN,†šgiŒ4O‰4…IÛþ_ôÅXeÏ«Eþ­þ£ce÷Ãù®m$¿ðíì:Ýœc2`Dðÿ ×HOÎ¿€#ŽµÁç¯ØêVr¤¶Ó¼3ÆAIcr®‡ØŽGáRÒê‡=Š×0=¾VAƒU;
+éµßÜk–f-JÞÚ[ÀA¾^É˜z9\+çÕ†ïzæhI-ŒæîÄÅ
+¥¸V……¡’“ÔàV3±“v3ñŽ´Ú»=±Rj£.‹@6Š\RT Qš(Å N‰šÐµƒ8$TVðç­HbÆ08®úp¹-– Œ 8Åj[FJä
+ËŠúÓÏÞf$ÎÞœgÓ5}­Ý¥Û¥´æ8ã;Wn9Çzíö´é«½}³ghŒ¶ñ¼ÒåcK±ô f±ìüs!½E{H–ÙŸnA;Ô×ÐþUbk™o|=áP$hÂ±þp¤þU‹á=]wZ¶‚0L²Épäp =?‚ªµzŠp'¾¡¬ÜºÅcdÌ­Y'´Ñí$½¿”EoË1î}©>•ƒ¬xûCðÅÐ²•%»¹\y±Ûû¯©$sì?Jç¾%ßÉ¯èšNµ£‰nt€d )ýÔœcÌ¡ÆF^yìÄc#µZ0Œ\š¾ÌÁñwŽn<I#Ã½­4Å9ŽÜ—=‹zŸÐ}zçxcÂ·^)˜O 6ºdMµåQÔõØ€õc×= äñX±‹k¬>\ŸÝnÿ C]ŠxŠ[û´‹‚ºE¼p”Ý
+Ž8ùp>ærKIï_/^U*=¯ð=Š¤¾-—EÔØ†ùuÝB×Ážš+5$Íx¶F í‘÷¸ÎXðO ¯rÑ~øOJÐßIþÏŽí'Qç\Ì–CŽ¡»@8¯ð®kfé¹X™œ7Û‘Ä€óÇÌSzu¯MÆ·¾•MýÓ®Ÿ#tka!+ÿ =#Ú@ pN;rW'&	SM8üûšÖn­¤¤¶Û±çºç…¯<%¨\XiVfm.Vgk[œ;£$²ƒ…äc=	ÇËø[J×	:Té¦ÞŸ³LÅ¡÷–_¡Ü;ät¯¡ŸOÓ<_j:^¥¨­†dó@|Ž„ƒ àzqÁÆŸáÅŽ¼fƒR·{KÅC$Z¸	#IPp_Ü}àÅDjN1´ã{ÏÙ½S±áë^%ðMÊYßÄáþí&9xäSÊõèJûõ/x÷AÖc{‰>Ç,€£ÈªUÏ¼l<·çp+ŸCXþ$Ñõ¿ Â¶þ#Š×\ðü²ìG“xBr¯€yö«
+óáÕ–³Û<=$Ö.\¡±ÔAU€v¤¤c¡Ø˜æª*3\ÔØ:’ååž¨õ„ðÄæÐïFœ²É†ŠÔ´•úá­d9G«mÞÔÙuø­å‰u š}Ä@*êÈLk“üLÃ|yþìÊTãïò+x¯ÀW‹§kÓ¼Jù7<1@z#C/ !—Ú½[Bø±£ø¢$´’„î»|©—kbrªîõØ*ºY´z2•ï‡o¬o—VðäÐÚ_:‰Ùcp–÷½Ü*±ï¡(Ø<×Ka5¯,îK+V·Ê¼*æ)¢B°å[?˜üé ¿:]¢Æ@½Òƒa!¹uÌ?ìÃp0‡HQ»dtªÞ‚º¡ûw‡^]3Uˆ	à±W8û‹,DG-‡ç¡`H®*øXÊj¬4hÞ5¹¢©õéþ^žF„šLö:bf6ÿ Oò¹ìåÊõÈ	Æ{Ôädùþ©ð³K¹WÔ4+ÆðýÞÓ'Ù§.Öû3Á,Ãr/«S<fº(üwïø¨ñ¦jö¥öò;åCÁšÜ¢–ó;`1»=ÅiøŽ9®ôÕ¸³Ô$òÁ[ˆ/lãWo® ç¦èÊžÇ'Šê„®®Ìy|¶³<Rçû[Ã†#©Û´Q>ÛV[È;ƒŽßÂW§Jmñ°ÖIºº$Ïm¶|0>¬pßz+jf8Ùu£hg=ì*ª®qó	â;PŸ_ºàt-œžg\ð=¬/vºbÔc+æÍËx‹Â06ñ½N~b… ’zôßAs8é$røÿ X¼†ÛOhõ5°NÒ“D¿ÞaÎàq“Nñ€µ/•¶¡crU.mÎQˆê8 û®èž,×>êaîôß²ÈÀncc•sq‘Á ¡÷¯Mô­OEºwÓ>ÑtñWX˜Ÿ»»€B‚O;u5Ã]UM:z¢”£}ó¤ìÑHñ°•ÈäÕUºÖóÅ#²$Ž$eÃÛ8ª’ÙÈ²"&ÙÆBÆÁéßÚµ‹1ÊµÔÙÚù60¡•ÜkŸ±´7w°Ûr<Ç
+}@ï]ÔÖø¥z˜*NJSù³}vx3šË¸·ÅtsÃíY³Ã×Šª´Á3	—šn*ìðòj›W£fh6Š\RV`oC1V-oášs†ô$R,go:Öv“B%=CœþF½7'ºµ µäÔ"C÷Ú`±'š¿©i²-"9ûS¤ÿ ãçšžÞÑ—^óBƒ]*·Ì3–Éuìkr{KiüSiÌæCå²ÆÒÄçŸaùšˆSNuæHouèKâ¥]#@²ÒíÉT‘°Þ¥WþlA®›Á–ŸðŽø*}^XÂÈb{ž‹®ýõX¼I®øªßGUólˆ¸?p¹ÏN¸Àü3Çž-{ÝÚ’Á4èXDæ1þ½ÔŽû Ž=HÏ¥vJ¢…IÔíî¯ëËc6¯úœ¦«¥ßZ^í#¾þë˜CoäoÇF9û½yä
+ú+áÏ/4Ÿ Üé×ÑmºÔ"™äˆÿ ˜›BŸ|ŸsY¿¾ÚhÏ±«fûX“fnV<ðVÿ h÷éŠöKHð£9®	EÓW{²'S™òÄø0åN+FÓY–#œyÑtÁ<¡þ‡Šn½Zkz¼L"º•«@ÁEgW5Î¤Ú:¸½ÙI¬et”uåYÎ>Ÿ®»Mñ{Yˆb»¹¾šÙ€ó`¸A<D€ÀîÓ$søó^SF*Ã¡º£+RŸ?òÚ>¿V^úz¸JÛ}ÏchÍ?‹~ç¶øvëG½º/£^ÜéMåík}¢Ýælä”¯Ìçåm»‰c]í”Þ@K­FkÛ¥ÉžY@ŠXÉç/*™èT¤g$g?Ym{t–)EÕ¢ž9ù@ôÏTëßŒ÷5êžñ=Ô[-,ï¡ŸgÈ4íDùr¨$qœäp8<qÐR©ÕÓ·‘MI+îoxŠk»c¯[}·I•Æ%¹RÒY¸àï>€‡í‘¸•;«ŸO\4º^¯<Ú|×º<ö†i Bp$?yrFz¯Þaœ^–÷Ìø&ÊF“Ÿ2ÖVñùg“µýÀ=;ô{ªèö0Ú®–ð}¶ØŸ&ÚHå,ŠF2 -#ÀÀà\q³míý^bW£vfDÕô–¶»·‹QÓ™‰IZE‡ `?<Duëõ8â¼³Å_®lÙ®ü7pe‹ï%¼Î3ö$àøÓéšôýNîîú[}_BÓÎŸ­?î<ÛöO*åUs•%~ð†ãÖ™qâKÃÒÛÛx¢ÖÞÙ'“gö…«ÇÊx’ wè+UV2|¤òÉ#¥xóÅ>º—NÔVà6Kà¤ zA9þ xèEw:Š´íqaKi¤°ž3˜ÒÞf‡Ê=Ø&J¯Î7)ïŠí¼G£x[ÄÐÃo}‰aµ¹“¤ã;c}Öí±±ì­Ö¼›Äß	5m"w“EïV2~[”î6ã‡<vÃq÷Eiªó5…D´hõ{ßÇâ­:Ùõ[y.'Sƒo–Þ¤íÉ¸ä”ã9ä
+ç4Ë{íækgkIla—ç·7"8§änGçË~åGÊÌ ã·øgâN¹ákÇË3ÿ ¾‡Ï}èxnýpßí
+ôÆñæ“â-5ç:\73º|§¥›Ê¤åTd“Ùìi]5hšÂ÷÷µ_‘Ÿ¯ê¶ó\Ç¤iÞù—–ïí¬-$d2±Vr3·9ÆNq6‡¢xsJµÃªê-0`‘ËoèÇY
+eYÀ·)Æ3Á–†Ú+$]>×P:-Ã6ä†æfûÃnÈ1N˜hÎ}pãVoõ+»ií­omn­5‚áâ–ô¬&L–†î=ªää`ºó“óæ´µ¶1›KG¹Ój¶aE®¡¥¦±bä6Þ nßß–Õ†	ØSpàŽkÅï-£Ö5gŸIÕ­c»#v¤9àâg>ŸÂØéšõCâÝVÓþÇ«­üMo0tX¤]42àº‚
+Ÿ”c%×“X¾9»ðv·¦I¨YÈöw²Éo4eNqŸá[<ò×’2ÜngÊxÌ­*HÉ)ùƒr+JêK(ï­çke’Úh”¼HÅ
+ž„©G¡ÕRþ%DÎßAÛ>ôÕŒÏ§;¨æÞO›ýÖÿ ëüz¹]¯q+Å´Io¨.¨5Å²™ÈrÀ^Ù®’ÛÄv×cl‡ËsØ×hâ»¨bªQV[J*Nçw(W\£ŸCYÓÅŒÖ¶©smÀrÊ;Ô‡WŠqµþF÷é]ŸX§Uvdò´C<]k6xðMmÉµ×*AŸ:g5ÍVNæaëIRJ¸5q2Î¶8Ë
+§g¦¶Y *$ÚFyåOjÓ¶*?´­¾µ¬c,X÷äàö%h¿4d™:Ú[Zü¤¼‘™< àþ•¡Kÿ 	¨‘—+on]¶Þ¿­A·,ÓóÑ¡aŸÁ«[^UÒíîïƒ:î5¶@ Xçè+uvRí+þæO‘•á»˜¤Ôî.gº[I.C¨œ‚L@‚]—[h* ànaÍuÿ ¾ù·‰¯jŸ%ëåþnÙô÷çÒ¹ïøtk7ª×©emóL_¿}™÷î;úŠöïøHÖX4ÛÈîLªÛôÈâ¹¡Òœ¾B©+hŽ‹NµàäŸå\oÆÿ /‡|%&™ex"Ô¯È‹j7Î±\ûd|¿F5ØßO{m¥ÜË¥Û-ÅàBbŽù#Ä±k·šõÔ¾ Y¢»,ZO4Ø/·¥sVw÷™aÍ#œ¢µukh’q,ŸŸ§R+,¯c\Í5¹ÖÅU&œœSCÅHŽ¹Í"‘bÊúóK˜Mi3Dã®ê;×Y§xªÊýVå[9Ae\ÄßÕ?;à× JµBÀ}j”¬­Ðµ)EÝRøSÆ7Už‘¨ÈÆf|¯'.Ž¼•dp§$``|¸9Šäþ*^ø‡Ãž%±ñ$³ØÁn¶æìà0fm­ÆpŒ1Îyä‘ÇŒi^ ½Òr¸’ûÐKó#~éZÄw»°“IK¹ Žaƒo$™#Ÿàs×èy> V2Ã©¾h?“ý?¯‘½:­;§fv¾ø“ øµZƒ[éš›€íÖè@‘O{ðsÞºß[ßøƒM¶ØÛ\^ÚHf}2åƒÃ}ÒFèx9‚\u¯Ô¼1¥êù‰!ÓæeÞÒAPÿ Csêœz)®—Eñ/‰ü§$š„I®xt0	uo&ï)±ò•n¨sÙ€>Õœàé³I%7ïiù_Ö‡s¡ÞKwesm¢Æš…Œ`ÇáUvÜÚâXÝ¾òúã¶áÐ:æx¼5f-,mîïôË˜]ã¼%¥’Ëýœ9Á
+GÜ'¯Þíšzn£§|@K}VÒüÁ«[¨)¨ÙE¶æÕ¸ù&þZÇî8Ç\rjìWË©^ßéš›Ç¦êËÖÔ¬H’Úú7Ü»Ú#Ôd9É
+Ö<×ÐæqI»˜úî— x¦ÖÞâùíïÒ_ÝÃwlLWŠØÈ_,åÛŽqóƒØ(æ¼óWøq®èj×ÚÏªZ¯Î­n
+ÎŠrPœz©8ïŠîµêúf€l®ü7k¯é%ŒÏyc)àò®©÷þàg‚*ç…î¬µ«e±º¸šT%idÿ Jb¿Âù8“ ÁÆÎ¡®Y»vÜu‰ãvž1gImu˜>Ó‡çt@uàÐ÷Íu>×b³·60µ¶½¡ÎÄË¥ÞË´GîŽØòÛ¯Þ
+©ë]wŠü¤ëîçUµÝ(?ñ2±b?½"£Ý²=e¯+×þkþQ³agóÕ™;‘{3/Uí¯¡5z¥®Àç}$zóÙéúuÔ¾ÖÎŸåBZ}_÷‘+¹‰˜ÙÏ'<|Ý«Íµ}F[›™ïîvâ8A[×’@îI$ž¹ÍgÃâµðyb½B}Õn¹Úx^½WCU/§.Çw£ô‡ùõ¬åªµô*-E\ÎÉc+’]É<ÿ :ŸHo2y-Xü·Q´ð.«ÿ Tds+–=èŠFŠT‘~•2WV0æ÷®1†QM­[Ý2â{››‹hÀ1!eè¡¹Î³^7¶º•>â’’hR‹LeQTI47RÅ÷[CV–ñeá†P<
+š+wcÊ=ëXJ[!¹P0EU«—K¶5†©Ò¨½àGo ª·«Å "FçéæýjÜ8«	nð–IlÑ©ômÊÃðÀ5íN<Ñ3Eßìùç×¬n£‰ž8•¼Ç £Ÿñ¥¿câmZ~c‰Š†¼no üæ¨Þµµ«E,ÃnAû£¹?ç½Ià{ˆm£Ôu9Ç—oÄÜuoéùŠÖ\¼þÉ=¬Z¥ÍØÖñn¯…ô´M4žév€½V?âcîÝ=ù¬m;YÕ¼,ºUâÚ4ó²ê±-ÌlÁXg«žž¤uÆNDwâ^ïY¸BbˆïÚÜáG
+ƒëÓsØ×K¬x¡%ðì¶^ s4‘ù¶Õ|‚§v Â‘‘Øc¸®Z³Sn{%· F-+/™éÚ¿ÅíFðäZœ‹s{wî-T=Ìž€Ï·¨ð‹íFóUÔeÕuIZâöv/ƒü>çÓ íNÒôfgKËäeFÃ¢…Îçwãúf®Ka¥µíÛBN"çñ®'$¥ÌÎˆRåÑŸ{-Þ<ÜÛHZL4~td!^:g¯ê~8ð¶“ãÝ:=JšÞÚþHTÛCb5™xa“óõ0Íh^-—LÒÓLÕôèµ¨np°ÝFT²*áFå‘Lr ñ•ÁÕƒ_³¼˜éÜhòÃGk-XyˆÌSçb
+Ü¨^ZPœjJÖ¸8´½µ¸Óîe³»‰¢š(èã®}k×5ËM/â}£Ë¦Çýâ}9
+M§Lûšu^òøÁÆyÁãšó«
+êÚŠê­¾Ã¤ÂÓ]¬‡kF àü§œçÛò¬Ül#$1¥Ý“HÀŽÃZB0jâÒî¦GjC7tÿ ]ÚªÅpMÌK÷K1'û­Ô}+±Ñ|PŒìöÓñ"”ž6P|Ä=VXú:úà¡ë^b*DfŒ†F*ÊràŠ¾},õ.iž»ak§[ßÅ«h7§Ãš ÉŒïf³”÷å£ôÃ^£å®†o·j>N}|þÕås<:š2µ­ñçýai“†SŒ·+šò-;ÄF0«tÅd8ýðƒG^ãüõæ»=/ÄÐm_*çM”î’Æá·ÛIÛåoàltn8Á4ÔV²üô’÷t=N/ø‡Àê¶þ*µ²kiWdz½šŸ+v0¾ròƒŸ¼à{ròh¶óÝÃ{ªj~Ôîsÿ 4…%³¸br¿¼W*Àçàc1I¢x¾d½Ò•ïoìïíž]"åL¤|ªPäŒñî:d"ëáà’ë;«¿	ßÞÛÊ¡¤Ó™°~éê ñïÐòyß¹+½ß_Ð¸Åµ¢Ø¹}á/øaá»Óµ/í†11x.˜…g<´±Ø¸çŒ÷Ír÷Þ9–Ò9Ö*ÛR—Í	2’	3´´«´*89mÊCq‚[z›ëÃ6£áûÈuŸÈ2ÚcÍò…þôDýÞ¿q±‚ãä)Öm5RööËO[	.ÝšXÕË‘–'’{òÇ¥M:’^êwõÝÎœmÌÕ¿_CGU“ËˆGW#–õ$ÖuÌþaÚ	*?SëRO `ì~r;{UBqZl¬qÊWdÖ6sê7YZÆe¸¹‘b‰«3 üÍzŽ©à«	èW€%ö®±î¹›nR.9E={ôü{€9ï…kñOÚLI*X[IrË!Âñøýïÿ WZêuíNâèÉ3!HQ7Ë‰#ý~RAééœq\ueÍ>^ˆÞŒœ™Ãé'¶œ¦&ˆåy\úðÇò§Üi‰äº(2îáCÒ—AÓeº´Ô^×Ì–Hg	{¶aŽw06îéž£ß[Ü­Ä!Ðþ½êÞ·±K¥În-&êæFXc,ªp[Ò¯Åá¹Ïø
+ÙÒßËÕnãvXÕñî1ŸæjÝô‹o!è€šöpô)Î’©#†wSå1WL‚…QŸSL–  àb¥´½kØØ:xð§oCÇ_¯ZIk[E«ÄŒ‹õÄcëYÕ§¨Ý÷«2¼ú«Þ-ÌñW’3!ˆŽ
+>ïÐëYð¶x­(†6€÷ãµŒ‰¿³o.Öo³Ú=ÅÛH#„4Œùèv@ÏLúÖV¨&‚Ò×ÃvÙ/¿uÎÞKHOïŽ?JØ¼Ô×M²’á°X"ú·jÄÒÙí¢7Ò×·ÞYnÄõoéøûV5”T¬žë_%Ô#©·-ôKS¸ÆàÎÉÑ¤<c>ƒ ÷$÷®'TZê÷¶—nZX'x‹“v±•z&’¯ érê¬ Ü¿Én…sÉà¶3Ïÿ ¯ÔWx›ío¬ÝK{<wHùi¢ +qè:uŸZäÅ¤ »þƒiè_ÒuôéR9%u³“‡P¥=¸üsW5wÓïYÞ(ái;¾¤úû×)ÓÛð0Èz£t5±lÑÞ/ú3üÀs0úzÿ :á…^DÔ•Ó:T}§Ã¹ÑxzH"Ù&õ–x8=N	ðàqß¯N‚IVð#4ª&ŒæÛÔŽÞ¾£5ç‹C0Gè6ñŠèt]PÛJ¢ñþÏ!+žŸ_Jé¤ám	|ËIÐè¾&‡ÄsinÓ®c+q/‰ aò´‘·PêW!‡pyÍvúu×„5VÇZ±ñ]˜Õ·ùÇunakèm1L˜Ú_— 0:
+çãhî%.wL©þóŽ˜Ç¨ú…´–ô­gSÓn'ÿ FY.c7¢:n¿;ûóN¥);Ê$èWño‡<#§ê ^´HÛ	!»¼Ì–è\eQŠÄÊñÎàEyÆ© ^é9wk{»`qö‹9Öx¹é–RvŸcƒí]÷µ+kÿ êV¾%Òä… ¼d±¸¶AM¶ÕÏB6•ù*x Œ½á¿†þñN‡=þýgÃïo¿Ì¿Z°'“÷€ü£9®Wv®ÂÇ‡œ”‡ ×w­|1¹‚Ûíúý¶¹fÄ…–Ìä» /Q‚G¿Ò¸YVHÝ’E(êpU†ö©iÄ@y§–ãŠ‹óFjXÓ°¤æ­Yj7VZÞR ýä<«}ETÏ¹ëÍ	µªÎÃLñÊ¤W¬lnÛTúìoà=p+žÄ×£øÇš–˜‰munÄÎã‹ˆWQŽKv B×„Ï^kJÃ^¹²E…ñ=¸9¿T÷Vê¾¾™äƒNMOIF«Žç£øãÄš-µ“Zø]1_·›2<“tŽA=9^?ZóF¥Û,Ç;yïë[Ú¦³¯¦‰X$’7ÜÞgËrLÀ^[×¹‰¤.ù¨Œ6*­W;y’IÉëIEÌÓáv Öž –ÙfŽ¶ÚÉïHÈŽt:“«Å"’	e+‘ôÅy}µÌ¶w\BvÉSîw×:²ÝÇäÖÍl—)¸Ž¼÷aê	®IÓj£´·ÜuÒ¨¹9:œÆŸtÐþëÎhÌ¬…%2:ˆ°Ì	ùN{žž¼Péu¥%”ªÑI4Sy#’áˆÉÁç·çT¥Á$)çsmƒ ëZºüª.íuHÙƒ]Á·}AŽBHîYÀ­­ÔÊ÷Ñš6{Ï¨_¨ea>Nän7	Áö"³'ìW0\ÝOÐ£‚AûÇ§^Fs€1Z&»co±¤'>qäHOñLÕmnÆæî@¬Ùd;ƒ‚zÿ *ô§°Ñäw}la{ÍÝt¹!†7cç4Žx|¿‘zãŸÒ­´ˆë¹X0õ³cZ=á‚\lnHÎUÇf´G0*ƒèØ«¥+Ã—±Z™Ú¦CýêÊ­mKýHÿ z²k’·ÆR;XO"´!<
+Ì…¹«op …ä'î)?¯r²»2*Ý<š¶±ŒdyPýþã=Ïà?•jXÄš¦¯´ ¶V«´€(ÿ YZë}:îý¿ÖÈßüæ´,#x´h L,ÚŒÂ6aÔ/ÐÎ±¼ùŸ]~Kd=¶:KISU¹{ûL´cNÎGlŸJ·¨®‰ªØÃ.¹ÊÒîVhQ–H@ÆÒ­´ g#'·½g‡Îkm2 Æ[Ûüõú×U§­¥í¼¶/ x¢m‹&w€XPOÖº¥O™kÿ ûz"oäy?‰þ^é6ÇUÒeþÕÒnÄ>xÇûJ?˜üq\PÜ‘•aùŠúÂÎ_êP=¤6{/—42óåèÏÐö5—}ð†ËÄ¬ý‚O±_[]#<Ç*2+…>˜ÝŒÇ5åVÃ5ªÐj¥·<š×YDwÃxí(0úúÿ :ÕkO:8æ‰¾U”r gô5®økVðÕÏÙõ[9-Ÿ$)a•|uÁ£óµRËP¹Óäßðxd<«B;×ŸiS~î‡tj©+OUÜí4›Ë‹)³†Ž6ôû¾â»›nßS‹tdÅBàäõã·|WœÙÞÙjáDEm®úyØV?ì±éô5µÜØ´sÇŸ:%ùâ\å1Ç#¯¿¥vÑÅÁµèÅ*.+š:£ºñ=Œþ-Ód™dµŠîÎ’HçAûâáÕ±ÃtÎp;çªñwñ¥´²Ý<¶·‹çªVNŒ
+ƒ×Üœ×}©øÂ]CÃæÖÕ^ÊöPcžíc´ÿ 
+÷ïÎ}1È®Æk}häÖ´™o<¶	£•U[ÂÛ‘ƒn½ ÖÛÝ¥xú¶“aa¤[Ü5ŽmçÎì|é
+ù²t¶ õ
+Åd‹¿´.ë³ö‰7›æÛƒßÛŒgõ®ŽÒòÎ(¯¿°/RÞ=L›LºÜÍ
+¤‚D;ö…q…ç¡Á#™wá›´Ó[Y´Qsd²wƒ.±	ìG'EsYòÝÈ±ñÂgÁž"mvöŽrÁ³»=ý²qÛ5Ëë^É£/‰>5µÔžþÝ'Ôì~Í©[N>h!Ú]9•„`‚T“‘ëËx›Ãj_êVÖ—JúµÜÆê8ÆLŒk	*“Óæ t¤¢äôÇ	IšÙ“ÂºÔz|š±siw	\‚A*@À'8Ç½cPôsE%plMäÑJxù:%9W4èãÞsØV†¦Oª^Ein…žF Vƒ–ÂlµáŸÍ¬Ï$¥?Ñ­‘¥•ˆã
+3Š±m{qª¥ÄWÓ#&Lb1Ð Nß­{Ž…áý7Ãz,v”G¸>C—àÈì¹Ú=Nü«Æ|]àûï	]½Ä^ÆGÄr©åsÈVç5èV éS\º÷2…Därì¯Ë,Îr„‚z×A-Ê]xOlG’Æ÷ÌwìD}þò7æ+Ÿ’Òï,–ó ~bì‡\Ö¯„åV¿¸ÓeÇ©ÛIm´u2º/üˆ©øf¼Š”›±Ó	ÛC-$€–' 
+îãFk(¢˜êƒ'¸8¬oÁd^Mëºí9äê=ëST¸ö’>pÛp>¦½|55
+no©Ï&Û±J[u¹Ž?9üÈ£ËF€¿62
+®ÄÛ½bìGUúÕ‰¤[K5b>ä`~8¨Fï-D‡-ŽO©ªqŒt[…ï©©ÐdóY±© [s€Ì+¼úÿ hëâjMEÊéÓcž ýEG«2F'·’#üJ@ú×«{Å¤fY°‡ÎÐ–%êÑœ{šµc6í2Æã¯ØåÌ€ƒOäsT<;pDÙò¯#°­D‚H'k‹Lÿ ëa<÷†´¦¯Év°=Í{HÕo@9g‰.zŒcÆºë†hP4k€ *È8#×Ž¼×b c!šæMÊ@OPL{VÅ·ˆZViâµÅ¡l&ÆËc×¨üs[¼U:N´­w FJ×TÕìvSÛA<k“*Wr½€`Øç§LVÞšëenòcÌžGiYS«1èÐ 3þÎkŽ±¼Y—|roSÁ ÿ œVÍ…Û[—0’Üå±ÀôúVµ)sÃš.èç’iÚFŸŠ4‹SÃw×öÜÏsµ#¤••ÈU+ÜœñÎkÇ¼oðOSÐ"mGE©iÛC² ÌÑ¹#ø‡¸ÿ ë×´Û•¼¸·žóä±xmÜrN1½¿p:àîô®š¬ž¼×‹VÊçp>(Q¸È"º+/Ýiéj—çÍR7#+âh×·>‡Ðõ§9¯ ¼{ðŸÃþ&†}NM'PU25ÂŒBøä™ù°ç×5óß‰´óg¢¸Wx·D'‘Òe †^¸Éò <`pÎ•ÖÇ]ík§¸ÕEÝ²Ol–ó)æKˆ—k7z)÷ïêjñ×tm7Bº3ÃÀôY£Ü]û :Ô–íõÀ¯/´½ºÓ¦[JÑ¸î_¯­t–z½žª¾EÀKiÛ›ýSŸý—ù})ÃV„9¨ìµ:Îû3"#RžiaŽÊXg˜ºÅ#)r§çEÏ,Ã#ŽOãZúu–§áý/éZÚÛK×Ùe´@ÂUl1ù×JÅ×‘Ž9ßŠ]}-´}~Æã|Cýî)s$²Œäç ëúŽOMÔ5mZsiÞC‚“A{Ê<9û²äàœä`à‚0sFr•Õ¬Ì§O‘êu?.RïâF•xmVgi!¶Pª	ùUè£¾áYú°#â?‰­C`Ï}y¶:#ñÚ£6“êV’Å=Ë³’ÒfÂ;…ÈÜÛs€rûèjöe§è~"²‚+u—k4ê	»×Î½ÂJÍ­µù3«·…õ¿][F–7P›ý:ßÊžÎAµÆ¡@\ã£*»±ì3“NxWâg˜4§ÿ „oÄ;™ZÆåvÇ#¯ÞP ÆFJŒŽëÎkÎþÛ­ø;ÄnÓJëym!w®=u5èìvž+Ð†µ§!ID‰=Ôq’dVQë‚9Ç^9
+;­ZJ¤`µ]?Q=ugžøÁ:÷„ïÖÇW°{gvÄr±Lžáþî?;â²õ]ÿ D¹º¬–Ò”(~Œ§£)}Gî>
+ø›¨ot?ÉoªøyN ›PMÒ69ä·P;Ë>jå|qàëO-×‰¼)ªO«ÂI–{YÜÉ<[ŽIä€OCÏ¹®ENMhÙ[÷G|Ñ(üií¹¶©#Ö¯Ål-ãË}î¦ˆC™ƒ#
+@Ç`+±Ñµ[iÆöXÒçV¹AäÛ°ÿ T3Õ½;šáÚéÌ‡9BGJj!y„~`ÞX|åð?3øWDkû7î-Iq¾æµßŠõ‹­SûZ[ù…Þã$[+û¼ÓŒÊ»<D<cáûíe7vö¾l³³©ÞêÜtü?Ï5æ~fÕ!)nŸ½ÎGôü«kÁ¤Z+Kå£‡V9Ær„cñ8ðÕ¤ªr½T´1J*Þ‡_¢YA6‡=ŒSI$ Ç%YèMr×¿Ñ$[Øn#‘íÜJ»3¸m çÓŠÝÐ®m'W@ª¤æE)Ç,ž¾íIö6+qÝç@UÉïòŒçñèÊ4ëR‹k[~¶#X·c*àEkâÛ™!…VÐ.aUéJ¢@¿€m¿…eø†õÞóÈ÷hWß¯õ«ñ^ãû=$ÞÛ<–L‡¯—Éõù™¹=±X2¸ºÔZF?+HOáŸð¯;žÔTsV½ëš7ÓµÅÍµ¾=Àüÿ •[Õ?3ÜOtã¿çéWõ®ˆ>dåÜ‡ØÎÔŽ`üEdV¾£þ ýEdWŒ¤tñœU¨œÕ$oZ³^œY³Z;È·ÏåÎ¾½ëZZŸÎ±]!†SíòŸ¡ª±?5zÝÁ±­ ­+ÅØ^¦¨˜$O"ƒ.Õ'br[¥pÖž&»°½™Ò$Hd|µ±*óÐÒ»$Uàm qM¿Ñ´ýe?|stYS¿Qõ¥ŒÂ<]5oB¨Ö•sGBÆ…â+mR\‰¾É1?,€ôã¡^ù®ÖËS{0¯hIcû»Œ†‹Ø•ì~¤nõâz—‡µ¾Ð‡Ì…OEÛê;WGáoˆohËk©’Ð2ç,?.ß†+åä±¹sµ-cÖ/úüjpøÅË[IwG¦ë^/µðý™ÔoÚY·ÈB|Í#ž¤ûš“ÃßôjhíVy¬î_„K sèdìqšæõŸ/Œ4 t}CxÝæ¥³È98?w¦zžyÒx\i$Ž5‰¤ŒbiB·ÇéÑÍãŒšTãgü¿™çb2÷FîZ®ÿ æ}Seª¬‹¶b;šã4O	x}5oÃòZ¥ÞŸq3¤R>ñùƒõ»'Ô¯ÒuïxkSµ‡R¼¾µ²¢ÊÓ©š4<•ƒéé^Ã¢ø‹GžæI´Ý[L¼¸—x—ìÓH ã*ÿ {§MÄñÒºJr—/ÂüÎe%Ö§ã¿‚Wº7›áý÷ö+–kr34CÛûãéÏ·zòY#1±*Ã‚;×ØVþ †IÕœ}¦5ñã çƒÈÎr>5øi£x´Iu‰ûDcåÿ ¶½þ½~µœðÍ«¡Â«NÒ>|°×¦µAÂ‹›qÑ\òŸîžÕ þN£lV9á-¸¦pÈz§zÌÖt;½ê[{•RWˆKÝ²ãpSßôÍPŽY `ñ9FÁ¯=Ã•ñªÚ´µGmà{ku}¤ÜiºŽ¡¨Þh³t 0ÉbÁˆ€?#]Ö½áÿ éþ:&£¤”Óæo;*¢G¶`ÛŽLdŒÏ>ýy5ž¯Œ¢älpr²)À±öü+CV¹Õõˆ™§Õï®T»qtò)§RkhUq\¯T'M=bw~"Õü7âØXjv·6º¥¬D÷ñB’Ê frç8<Ô×)áûù|3~“¼åíA(Ãh]ÉÐey ô<wÏ&®xRîýôYôÖÑ#º6‘Kr×³H©0àum¤“»8 ä’qš…ä÷Koo,3Â›žŠ:à¯SÔ÷­ÝXG–QÜÍDèüM¦ÛÞ2êZASc9$ìà)Ï8¹ê=ÇcZžðßŠ-,ŸÄk‹o/äÀC¶tïÁ\d`Šæ´&º·—û7Êk‹{â¬k—û2__Qï‚=/Á’ø¾ÊÒH´-B´¶9}2ë€Tò3ØóÐŽz×DcÞN?×‘”ÛKFr÷¡xšè5üøsZÎÓ0ÙLßí½÷å~•Ôß\·Ñï 6Æã”—!’Dþò0áÆ=+wÄš¿‰ç:]Ï‡eÒüA‘™xò‚ç–céùúÍnøJÐhºqÒu)–{V“0™Ik|çƒ·; lôe g¿jÏšêr_~ŒiJPæ±ã:öuá]jëEÔÁV…ñ½W!”ôuõsøÖmÊ=¹0‰„’J«qÁúóß‘_Cø¿ÂPø®Ö;+“+]Ä
+Ú<¥MÂwØ²p³¯û-µý7sŸ$³øi¬M¨›iU*ÄÆvñ× ŒƒþÉ ûV*„å.X¡)«]œ¶Ÿ¦Üê—)¬Lîç (¯HÓ¼káÛ	ï.q5äp»ƒü1àvõ>õBÇS·ð½ÅÍ«BØ¤RÐ&%ÊœÍŸº}Þ©iz¶¡s¡kÝÞI<~_–«)$©?þºí¡®ž²×åaK™ú|1s‹†…¸2~\ëU.ndK}!‘È\@öz¾¶âÆËF»§ç>Å‰þDÖMø"ÊÑç”’¨ÿ ¾þµ“¼)r¾ŸæŸù—Öæöª¶ñC5×’žr¡ÃíÏnk‡RCÕÔø–|Yªþ±Æ}ÅsvÈ€·Ý_˜þž2W¨¢‚CA"Åd8-ƒ!ž*óœŠ¥§ÆYžæNY‰úÕ¦5¤/Ëq2Ž¢p~¢²kRüæõ¬ºä­ñÑ¶jÌnj’75f6ÅvE’^ê¶¯w-½¨ò‘€Ü)ÈÕ8(Û"«¯`Ã5³¼¢ÒvÍ®¥zŸvîqôÕˆõíJ>—’~8?Î·…¡äÛEø(¨®fÈ’Úfäì¯Zæö5 ¯Ïo¼»öE(üW«(Á¹VÁÿ …fÜL.¤2lŠ=|¥*á]m¶“¢Þ –;tt=•ØcÛ¯txoCgìÅÞ·™­^½Hë;¯˜”âºž•¬j:Lˆö—xU`ÁñÅzÎ‡ñBñZÅaâ(Í¥þvÇyÔúïÏ#ØþuÆø]†á3mYnãU$ðÖ‹¨†MP“íŒ²JrèãÍyÕòw;J-stiêvRÆÊ>ëÕ·yÖh÷R)Ôì ?é6©œŽûÐà©ö®`ê¾½9º²·Fn¤ÚI?ŠÖ¹m'ÅÞ)ð«Á¦´l§|r/¦zìJ×¸³ð·ŽÓíº]Òhº·YlËlŽO÷	àcùÐ³^÷x¨©%Õ­~cxz5½ê.Ï·õýz‹{àmøßXÞ¬Ràª¹r>\7l‚}rk¤oh¦61_Á;‘R©cl×”ÇðûÍwŽ=rhæ‹ïÅ,dúüÝ=úU{j^+¬%í­ÚÚ#G*6gHïqÖ½ˆN¯'<`œ{§ÿ óåN*V“wó;­>ÇO××M´ºŠ+›{3u#'’ùÌAÉ9 #¨±ë\—‹>\Øy—š&û»QósÌ±oï×ëÖºíG[ÿ ‰ž‘¤i=®ö¨a¾¹™nFò8p«•]¹zõÆG5ÕCs˜ÈÏzº8zxŠoAT“ƒÐù…«x#‚Y´Ôf´ùGÏ÷Oo§¥{GŠ<¥ø‹tñâÎøÿ Ëd9ÿ hwúõ¯"Öü7¨h7Mä%TŸ’Uå{óq*”5jë¹­:·ÙêLÚËGg4v·SÇà	`Þ@bFìp@ê>”ïè—zÞ£¥ªo¸œñžŠ;±öÅd[ÀÍ \g= ç5ï¼2ž²û]Òt¹lŽc^¡~½ÍZ¤¯ÑZ–Zº5øe¬	5«H¯,nÐD/¢R|’zŒ>ä;ŠÜÖ¬?±îá×´©wÛ8/æFr0zž:ƒÜwë×5Ò^}›Q¶–Úê4–	k‡‘.üÎˆ_PðìÍóÄy{b{óÏ±æ½eMÃÐäNîýNR?6‘â[èõë3$Re%FùÕ9Û†î¼ò=kKXñÑÃöMJ‰.¾X>bÛ3ýà2@è~3†ëú›ry¢m:^mîPó	?Â}±è}ºr¨5¿ ]ˆJÜX\ƒ“`duÏ*sÊ7øpkÄÆà§Ìê-®¿æz4kÙr³­ÑüI«è†m>úEÖ4øÇÊJÊ=:cÇLWGmâÝ3WqåÝî˜ª““¨ìùÝì­¼zc­pZV©mwÌÖR…šXŠKˆ•8'hã¯¿NõŸæ«u$º=’Ïº’é Ïš?ˆ@=~¼ÓÃâÝ;F¶«¿T(§¬A¼Ñ´[ûé//,RæQß¸;@ûÎ™=ñÀq’“ñ™i¤è7¶ìH£$ä“¸cš]#WKàŸÙÚŒÖ—)óK–.ú£pÃÛ"¦½¿‘×n£`>RKÎ„ƒœ9ëß¹;{mÆTÛZ¦·õïoøs&¶*ê–ŠÚKZ¯ü²Œÿ €ŠãgÍc¸žEÃŸ¦@®Åoâ¸RcuoQšæÅe{»`ûDrBrâãÌÓ‡Uo¸¸;nWñþl–ñç¤y?ÿ ª³âœª(ûçÓ¨©¯ó> È¼DcùVºB‘ÆŠ|ƒ â¸9ZŽEì†,kj‹÷Tb¡‘ªglUW8®†í¢$­zs	úÖe_»oÝ¡\5_¼Z5UªtcUªdjéR$½U˜Þ¨£TèÝ«xÈEõl÷¬b)Òí¦1‘`ŽŸ¥l#ÔáÃ.Ò`ƒÞ®¤Xò‚v0m5ia˜KÈØ(R@W c;û×BoN«§Î¶ÜNWiBÝ	÷ô¬ëÞpZä¿ û§ðíPZ[ê3ù‘ ž&Æðƒ?ýzÆš«KÝ–±-µ-z•&Ó5(Nç³˜{ Èý3LŠõì®Vh|ËyW©ï]Õ´¤¢“À<ý(žhÖ)aYº†]ÀV¯¹£+¦Þƒ<9ª>¹ö÷….bP¹Ç9ã§=)šŸ‚"-ösm(äDÌqŸcÔ~´&«g£³Ãä¤ vª…Ü}~”\øÎÞ ‚-¥€ÞÜªŒ“‚OÕû‡K–¼®ûõ'ÞNñ(¯‰u-ÒÓZ¶—z’`vº¯O”ŽßN=»×Eç‰|9rúK®§Û¼ Ù* A;ÓœznVKxƒN×§m:æ8åMåbpNœPFFGãÍPK}WÂWƒPÒ&‘âŒä…?2Ÿÿ X¯&¦¥JxI^/uÿ þìuRÊºùšÚ¹&£âƒqsj,^ßMŽÛËÞHÄac<ô=yÍt7zåÄPßjÞ$Zvž›Y#hÌ³ÌØØlœçpí#=ë˜±¾}r;LAM,­ÁÂ©ÀüÉüMK©h?Ú¶Æä´JòüG ’áùqë]´'YaÔc£9çs·ÐítPê:}µÛ'–ÒÄ¨9 ûRê?e¼·x/!IánªÃ#ÿ ¬}ëÍ/µkýS†u ¶¡@[|eQG@Gõë]f‘Æ«h±ÕS0-’/R}Ç®~£°¯R¥4àÖ«sŸ“ª*èZn‹áÝRëXš/µZB	JmìTz“­v:%õèÓ#}Hí¸r[aä¢“•R{¯%ñ@¿Ó/…“y‘¢7˜Œ¹Û#@*{àþ¾õÝèË«Ë£C>¯q¹‘sç\È±¤q¸žü×.­8Ô’µ’û*E´‘ÚijG-È‚Ô±2ÌxÂ€Oë“žqš¥â}&Wh#ÑõõÞÆ0ÓY)…àïè}qÓµ^Á­^x^ÇDñÕŒ?a˜\Éepr\*8áºƒ–ãÐtÄE®êö÷¶ÖŒ’M$"™g;•Qxàzb¢‰W­»ŠBpŒU¬útºM>ŸºÓ&9¹°c¿í'ùüû2ÆæÚæ/³åol.FÕV,¸G÷ÇníŒu.»×a¶›©¼•f*¤FÎxîqôô¬i£µ™å»Ð®VåN>Ñ«Æ®yé¸¬1G­tJpRjŸÝýt%E¥yZ÷ƒ¥ÓœßèÒ4›Ë,ƒÕOqúýk;IÖ¯>Ò‘[ß.O³µ«6â¨ÊÙÆA?Î»4Ö..m>×§EÅí¶Z{[„È•pC¹#9#×æ·œ¹Ò&ñ\ºÜŒNg`÷R”‰.&?1@¼Ã=të^&&EìÕ¿+öGM7$µÔžçK·Ô/ãípÁtÎ#[„eDi¡ÈP¿ˆ¨¶¿{ld±¹%Ê6Øæìç=××ÿ ×\õË\Ûí³»VQ$dtÏ\â–ÖIf»ƒÊ]Þ[¡»ã¹¬(J¥)rÅÚû—QÆzØèSWwŽg‚;fŽ,7`ztË×üóA¾ß<€.TR8£P[;™c[†Xß®ÿ aÔ{ý)ÑÏ"˜ÎWWm%É/få{le-u±go#j,ò£.2çpÇ9ÿ ëÖ›œT®ÜzUgnµQŠ¦¬Fär5V‘ªIÞªHõ”¤;\6PÕLšžSj½qÍêR.£ñS£
+¢­Š±+hÈM‘°jdz¤’TÈüæ¶RuZ§Gª*õ:>+hÈ’ò¿5a$ VrÉÒ¦I+xÈD”ƒQÍLèñNÐH ÁC±ªÂ^•"?=kVÓVd»±¹›t‹©ÎÎÇsyøý:VNr-µu¾º’Ñ¾ËËËVf „]¼d–#ð¼$ÅbÏá¸ß›y™N	Ã~ƒéšäÄPnÞÍ[qºL÷,écm—nnáØ¢–ùqüxÎÜ‚p?•¿y{w$Ñiºd/>¡tû"‰$g½3JŽk[8á¸“{¯§@=+#]7ÖwðêVLð´kÄÐ±WC“ÎGNµIN…Öì4”­[P¸ð8m'G¿K¹f ^‰%ÏÎ]¡Èàp<çŒU}5uBùu=jgf‰6BŒŒp£…ýk'GIu=Lê€‰87c öïùWI$àÒŒ->kT–ËdvÑÇˆ´£Ä·†}æy0ˆžÏ ÅU°Öu<!H9 ðE[Õµ!s)Pß»ˆþf±$ófÌåfpjã­%ŽTßõÔ¸«-MÍôê!µ3ƒ$K»j¹û¸SƒõÈÛ^¥®¯·ÚãYšÏt{[ `¯Êóï^áÈÄz‚]9	,ìp#ñÍwvº¨±ó˜Ú½å¥Ò*Ê°]
+Ÿ•Ô‚2?‡ž+³ÿ sÍ%}I–çK¥<]ae›®Yi„&Ü™]Qò /*z‚7€A“œŠ§¨xóÄ>[	ÀÚ&«h-Öî8¦Êÿ ²Çp öÎx›X·Öí­¬­¼/mbJ}¾çv3ÉÚ›@ëÐç×Ö¨øn3›¹ ‚?^+Su*Ùì†åes§‹O¸–n­6JÒ+«ª
+ÇƒžøÚ~Œ*«_EMF?.å~ðÈ?ËŠ£q+Ok{we+.­¥)»Ó uªšuÍÆÉ$»¾¸º`v<±ÛMÞ¹®èJp©g¶¤6¤‹—VÎ.öÉÄ‘CuŽÌ;ÔBÒÎòGÔ¡	C´Ù†?¹—³Ý zàó‚Ò€ã ÔFM’‰“@
+ò8e<oPGøŒ*´ã))Åký~"NÚukÝ,ÙKcw¥;^³‚—­q„Ž<ç*~÷c–#³Y°Z!rŠ²·ñ,ŠpÈFˆ5£¨B—i…te¾b§ß×úúv¤»º½Õ&¹¹Ô§3Mrìì2v¦âNÕ”dà
+à•)9Êúß¯cE%dûßØÏ8P¶6ò¾]qÆ9ê9ý+..-¥»–.¿ÄZ….Ì3Ü´Ìí¸î$àÿ õøü¨g¥zEÏt7-]¶íP;àRÈõVGÏR‘)‘ÅU‘éÒ=Bk–L¤1ÏËPÔ­÷MEXÈc³R+â¢¢„ÚÚIŠdÍPVÅHZÆ@h¬‚¦I+9%«	 5¼dI}^¥W÷ª+%L’ŠÚ2&ÅÕ’¥Y1ÐóT–Jx~•ª‹âOZ‘eÏ¨+ž¤Ôªþõ¢À¾²àb¤ÆAúÕþôíýy­ÄXÜ¦ØÕQzáFcêú™Ž?*6"Gz
+¼Í¸m®NEšæí‘C<Œä+›UÆ<±êTR&´¶—Q¸GÀêÍØ
+ìí­`··[d@c0ÎïRj†™hš}¸AË·.Þ¦®‰}j¨RTãw»	;šzW‚õ/[^ZhÈÝVB7mù‰Èè	Úzã§®+§¿ÓµZH¬u­4hþ.HøˆmêŠ?‰Nß7Ôó{+ÓõkÝ&ãí:uíÅ”øÛæ@ûr=èG±Ít‡ÄmgZÓMÖâ³Õ¢?4s4^Dð¿gGN‡o—úÖucUTç‡A«ZÌç®U\4W0Ñ71È*Àúv5žuÒèì *SÁr;có®—KÖì¼U9³ñyzè@‘]Ûöà>èféæã ÃpC'† –YG¹K‡BÂHvbD`	ÃÐœcžüVª¬ª+ÅÙõ¬s“jE°žIÏÊûÏÓåÍ>ÓlÓ)Ô.Þ8‡÷ar9àòç àŸ`kBëMžÂ&—Pž;M¤’IôúŽâ¨yÁ€*á”÷ Òi½‡¢èE¢)Y7gbIÎ;Œ•a¥ªùU$… ž¤
+kIŠqn*Ì—¨öqëP<˜éLy=ê’¦SÍ%@òSZP*³É\ò™VI=ê³ÉC¿55Îåq¤Ó(¤'5oºj*”žEYÈRRRæœQ“Iš(áÈ©VLwªô¹5JVêKS¬µš®jU–µŒÅcQd©Uÿ *ÌY½êe›Þ¶UcId©˜¬åš¦I³ŠÕL›ƒç½<?AT–ozKÓšÑL,\žÔ‹k)™QD„`¶95[Í÷§	sÖŸ2{pH)|Ê¨$—Ì¡«çhIN2fª	Aï@“Þ—8\ÃÔe$î°ê§Ú®iÐ¾µöÇÕff›N·ûAº¼‘†Uäÿ x^zãõÎ2Ž™¦<Òš	š'é‘ÐŽàŽâ³“W¹IÞ!´¿ÑþÏp÷W²©op»w)ä 89ÁÆrr0xç8žfg ûUs ëÀ'®*6˜zÔóƒ»,´žõËÅVi½ê›Þ¥ÔB±aæ¨_z¥÷¨JÅÌ«<µ>j2Ô€â²r¹VœÒfŒÒT€SiM% #t5JÝEQ 
+(¢@8¤¢š))sL—&“&ŒÐÃâœ$>µ.iÝ`L}jUŸÞ©K»jVžž·+4HGJp—Jb5>ÑJ'È¬ß4úÒ‰MW´afiý£Œf”\f³<ãNój~Ñ‹”Ñóýé|úÎó}èóÑ‡)¢g¦êšh2G;šozŒËš¬\úÓwŽfÆXij3!4Ìæ›šW‡÷¦Fi¹¤³Fi´ìR ¢—b€­!ìPF(÷MCS·Ý5K ¢Š) QE RÒRÒ)i)h)ri(¦6-Q@…Î(Í% ìÓ†}i¦œ*€ZQIJ(.=éET1ÔRRÔ€b“êm6Rt¦ô¤h¢ŠàÞÔÚ ?9íFêAE;€¥ý©¦OoÖÓMÌùSòÔ4óÐÓ*XÿÙZimage/jpeg_?http://virtualschool.edu/cox/pub/PSIR/MachinestsToolchest50.jpgOUbplist00ÔfgX$versionX$objectsY$archiverT$top † ¯"()012JKLMNOPQRSTUVWXYZ[\`aU$nullÝ	
+ !R$6S$10R$2R$7R$3S$11R$8V$classR$4R$9R$0R$5R$1€€€ €€€€ €Ó#$%&[NS.relativeWNS.base€€€ _?http://virtualschool.edu/cox/pub/PSIR/MachinestsToolchest50.jpgÒ*+,-Z$classnameX$classesUNSURL¢./UNSURLXNSObject#A´‘rmOßÈÓ3456@WNS.keysZNS.objects€©789:;<=>?€	€
+€€€€€€€©ABCDEFGHI€€€€€€€€€VServerZConnection\Content-Type]Last-Modified]Accept-RangesTDate^Content-LengthZKeep-AliveTEtag_"Apache/2.0.48 (RedHat Linux) DAV/2ZKeep-AliveZimage/jpeg_Mon, 08 Mar 2004 01:11:28 GMTUbytes_Thu, 08 Dec 2011 22:30:42 GMTU21018_timeout=15, max=100_"ac814d-521a-58529000"Ò*+]^_NSMutableDictionary£]_/\NSDictionaryRÒ*+bc_NSHTTPURLResponse£de/_NSHTTPURLResponse]NSURLResponse_NSKeyedArchiverÑhi_WebResourceResponse€    # - 2 7 X ^ y | € ƒ † ‰   — š    £ ¦ ¨ ª ¬ ® ° ² ´ ¶ ¸ º ¼ ¾ Å Ñ Ù Û Ý ß!&1:@CIR[]dlwyƒ…‡‰‹‘“•Ÿ¡£¥§©«­¯±¸ÃÐÞìñ 5@Kkq‘—­ÆËáåòõú&4FI_             j              aÔO	ÖGIF89a¶ ° ÷  ÿÿÿÿÿÌÿÿ™ÿÿfÿÿ3ÿÿ ÿÌÿÿÌÌÿÌ™ÿÌfÿÌ3ÿÌ ÿ™ÿÿ™Ìÿ™™ÿ™fÿ™3ÿ™ ÿfÿÿfÌÿf™ÿffÿf3ÿf ÿ3ÿÿ3Ìÿ3™ÿ3fÿ33ÿ3 ÿ ÿÿ Ìÿ ™ÿ fÿ 3ÿ  ÌÿÿÌÿÌÌÿ™ÌÿfÌÿ3Ìÿ ÌÌÿÌÌÌÌÌ™ÌÌfÌÌ3ÌÌ Ì™ÿÌ™ÌÌ™™Ì™fÌ™3Ì™ ÌfÿÌfÌÌf™ÌffÌf3Ìf Ì3ÿÌ3ÌÌ3™Ì3fÌ33Ì3 Ì ÿÌ ÌÌ ™Ì fÌ 3Ì  ™ÿÿ™ÿÌ™ÿ™™ÿf™ÿ3™ÿ ™Ìÿ™ÌÌ™Ì™™Ìf™Ì3™Ì ™™ÿ™™Ì™™™™™f™™3™™ ™fÿ™fÌ™f™™ff™f3™f ™3ÿ™3Ì™3™™3f™33™3 ™ ÿ™ Ì™ ™™ f™ 3™  fÿÿfÿÌfÿ™fÿffÿ3fÿ fÌÿfÌÌfÌ™fÌffÌ3fÌ f™ÿf™Ìf™™f™ff™3f™ ffÿffÌff™fffff3ff f3ÿf3Ìf3™f3ff33f3 f ÿf Ìf ™f ff 3f  3ÿÿ3ÿÌ3ÿ™3ÿf3ÿ33ÿ 3Ìÿ3ÌÌ3Ì™3Ìf3Ì33Ì 3™ÿ3™Ì3™™3™f3™33™ 3fÿ3fÌ3f™3ff3f33f 33ÿ33Ì33™33f33333 3 ÿ3 Ì3 ™3 f3 33   ÿÿ ÿÌ ÿ™ ÿf ÿ3 ÿ  Ìÿ ÌÌ Ì™ Ìf Ì3 Ì  ™ÿ ™Ì ™™ ™f ™3 ™  fÿ fÌ f™ ff f3 f  3ÿ 3Ì 3™ 3f 33 3   ÿ  Ì  ™  f  3î  Ý  »  ª  ˆ  w  U  D  "     î  Ý  »  ª  ˆ  w  U  D  "     î  Ý  »  ª  ˆ  w  U  D  "  îîîÝÝÝ»»»ªªªˆˆˆwwwUUUDDD"""   !ù    ,    ¶ ° Gý ø@Á‚*\È°¡Ã‡#JœH±¢Å‹	:<ˆ±£Ç CŠ¤È±äÆ‘(Sª\Ér¡Æ†/[ÊœI³æÀ˜.ÚÜÉ³§Gœ
+9úJ´hFˆ%Þü§tiS£P>%È´ªU¦"§FÝŠkÎŠUDh&×³_Æôªó«E¶7©’5‹¶îI‚5ê›5çX ZíJ‹q®Þ KÎ=ŠT°ã¶3–U,”ía¼rùFžøqÏ«:Ëb5)”pÈµt=¾:ºõXƒIÕšžÜÙm\Ùª[>•ýtD¥µƒnœ»0N¾a5#æÉº¹Øäwíªõz<´ë¦Á‹+Ž¼ÜçñÒÛý±kgÎqM¸”gÌÙ&`Üëã§/¿þùÆ—Ë‡¶Ï_·é£ôõ' Líh Ä¨`Jíe·àƒÛ‰¥„J4œ„}UXÜ^Y¡·ÜZjÈ`wNyhá{·‰'âLð1¶˜y……g˜m+fˆÙs ™ˆ”r7ö˜Z§ýGd:Â¶ßW¨ad†¬Á6š“Â9Yä“&á’o5GVŽ¢iVeZ4òˆ%Œ™%GZkTÁHÛOW’(b‘iB‰—˜Æ…Ø¦mv²wW“?
+X TS~h¥›cþéÞsJæ9æ„Bú‡(¡‹ÚØg¤…âG)„&ÝHiG^ú`€û)ê©tŒ‚:jœnzj…†®ªý`«®k¬~&H«¬–Þ:`ƒºîšk¯üñ
+l°¶ÞI’¨ÃZØ(&Ëppº\È:Û)LZž˜šÌZ«,¤YžDÝd’y[ìt×2šWxeVg.‰Õ½ÖíDß•8©³ù•;'µA
+GÝ½Àæ+ímé‚)œÕÖØâ±‡AÛ£eà’9¬Àô&ÕttjlÀË*kq‰œš§qÄ½æÇ¥‰Íyq¨ïön»PþÝÂlJÜñ­–L¥kÜ!;²±ò¹³”±ý+ïÍ¿¹õâªÎuiÝuù6Ü–Ú\i^)ïìðÁ’Þœðxœ%É'XØjé[té}­'¢ ÒyZ´Ø*‰˜ÚEí¦pµþ¶­.©âÊ7¦¥îÍâŽ[-Ýªe:7sf«è¶à@šZ°J:J^âR<ùHaËø2Ò›÷Û7ÉÞjnyÍ}b>1äuý¹Á¡üúc’Ÿ>;QzÛ~;î±›šêî´S;ðg)2ñ[òQ) ëÌû÷{ÊÑÚûõÕã.<¹¡gÏ"Ïªªî=Ùáß|ºº›`ùê×>ôíSþ¾øñKÈ~ýŸÍ?þ 9?<ÿ÷™Þþ Øÿù€ÏºÞ(?ãuA ýhÀBLÌ’Ù.ø¼ÒdªqË3(5“©GS,ÙÿL¶´R&…8[¡u4uB"nÑ{Ñ^Âö/fýåƒiè¥Ùè†žzåPã4«!=…›ÞÝ†nYðuUr Ÿ¶.#í‹t/ëáö¨@!z1k6`õ³Â¥ñ•“’Á81tÉ/d<žÊ¶Ô©š‹7N™œòúèÅçÍ]ï‚ØòŽV.r3c»}%»2*­†’¬—\z–H‚-’e{Ì#!ÙC"M²Vqb™·ÈJnJxC´–S5Æ™‰R€¡â)‰KÉ9DT¢0ñˆ$Y6ò–½›¡ÈÈRJ_t¥47Kì¨
+h…\Ý&93™	egL¥$K'2Lz2›Û*…ô³’ñ‘›ÉLç™ÞÉ/8ýîÒ>ÏÌÖeÊU¾¯˜”YŽbö4ÃÍS•3”a*ÿxH~BÍ™˜$WýxÏ`9ÍLmä<—þ±IŸ('µ8Mv~H–Ó'ÑÐIÐšÒ£uYÖzÓR–n±—R¤;›µŒÖ2›.}e,]¥39Ú²iy”(!+“•U¦©µ†Ð1—£rXÓDª&EšÑ—‚LcE“Wµ‚~a=û©³¸ÔEY7g=VÚJºÉù‡ú*HS„×âô¯tåbúði?Šú­k1Òe	W4‰)…Üc'ú?T•m‡à$,IÇÚ/¦¨r$ØÞ
+Ìyk³\‰ìí5µåU´¼kêÁÎÇÈÉp°œƒ£*¹…±©qÖ}Ü‰Þ¤•ß&ï¶j—T›Ú[ÐU*¸ºY¬ËdCÔJ/žöt*4¡Ë v4BÆÏ q[±¤B›å.ç´ØÜðZÖº]Aæy‰ÛÜ²‘Ìƒ¯}±çÜÙ­•‘­er*ß®¨¶}Üt/}ù»@¹sð[ÚÚ`	Ox­Ž/-ì½±$  !þclip2gif v.0.7 by Yves Piguet ;Yimage/gif_/http://virtualschool.edu/cox/pub/PSIR/PSIR1.gifOBbplist00ÔfgX$versionX$objectsY$archiverT$top † ¯"()012JKLMNOPQRSTUVWXYZ[\`aU$nullÝ	
+ !R$6S$10R$2R$7R$3S$11R$8V$classR$4R$9R$0R$5R$1€€€ €€€€ €Ó#$%&[NS.relativeWNS.base€€€ _/http://virtualschool.edu/cox/pub/PSIR/PSIR1.gifÒ*+,-Z$classnameX$classesUNSURL¢./UNSURLXNSObject#A´‘rm=êÈÓ3456@WNS.keysZNS.objects€©789:;<=>?€	€
+€€€€€€€©ABCDEFGHI€€€€€€€€€VServerZConnection\Content-Type]Last-Modified]Accept-RangesTDate^Content-LengthZKeep-AliveTEtag_"Apache/2.0.48 (RedHat Linux) DAV/2ZKeep-AliveYimage/gif_Mon, 08 Mar 2004 01:11:28 GMTUbytes_Thu, 08 Dec 2011 22:30:42 GMTT2518_timeout=15, max=100_"ac8146-9d6-58529000"Ò*+]^_NSMutableDictionary£]_/\NSDictionary	ÖÒ*+bc_NSHTTPURLResponse£de/_NSHTTPURLResponse]NSURLResponse_NSKeyedArchiverÑhi_WebResourceResponse€    # - 2 7 X ^ y | € ƒ † ‰   — š    £ ¦ ¨ ª ¬ ® ° ² ´ ¶ ¸ º ¼ ¾ Å Ñ Ù Û Ý ß!*039BKMT\gisuwy{}ƒ…‘“•—™›Ÿ¡¨³ÀÎÜáðû %0:Z`€…›³¸ÎÒßâçûÿ!36L             j              NÔ !"#OkGIF89aßû ÷  ÿÿÿÿÿÌÿÿ™ÿÿfÿÿ3ÿÿ ÿÌÿÿÌÌÿÌ™ÿÌfÿÌ3ÿÌ ÿ™ÿÿ™Ìÿ™™ÿ™fÿ™3ÿ™ ÿfÿÿfÌÿf™ÿffÿf3ÿf ÿ3ÿÿ3Ìÿ3™ÿ3fÿ33ÿ3 ÿ ÿÿ Ìÿ ™ÿ fÿ 3ÿ  ÌÿÿÌÿÌÌÿ™ÌÿfÌÿ3Ìÿ ÌÌÿÌÌÌÌÌ™ÌÌfÌÌ3ÌÌ Ì™ÿÌ™ÌÌ™™Ì™fÌ™3Ì™ ÌfÿÌfÌÌf™ÌffÌf3Ìf Ì3ÿÌ3ÌÌ3™Ì3fÌ33Ì3 Ì ÿÌ ÌÌ ™Ì fÌ 3Ì  ™ÿÿ™ÿÌ™ÿ™™ÿf™ÿ3™ÿ ™Ìÿ™ÌÌ™Ì™™Ìf™Ì3™Ì ™™ÿ™™Ì™™™™™f™™3™™ ™fÿ™fÌ™f™™ff™f3™f ™3ÿ™3Ì™3™™3f™33™3 ™ ÿ™ Ì™ ™™ f™ 3™  fÿÿfÿÌfÿ™fÿffÿ3fÿ fÌÿfÌÌfÌ™fÌffÌ3fÌ f™ÿf™Ìf™™f™ff™3f™ ffÿffÌff™fffff3ff f3ÿf3Ìf3™f3ff33f3 f ÿf Ìf ™f ff 3f  3ÿÿ3ÿÌ3ÿ™3ÿf3ÿ33ÿ 3Ìÿ3ÌÌ3Ì™3Ìf3Ì33Ì 3™ÿ3™Ì3™™3™f3™33™ 3fÿ3fÌ3f™3ff3f33f 33ÿ33Ì33™33f33333 3 ÿ3 Ì3 ™3 f3 33   ÿÿ ÿÌ ÿ™ ÿf ÿ3 ÿ  Ìÿ ÌÌ Ì™ Ìf Ì3 Ì  ™ÿ ™Ì ™™ ™f ™3 ™  fÿ fÌ f™ ff f3 f  3ÿ 3Ì 3™ 3f 33 3   ÿ  Ì  ™  f  3î  Ý  »  ª  ˆ  w  U  D  "     î  Ý  »  ª  ˆ  w  U  D  "     î  Ý  »  ª  ˆ  w  U  D  "  îîîÝÝÝ»»»ªªªˆˆˆwwwUUUDDD"""   !ù    ,    ßû Gý H° Áƒ*\È°¡Ã‡#JœH±¢Å‹3jÜÈ±£Çÿ‰„øO`Iƒ'¦©Ò$K†+]¾,x2fÅš2Ú\ˆ3bÊ*KîúðgÑ=[E¸t¦Ó‰5›>JµªÕ«X³V•ªÕêH¡\»ŠK¶¬Y"¿"]k2-Å°gÑp;7ìHwÂ½h÷)Ü½!a¾	Ó/Ó¹lç4º81cÅ4ãÞŒÚ6¯ÛË?mÆ›Sl^Ï»~½™3ØÆ¨!?^XmâÐD[ULt¨g×ª—–Ît÷äÃ[u{¾•øÔÑ2ÕÖ–½¼9óº±[¢”M=jläféªFê[²÷ïàýÃ‹×9~#îÕiÓ«_Ï¾½û÷ðãËŸO¿¾ýûøóëßÏ_þöÔ¬UÖß€î•g^zÿÕ¥Ww<†F:æX„E9È BÒtaBr]fêµfÙW`%¢atWtÏÅ!|
+¶5ÝXI‰&¢‰l!Èâ[eµ£¡¹ä€YuW­T£‚µe&ãgÚ•¥£ŒTJ—¤•ÃEÆ$t/Ùv¥–_ªÈáŠ—=ç\“d>FUo=Be`™BÆhàœtÖiçYÚ¹^ngšégŸ€þ)h „jh¡ˆªh¢Œ.êh£>*i¤ŒÚwgGÊÙ!S™
+¶©O6øi…QbXªD§	ø×©:­Xýd‚rÙà«±Ö:ª¬“9Xå­.R&'t¾b—'a¯a¥¦±*Ö:!¯`j§¬‘°z(-´ÏF«*Y1û¦uÍyic›_jË£hÞø+oÉ•K-­ÊÑ–®¹ëØî‡ßŠy)F$Z‡*ƒÌrÊ×†ý&!¿F9Ÿ†øêâl¼µ‡{nþçl‹KÒ–êuù—*—”NêqÇ ,rÈ$lrÉ(Ÿ<²Ã÷úuñ_çªZ „´ÖÜØ¨–Ùl-Ÿäí\í±câ/¬/ì©¶F‹ZZÅzI¬]:²ù3w!e;õÍS8âÕÀr]ª×:³vâÐ{ú<má‚&Ú-“
+ìŒí¾Ý$G=ÍµÝèþZÜõ¼
+›âuïÂi¶‘Q»ËäžêU¢ß†‹ë¦ã¨®íoÛ³âêé»±úVÑÃ,ëßƒfªyåWýoÂ§“„ÚÄËn/‰qÞ$·Önûí¸ç®ûî¼÷î»î”¼1‚- TÆçfúàDFö„Ákµ$ˆ8mL—èÕŸ]µæ&-æÔžƒ›óóÏ+™<ØÙ†­>‘æ¯Ï¼Ø’7c–p[¬’Ò#žoš#GÙ‡|êÜE¯ÅïpCÊZupu¦¯u€§É½È­0geòÞ1¸%Èí[ñ‹:¾µÊƒ–K˜¬ªŒ…GÂ	QX%ÊP*íÛUº0F¥ºýE°„t¢‡HÄ"ÉˆËC¢—ÈÄz5±BOŒ¢§H7*ZñŠXÌ¢W¸Å.z1Š4Ô¶«Ë)BŒ˜Å,8(…ÐTÓÒ—¦Ð£™Ì¹Ê‡"
+à.×8:æèH?J‘’²B¾ð†L$"©ÈF22tûâã`—°øt)T¦J£‡>…É†ñmAüd'·ÇÉONç|ìd]¸ìuÆ•Rb ›|„¿z…±0ö+Î×”K]žÇ}^M-7ãFmòx-„ÞéwK\6“'½ä%Û²ôÌIð—ÌàÌÇ4m+•'ÄÜoJ·¹%uÈb9É¹N™Í¬†M#]Ëh7¯GýVêwøÌg}$ÉÏ&NPy•„‘Æ,iž 	ÔeE£ª˜Íõ5Å{U£;y½u/ËT¨ÀÈ>aJÏ^G|%©¶Æ½å1n<£_4‘5gi„ÓŽ¥…¤í’—Õ´¦7ë):v¹0aZWÉF9öJSy§ð6×¹~™’ûjêÒÆ¬§ÊL{JõdÏ^ÊÃ?Ëu1UèÅÜ©Ï²šõ¬hM«Z×ÊŸ+NÉIýŒ+æleÕŽOš)»³ùu©gmŒg`i+|Mî}À$©bQI­:®I8}Ä+c—ÑíQ­¦0ò_,s
+GŽõfo-ØâÛÐ"‰±k@jAÆýT¯uwüN êÈ>Ö8.ó¦I9c%ž®ÌU½m$p±4Xà¸vlsKß*#Ã6Z³r®t‰•E±õº½ó)võ©Ýízw?[¤ä‹èš:U26´EíÏ¼¤^p.6±ÕmqåûWÂ~¯nzk¥HÑâ¤â9P9\5›6Ñ5Zò&îƒ×[sf«¬@5t] ã@g4øåÕy«UpãØÇÉú*;FUŠy«4yp–x#¥Þ¤C¨ƒ9˜½Ièp+Ë_âj”Å9BîI›Û§Ð¹ž®‡ËAêË‘H¶§’“Ìä%;¹ÉP¾Q]ýy@2R´G!­–Q_-Ÿ²Ë\ÓR{¡ÕYsý‚
+S0ë^…Z`VâwÊ‹uiŒÌ8Úû®·Ê‘ƒ—¥>¼8ÂaKðpÇ¼fëùTÍ“nHÓ×Xt‡×$ñ¸÷$@$À&žjƒ4Ó:“$cŸÍ±™ŠW¤·&u˜š*¢k]Ö:19[Ë£+JYàÂ™¿vŒd!ºB^?v”Áö@oMª²íZØ¡$6÷ÚÁ';;ÊÐ~¶´£Mí'·ZŒDÎ¶¶õ*ÉkoûÛÒõ6¸ÇMîrGïÂæN÷Åí@â¿ä,»8çùÞ/Ë±ƒ-‡g
+›¹r“õ.wÜ¢æþI‚d_ÕíV†××ÈÓŽxµ'.ñŠSüâ©Öu·÷öÝŽý{üã 9w»»y;üä½V­ÊO»à¾üŒÝÁºsa§Š‹sh–(;¡¨ÎÂ¬¼€Û:\ýŠêx÷–m&7àM‹Bo½N8NÏeÔ)RñÙéoÖÕ§Öqýë~¥ºÔ·.âïýì„D»¬»Ö:ùZC|i†“ÞvùÕwÇ{ÒÇ*ôµ§ýï›TîržvŠå=¯…ÛH°‡]|,r|Ó%ÛWÉW]ê¾¼Õßo­sÞò—Õ<Ö?/Ù˜üçj“jozxZ^¶äibÝ,¹-îZÒþ£+Å{îçÛZ>›šã…šŸr]ØÃæ¶›ƒÝt4ÙIw2_r›ZôØI_JÑþƒ~áp_þä±¯ØÍo¿ûœ*‘o[Ì?U~zü1žˆçiœ¬¸6và•Ý?ùÃÍï>þí¯ÿ¹B”e@F»7D?'rx€˜€
+xPT—i8 î‡zâ‡rÉ–z&‡Óe~÷ªÇ}ÜÆD‹G.2ço•„‚gdÈ#Z3§b–õ8A‡|Ç1˜Cf6paµ–[É÷+×7zZ„_'5 /£Çce6}ß—L“„ÖWz“CƒDS•öS²vWQø|Ó”Cøyë'0˜U š5wžÕl€‡~|Áz†Aw˜–z§ÇrB'8Ò¤aØv8rÓR{dv\È„Ö†}è}—þG|-w7ž7yÿ´…Mx?‡¨ˆŽ˜…¯£zT‡`ýˆPØ}¶FGæ:è†:vÓ~µ·l\‰„lÔÅ†¥¨Š«Ø…OÂHÒ§R¬H€•`æG„8M˜„O'w‹˜ô%ˆ~~V¦}ŽH[açROkƒ‹õ£[[„W|(•?pòvJóù'cµ¤¤üÇ§€ÂÃä(ŽþãLeŽêh~yæv<%€8$çVuö€—ø¸ú¨–òm˜Q8YIVT81FáE‰pØ~JórXRåøkØpJwx8Œ8—‰›gs»k&A¿P¤ã!˜’5ˆ0ý}§’(‰p±æŒdd_¡x‰ô¦_ë·i¸ewœ§{¤ˆ)eç	X°Ö’By„«÷KFù’+7‹5ö“ñtmÂ¢‡e³‰%éŒ¶÷ˆÂ(R¹•Yo„¨râeŒ˜†Gé’™\i–LÉ8!ù–¯ru½bFÀGke¨6nSå²—C`UÈ–k‰”hè`gI‰°×hXo–o\ÇhjiŒÃ¸•Ã™^©&¾¨•_™>|Ét˜i™!˜iij¡F.1Ô³x{Èx”™‰ì%Áè˜ÜU¸–U³)›øG›·y9¨¹([ÃGXxOÆ'*â•YØc J÷Z’†Pû³Ÿøi¨€ÏYlÓþYÕ™<XPÕ…^ÙÞùß©EÄ7~ýÈæYžèyžÔöNáuŠó$h³Ò–•èoì·–ÄvŸK)‚B–ÆR`wËWWôšCù^û™ 0É’‚© C'’…Y îVŒoYU2ÉŒÆu¯ø?´ aˆ‡Æ˜­÷„Š–sxŠrV?Ú pXk"¡ôæUñ9£fé”Ú)z>	•²u\ º?=…œJ‰v£äx½˜CjD'7ÚR`©>ø¢Zœe¹¤5eƒ-I‡ê‡±˜™«)xBÚJÃcœž6Nx(^?{pÃ~ –F`ú™L
+Dwtk
+{É™_úõ¤&J£´æ–²s¤ýU*8½G#t‰µö¤Öp®©U[:jcØ¥ÉØAkZ™G'£úy vjÈÙrAÊ–¢y‰›Ù•|6bEw•Ú4\ˆr'Ÿ†¨br¡‹‰Ú“Õk‚Ež‘²{×9C(C±ê„Ð(¥ù¶af7ž t1ÉŸáglô„nìyþ÷£ý—ltŽèyíø¬ÖèšþIK”ÄÞ
+_d—é9®êI®æZ®Â¥ªÛ)~àé¤¿c¢ÜÅ©ïZ€à‰]×r£â‘šÖD;6¦®³a¤4Š¡º¢ð
+5 {°»kPº°pÁ•W¼VGNõ‘Œ¹œÍv“{‡}ü¶`†5&›§i8™£š…° þ‚"û±$k[÷š—¦‹0»£,‰¦Ÿ³¥S²CÚ¯ÉDŸZ°x² s²@¨Ÿ*K¯V(´Ê*¢Å”¥ÞÇ‚’ŠªÂ·b/s~sDCÂT‹N‹LÃj˜˜å—›z<z©’˜\a¹j(Ú¤€G´&{”d‹R›Ù§õä¦E–aûÕ£W¸Cê6[š²Ó™“
+hZbc·v¶^j¶¢yeV´‚Y~šB{¶5ù´¤
+‰pé·Uw+‰¨ƒN£5W%C¿ê¯«¯‘(ºþÂWijOÝ¤œyR•;é\rI«¹ørÓ¨o>„º·a!—§D0¦ê-lj‘ˆJeyÕxdw¼˜Ë+Ûš»ßú¼ýÚÖ¼6R¯Ô[½Örqõ›çº½èÊ½ÞÛ½À)WÆ
+½äÛ6ÒËhå›¾Ù+¾êÛ¾·¾î¿â)¿ô[¿ö{¿ø›¿.¢¿üÛ¿/ë¿ À©hB±ÛjãûšòFUÊÇ¹ò<”*—‰Áà6¡×›Å§KjH·u{ñ…¶W€z.47³q6g³bùr¾ÚcäfÁÅo8y[#Z‘œFqZ©•ãaJJ1Íé°>²ÅŠ1–¦Â6ÁoFˆl£¼ÁMÜOçûÄR]5§p+¹Vl¸W¼ÅZÜÅYüÅXÆ\Æc,Æ^lÆd|Æe¼ÆjÜÆiüÆQTS<ÇzWpÑë¨—þ™§Z¹|Œ¹}¬ÇL»Ç~<È€,bÉ…GÇŠlWÍZnºÈ|Lë˜+X´zç¶ŒÒÙÈ)Ç€—”PÌÉãÒŠÄégCW¥UÛnL|¯G3œ”ƒ­ìÊLƒ¯Ü‚*H”9z‹E©°(ŒL\«˜°íôÀOIÀ—¦» Û*²+É»öFyeDS}Ù·gˆ£ÔÌPK»‡ucÙŒÍš[$ÊÍ¿ü¿ìKÍÌÌàìmÎ‡,á,Î5œƒ£˜IN	T²uo²Ê“yi† qÏ·ÑÎKº²ÍÒˆUf¦«:‹Ïù¬—«¥ÏŽÉÏ1¡_HšiYÛ0•VÑÍ©yÃ4œÐØ’Ñ¢z—|ý \Å¶ËÁS•öwQ:Ê[
+{ó¦ÑmØÑÁ
+º°dËÇwL¹©Á7©Œ¯=}‘?M3ëüªF§le‹Œ5Ç™úºA-ÔEÔOÊÕ,ÊS­sWýŽk'`IË>î¬qcÉz«Ôæ<Ìe-Õ+=ÀgMÔÛÜ²õ”ò•ÔzjªG‡“3œÕ$æÔ¾Z›ÈlÖÄÜsŸVÌA,ØÂœƒÅ‹ÄËâªÄÂÔ6½Ö³Ìç„xåÙdJÙQ5Ù–ØžÄŽá¿1»Ù½œ¬¡]£MÚµG¼Ÿ\Ú˜f‘ÜÚßj0íÚ_¾ßkÇú»—‹ûSTˆ¸]§ºý@¼-Û¤Êý‹C*Ü[KÛÐþvkzžR4FŒÜÙÑÌñërÒÝŸ<}4¹mÖ-s¥Ä¬ªjº@ªÊéœveÞØ±ŠÓ˜-±µ*m¾m÷Á7gG9÷×ÙÊØÄßíhÂkz,¶«ƒñ\`Ý¯çŽŽ½ª
+ÎÎoMŒZÝàFí±·<»“ª‰¯ÅÀË¼¯OáãA×1UÎ.ÕªÆàQíÓ'Žâ‰i4{§ðœÝ%V¬Zû¡wi5^ÉÓì66'¸ªïŒ×j¤™¥-Ö>QŽ…Ò#•Ö¯š—šÛ­‹ÍÑNÎ‡9EºC~vs¢ŒÓµöóÑ}ÜVx ä‘±2-f®U[¢Îý8`-¬¿VÅ}—)×÷‹¾EÔý/íã#tq÷‚5
+ã‰Éj)y¸Íi#.Îu¾oñhÔ9>ÔÚ	u!{0…)Ç÷¨ƒnÍŠ®Þ¶pýæ–Þã!NRç•È²w%Å
+âvÞÀUí×^Õ«c.ozmÕ¬‡µñY‹žéÁ¨¸(Ñ°ÄêGÁ²á—r¸J_}CÁÎÊ/^Ì\Á«ÔªÉÙGì	ÇÂ7ÛUˆzÐEL³s’ÙDÑÚ~ÙÝ~fß®Ù•ßõ)Í“;¦W¢™>ÞÙk®Úó—»¼ÎÈèŒÚ›ìîµ~ÓÇzÝúîpÇÛûþïá6=xüÇ”KÈ_Èy|ð
+/ÈOðou½·/Ìå Ü‰n˜Îr¶e`þÖñOh ïñÿñ"ò$OšÒÌl¾^ñ’áÉ™|­O<Á•ÎòsËö™+^ýÚÌŽìÄíóÛÍÖëôè$ìÿÖŒ|ÞœóèÂ	Ë6?Ë´õÔšËçšámÙûÒ´ÎMeÔ¼NßÍ÷Ý×„ßþmÎôç¹~êÏžõGŸ©ìúÌõ&eÀêÕÜËC¸ÑdI¯þÍÛžê¢ŒÎHÕ¹x¶ç'G¦,VŠM®èz‚Ì3?î¾ÑQ‘Ÿ×ïœèà\[bˆµ#\øÕÒGäïb¸†¤›§Ÿt{ïcý¯S*ó“ß±¢¯Î^¾¡A-ÏÌiÛåöZï’ØS¨aÍË9÷ÃÏúýµåg8:‡Š±ÿå¶ÿLçÄMýÈ6xZ{*Óÿt™.=Íx©h…H3öœ¬ãc¾˜ÒåT;–¹.ñœc‹Êé¼Ÿpðo«Ìºµäíí‰æâ­°®÷ @à@‚øwPáB†>„áÁ„	Z”˜q!F‚5~èq"H’ENü—åÈ’ZL‰Q¦É˜5mÎ4&Eš!}æDhó'Kœ'O¶l¨’!Î‚G5:EúôeÅ¤Q!BjµêR­±ŽŒÙõåR¦TgRÍ‰%G¨2ÍúTû6íÚ¡•Š¥ù5ïN°}UþmtîNÂx]fUëõ.Ò°G},1rËÉý+“¼¬X'`Ä›ïf&ó&ç £óbÖKäÙÀÑòíè—®QÃvá®-27ÞÜºMwí=õ&ïÝMkn|8òâ×Þ»útê³¬ž]ûvîÝ½^¼dìåÇŸGŸ^ýzöíÝMý^þ|úõÕ¿½n_üõ¸CËú°3‰
+Àÿ;°@dpA„0A	ŒÂ	¼°B-äÐ5õóŽ6GŒ®9ëMºÑÃoE±tÑ³‡jNEËl,‰FÅpt´¤xŒ1HaÜŠE ŸŠÏ9Ã|¤èH$Ÿ|ÑÉS”E*“KóFTŠ)®àÒqG-c«ÉºªûjLëý°Rs5ÉªÜÎ&Û<MªŸ
+ë©±.‰’s;"‹“²øèŒS®/»sŠP;ñGèªìóMËÈä«¿×úÌ=·²ë*BÛŠ²ÅüÎäN7ð<R³&ý<*RÔ¼j(ÑzÊ”0W§ü,MÒZí‘2ž¬\Éµ_Ét3GF¿cËWUIe•Yín¥ï3Z#«ZØœÓLXëì¿ÔÌÒòÃls=ÕV$Á=wËSeìÐ%—ª4·¤›ÌÔQm»—¼`%õV*CC[ÜoõÌQÀòTÔ‚³T×`]šO¹*ì_u’WFl#†áƒWj]ÕúÍñÒ9÷­6X…ÑÙ8Me™qd™ýÝvîäÂ>ÆTVì]®ËÅôv.F-ÕæJ¯­XåT_ƒíã±EyS£‹¶ùË‰£V˜Þ¤ÿC¸Ùó°dZH@›îô`©¡½ˆÒ€«Î:Y¨žqmt“mšíU§½cõ’ZåŸ÷söY³Ë¼­mÖ´uŒ'ÑZæ-íÒ&Çë²ñ‹ñŒ	dÚÖ©qÜ¼¬õ-œ:PaF½XöX;Läw[ßüõ¶)g®ì£yÞw°¾7K=O½On8øÝ5½î=e›¿ZuFÞe£.Òß½Þ7ï@¢~M¥#Õ|GëïÛd{u'ØìX—´d«ôž~v‡¾’~`Ý‡ÌÄ§÷,ÞÃý<œóJ×# "Ë,àºXªÐìÏ%8A
+VÐ‚º`5¸AÞ‡|¡†D˜!f¯„!<áM¸B²P…-„áE¾Fx5Äa7h1
+UÃR³Dt¬ ¦®~¶bv¥œ)1‰`¢Ò–žhDå$Ç‰@"©ØÄ,rq‹Çú\Á¤zêw4¤ZþÚ„Fá¨‰b,’7£BEñ}Å«qÈ6:ÚyJµ³£éê÷>Mm‰aËnè§.L~á*ñðhC4Ir:Iz#ïPó)WOb@äŒÉzÇÀQêêbqŒ$©ÅJzq}Žê^Ý5¿“œýœ²T™J%¾²—¾<ÛúZÅÇ@i\S±Ë½ÖH'zË™£¤ã3¡9ÉEZrR|Ô/Ñ”(l.<6úKÑ*Ö¢Ö„+lÑç¤R–®t^erãÂœÁ\7%ºxošÂÄ™ãü²5Ýl›	³ÖþrmNY<<™¸úÈENmSZø§Nrj¦kMß7‰¹¨_}rVÕfþú'¯M5ó|ê
+Ü9éÈ1áÐ-eat[­hf·w¾MqƒQéÃÉ-dö+¥¼úèØÒ³ÑÃeT6óªr|¦³¤­ŠdGÍ\Á~êÔÐåyí¬ÌÆ‰±§*‡nè«¦ ó	G†*nqõN¬N3OG‰,žqýY[õÜú¼«ir“wR!*>r"’p÷¼¤Ö®Ön’’›V¨+™º°níTDâÂe@¥è3¸ÑPX“œµ>Å<Ñj—†£$¦x¦°—íLS[Éd4µ–XÊ±‰§j¼'ÅRØ™9:•µ­µ¦ìX‰8tŠ¶®}½ª7Çc»½E‰€YM!ÝH#KqŽOlL,oËXñ)—¬ª2§ jôœýÎŠýKm2£¨?+-çáÅþÊÛ@’¢÷ºþT®{ß;_A–‘¾E%ì}õ»_þ¶'§ýp€I¢ØÀþ,•çÊ)N–Á¬lp„!<áWø³¶ð3ÜÅS¸Ãþ¢†ó«Ã®ÍÌÄ%WFñ‰Uœb¯ØÅ-†ñ‹ecÏØÆ5Æñuœb#ØÇ?rZƒ<d"•FFr’\`%7ÙÉdò“¥<eE™ÊWÆòi³¼e.[ÐÊ]s˜Å<f2×'  !þclip2gif v.0.7 by Yves Piguet ;Yimage/gif_/http://virtualschool.edu/cox/pub/PSIR/PSIR4.gifOBbplist00ÔfgX$versionX$objectsY$archiverT$top † ¯"()012JKLMNOPQRSTUVWXYZ[\`aU$nullÝ	
+ !R$6S$10R$2R$7R$3S$11R$8V$classR$4R$9R$0R$5R$1€€€ €€€€ €Ó#$%&[NS.relativeWNS.base€€€ _/http://virtualschool.edu/cox/pub/PSIR/PSIR4.gifÒ*+,-Z$classnameX$classesUNSURL¢./UNSURLXNSObject#A´‘rTÎÈÓ3456@WNS.keysZNS.objects€©789:;<=>?€	€
+€€€€€€€©ABCDEFGHI€€€€€€€€€VServerZConnection\Content-Type]Last-Modified]Accept-RangesTDate^Content-LengthZKeep-AliveTEtag_"Apache/2.0.48 (RedHat Linux) DAV/2ZKeep-AliveYimage/gif_Mon, 08 Mar 2004 01:11:28 GMTUbytes_Thu, 08 Dec 2011 22:30:42 GMTT8043_timeout=15, max=99_"ac8143-1f6b-58529000"Ò*+]^_NSMutableDictionary£]_/\NSDictionarykÒ*+bc_NSHTTPURLResponse£de/_NSHTTPURLResponse]NSURLResponse_NSKeyedArchiverÑhi_WebResourceResponse€    # - 2 7 X ^ y | € ƒ † ‰   — š    £ ¦ ¨ ª ¬ ® ° ² ´ ¶ ¸ º ¼ ¾ Å Ñ Ù Û Ý ß!*039BKMT\gisuwy{}ƒ…‘“•—™›Ÿ¡¨³ÀÎÜáðû %0:Z`€…š³¸ÎÒßâçûÿ!36L             j              NÔ%&'(O¦GIF89a%» ÷  ÿÿÿÿÿÌÿÿ™ÿÿfÿÿ3ÿÿ ÿÌÿÿÌÌÿÌ™ÿÌfÿÌ3ÿÌ ÿ™ÿÿ™Ìÿ™™ÿ™fÿ™3ÿ™ ÿfÿÿfÌÿf™ÿffÿf3ÿf ÿ3ÿÿ3Ìÿ3™ÿ3fÿ33ÿ3 ÿ ÿÿ Ìÿ ™ÿ fÿ 3ÿ  ÌÿÿÌÿÌÌÿ™ÌÿfÌÿ3Ìÿ ÌÌÿÌÌÌÌÌ™ÌÌfÌÌ3ÌÌ Ì™ÿÌ™ÌÌ™™Ì™fÌ™3Ì™ ÌfÿÌfÌÌf™ÌffÌf3Ìf Ì3ÿÌ3ÌÌ3™Ì3fÌ33Ì3 Ì ÿÌ ÌÌ ™Ì fÌ 3Ì  ™ÿÿ™ÿÌ™ÿ™™ÿf™ÿ3™ÿ ™Ìÿ™ÌÌ™Ì™™Ìf™Ì3™Ì ™™ÿ™™Ì™™™™™f™™3™™ ™fÿ™fÌ™f™™ff™f3™f ™3ÿ™3Ì™3™™3f™33™3 ™ ÿ™ Ì™ ™™ f™ 3™  fÿÿfÿÌfÿ™fÿffÿ3fÿ fÌÿfÌÌfÌ™fÌffÌ3fÌ f™ÿf™Ìf™™f™ff™3f™ ffÿffÌff™fffff3ff f3ÿf3Ìf3™f3ff33f3 f ÿf Ìf ™f ff 3f  3ÿÿ3ÿÌ3ÿ™3ÿf3ÿ33ÿ 3Ìÿ3ÌÌ3Ì™3Ìf3Ì33Ì 3™ÿ3™Ì3™™3™f3™33™ 3fÿ3fÌ3f™3ff3f33f 33ÿ33Ì33™33f33333 3 ÿ3 Ì3 ™3 f3 33   ÿÿ ÿÌ ÿ™ ÿf ÿ3 ÿ  Ìÿ ÌÌ Ì™ Ìf Ì3 Ì  ™ÿ ™Ì ™™ ™f ™3 ™  fÿ fÌ f™ ff f3 f  3ÿ 3Ì 3™ 3f 33 3   ÿ  Ì  ™  f  3î  Ý  »  ª  ˆ  w  U  D  "     î  Ý  »  ª  ˆ  w  U  D  "     î  Ý  »  ª  ˆ  w  U  D  "  îîîÝÝÝ»»»ªªªˆˆˆwwwUUUDDD"""   !ù    ,    %» Gý H° Áƒ*\È°¡Ã‡#JœH±¢Å‹ÿøÇÑ Ç CŠI²¤É“(K:ÔÈr£Ë–0_ÊŒIs¦Íš¦ÜÉ³§O”CÌéÑåÐƒ 1*]ªs Q„,Ÿ:5zTªÀŽL³&lYu#Q©`¹N{UfÙ©ZÓª]Ë¶­Û·Ÿ&E·®Ý»xóÞz¶¯Þ½&ñî\ivëà¿påz=Šx­UªX#«}ü¸`å¢1¡6¼Ü˜iGÅt=ßy!ç­NçRÅxúôj…¥5Ÿ|Ý9miÐ°mæÆIº°æÚ¹¾7mÞdM_º+ØŒÊwÓ¶¬\®d×qË~KÜ6õ¯½ý‘fŒ+wœŸÃCN=²:dó~ÃœOW¼xîÚ%wÏª¾ëšoÅ6]€¾!µßz¥Úº¹% vAˆà„JÝF…ÔA—Càõ·Y.çUzbXÞjÆ™Èán9EµÝ‡ÁHŸˆ~¢sgé§bv]5·cg­ý(d…U¥8ä_A©$øÅ·¤`Ñ=)¥{àù8å†NÖ¨ÝKÙw%D
+úU¢w^–©ž™daÇ€¾¥$ã™mÎ6&ò]ø¥Šl†¥¼¡Ö"_sF¨š‘wR˜g¡R6ÔOŒ6êè£F*é¤”Vj)sì]ªé¦œvêé§ þdg†ˆV„&œ§zYªViŽºýê«°"éj¬´ÖÚ¡¥žJ`ª™+_(ÒÊk Ùùj`r²õök¦¸®JìdMr‰™–Ô"‹hÍNx™µQå÷"‘[:÷U‹„õyW:¾ú\¶[Z»†ÏÚJçXìŽç`ñb)ïaË§½+Ž¨šŸ¯š¯€E7¹jJËl{ùÂ[§•ÿJh•‹Ûâ«á‹À&›$jS¹âŸÛ*Å8Füar*ßºï‘ëÎZÛƒÍ&šinŽLmµ;?‰­ÌÚîI^däâü±“ê\å´AeygÌ(;ËlÔ@ïœ4‡©;±Ó/kr×;ö[/Ø0~M¶Äb}v²ñ!|^Ï5;¼ïÏT¯}¯Ûhþ‘mÊ†èâÞ÷Èõ†Ã¢j8›_,Ý¡/Y—.ßx‡ÛxÑaYµÝ.GÎšÜò:®6æ _h‘DO­øéÓzˆú¿oÛè:Ž¯Ž0²´ƒX;ê«Þºî’ïÞíbËüûà¡o+¶‰‡ª|{+î|á%./=¦Þ~·ñØ_ôsÙÿ™áuz†_w¢–)hÞœ'L|ö„±/~„‹N/ÿüô×o£—_©ëÝÎ[d¬º£ß”ö—¹þ™
+N¿"Iþ|ö<Â!ðX=S¬ ¶À%nWL]óÌ¥µLUp€B+àß8×.÷°§wR£×¥Ô2pq…KRÉHè³“­o?ûóXãŸõýïq1ôÝt€¨=Ýµðm4[SF<øô*„êÙâTx=%Am}Œ«˜áB† #ºÏ[³Zß xA%âð‹À¡Ç¨Aè,ph”¿Ö¨9R½v,ŸJøc4 °J:Ë2bÙ2¢1ˆe^‹›»¨¤†-²>Á£¡Ãˆ;€ÕˆvÖc#õT:ž=r=Q4#)†É20m£’àÑôD™qxk$ÏPHŸnKè¡»£F1Öq…x4%©€%ËU†ò7XóãmèKI‚‘†Šã¼¢uHgšA“&b,”G(a³‹ÚÜ¦åº)b3n"{¡#Åh”o}’…ãæpÌY—¤ý½„¿tÓ.çÉÌ}òO‚ïÙ!iHÔ¿Á‰[ì÷ªÈ¯Øù“|L„ÎiGdNQŠ“gCQIÎâQ4œ¢¢F=
+E†4?ÀÝGMÊ±¥t+e)´)ÓYÖÔKc(IÓ—Fkv¥Ui“>™Å.©çe.ª6‹©%YŽ²¨ƒ{'q’:R•æÌcMMÀpyTdêMªót(üÜHÖ®2sAt¢E!gIÛQO”kZçj¬‰NqMÀk¢Ó Ê´Ï1›@­êMµh˜«jQsYƒk?7X¬>ô—ÇÔKKY£zP©•Í¬ÿ$K¯q±2w²k“íŽ#ÚÛ1-˜04-hS;ÚÕý²Ñ´šm%Û¦Cë½ÕsËQiIëÚÙñVƒ±c-ly÷ÚßÆV¸À-apûæ[Å-vrZ-Ÿf§ÛÅûÝïlÖÍnÃYÖîvÕ¤ÙzèFéJ^¾²¯ŸŸv7uKïº÷zëõÔV©Ýø†Ênöå”Dé+^êú×¢ýý¯€Ñ
+îù–žªŸº¥ÖFW¯ü¢LnOØýî¶Û«è	»–Ïâ,·”ã-ð…jùFDrO°Nqû›ß»øÅ/ž¬ŠgŒ"ÛÒøÆLêX‚g–PÇ4psæ-1+¤$’É€Ïün®8‹â"÷Z¼²’E'Ð§ªÆ#¦Œáå–>™ow%dù[«2ýúø„"–¿ä¹-›ÈÌPÎ`š+f!+ÈN¥—	¦´¬r‚bí]]>Ua‘4´}¼°Z²XölRÀ:IŽ69Ï—L`ÖùH}
++®TÎ«%Ú¥óÍQÏ‡mðß*5KëÔP±a°_U½ùÐdÒLdXÇj<‚ÖÚ,'ûëÓâùê>ù˜QÍ+©-«ÖÉe’Ó\E¬œ bïÓ3L=MçVf´ØaCï‘»Œê´ÀÊôLb%nŒ†Í8æp»/ªæ¯õŒñf’Boùn$ç[Ð4u÷¡ËŠçsÿ›ß§ö6	~p­¹Ú:Ñ6½Á½íD6…†x¹ÊÙ’ýoÍWt’uIñ7[û°Î$ÙÀn0n#´ÜíL´OCÖ*jç¥—1ã`ÀFÝç'^sæõÉí;×¬·˜Û\0ó–st$>Ê †¥Ùƒ„¹§ÓòKÃ+éæí×£3ÙJ®“nh³†z	‹Î¶VóÖWŒîÑßð±qx2ÎŒ×Oø³ZÛø×hŸô¬#
+÷¾[ë¶æû§Û®pnO«Ê˜Vžfž~§ÍÍ„{_hÂ#~ÅÅëYÛÇô¨“ÖÜ0oëã¸v»pÓì@‡¥Cæ‘òdÀ§`ê‹•pœ‚ÒÍ*Æ9Â1Xú²5<‘}ßý?q3âÃþä=·=8_³¤+xóðÓ0óOdœÞþ'ßÕ®ãë+OÍ Aß÷È?;Ë^ï?Þú÷²| A/~9xèuþxÉ£ùp˜¡óÒf$á¯}3lYõ·hJÄx`’rblxårÃ€˜VÁ·ÈJ>‚<usvõå!M3€õmVÇKÊ†Rv'vì\±tbõ&y½ÖN¬VD‡TÊ¶kfã\,²rÈT@…~·â|Ôy˜·D#8gÇ²i	tj8hz–…4‰—nÔEUˆ9E^ŒÆRFò„î“vT8IÓG{9u…•3YˆQŒõE\(MºWSSø…æö€”5†qT†2u†h(bÕ—YlˆFLX‡Ñä…aµz?µoƒ&lØqëþç‡R¸wñ#pãSQRaA\Ç•ˆ‚¸€·×„f'"¨\…¥„lÕ‡6“ˆ‡ŸFT5öçI…Æ‡ÓÄ”ø†rãTgS5×€jxp±—7÷´H÷ÑlEGŠ]Ø‚rõ^Þ%@6Hw²·¨r`ã‡':ø.ÀX^ÁâYáç;€˜Q¶TŠ¸x+kDH'ÍŒH˜è1¥x¢'.$÷#VÈ|ý§€Sæ:˜ŠÈ†KØŠíçv¢(„è¨^ÆÇŠ¨‘ØAdö{ÿ¨…Š˜i«(…³g†wÖ75k¨‡…(ò(‘¥ei‘Üµ…öŒ§Z§%[ÆE\Í’áˆ\±U’)ÙZu&Y\½Å’Íq>0øŒÓ!\’ö[/9[$©“-‰“'É’ªó“>™“<Ù}*ø0È·_[åCD9\"¹“Éå’S©’=	•È%•ˆ•ÅEjv/¨^_)’[9’»C–Ád•g©–Yù”S‰’¨“q©r…`¨‘Ó !þclip2gif v.0.7 by Yves Piguet ;Yimage/gif_/http://virtualschool.edu/cox/pub/PSIR/PSIR5.gifOBbplist00ÔfgX$versionX$objectsY$archiverT$top † ¯"()012JKLMNOPQRSTUVWXYZ[\`aU$nullÝ	
+ !R$6S$10R$2R$7R$3S$11R$8V$classR$4R$9R$0R$5R$1€€€ €€€€ €Ó#$%&[NS.relativeWNS.base€€€ _/http://virtualschool.edu/cox/pub/PSIR/PSIR5.gifÒ*+,-Z$classnameX$classesUNSURL¢./UNSURLXNSObject#A´‘r´bÃÈÓ3456@WNS.keysZNS.objects€©789:;<=>?€	€
+€€€€€€€©ABCDEFGHI€€€€€€€€€VServerZConnection\Content-Type]Last-Modified]Accept-RangesTDate^Content-LengthZKeep-AliveTEtag_"Apache/2.0.48 (RedHat Linux) DAV/2ZKeep-AliveYimage/gif_Mon, 08 Mar 2004 01:11:28 GMTUbytes_Thu, 08 Dec 2011 22:30:42 GMTT3750_timeout=15, max=100_"ac814b-ea6-58529000"Ò*+]^_NSMutableDictionary£]_/\NSDictionary¦Ò*+bc_NSHTTPURLResponse£de/_NSHTTPURLResponse]NSURLResponse_NSKeyedArchiverÑhi_WebResourceResponse€    # - 2 7 X ^ y | € ƒ † ‰   — š    £ ¦ ¨ ª ¬ ® ° ² ´ ¶ ¸ º ¼ ¾ Å Ñ Ù Û Ý ß!*039BKMT\gisuwy{}ƒ…‘“•—™›Ÿ¡¨³ÀÎÜáðû %0:Z`€…›³¸ÎÒßâçûÿ!36L             j              NÔ*+,-OfGIF89aÛ Œ ÷  ÿÿÿÿÿÌÿÿ™ÿÿfÿÿ3ÿÿ ÿÌÿÿÌÌÿÌ™ÿÌfÿÌ3ÿÌ ÿ™ÿÿ™Ìÿ™™ÿ™fÿ™3ÿ™ ÿfÿÿfÌÿf™ÿffÿf3ÿf ÿ3ÿÿ3Ìÿ3™ÿ3fÿ33ÿ3 ÿ ÿÿ Ìÿ ™ÿ fÿ 3ÿ  ÌÿÿÌÿÌÌÿ™ÌÿfÌÿ3Ìÿ ÌÌÿÌÌÌÌÌ™ÌÌfÌÌ3ÌÌ Ì™ÿÌ™ÌÌ™™Ì™fÌ™3Ì™ ÌfÿÌfÌÌf™ÌffÌf3Ìf Ì3ÿÌ3ÌÌ3™Ì3fÌ33Ì3 Ì ÿÌ ÌÌ ™Ì fÌ 3Ì  ™ÿÿ™ÿÌ™ÿ™™ÿf™ÿ3™ÿ ™Ìÿ™ÌÌ™Ì™™Ìf™Ì3™Ì ™™ÿ™™Ì™™™™™f™™3™™ ™fÿ™fÌ™f™™ff™f3™f ™3ÿ™3Ì™3™™3f™33™3 ™ ÿ™ Ì™ ™™ f™ 3™  fÿÿfÿÌfÿ™fÿffÿ3fÿ fÌÿfÌÌfÌ™fÌffÌ3fÌ f™ÿf™Ìf™™f™ff™3f™ ffÿffÌff™fffff3ff f3ÿf3Ìf3™f3ff33f3 f ÿf Ìf ™f ff 3f  3ÿÿ3ÿÌ3ÿ™3ÿf3ÿ33ÿ 3Ìÿ3ÌÌ3Ì™3Ìf3Ì33Ì 3™ÿ3™Ì3™™3™f3™33™ 3fÿ3fÌ3f™3ff3f33f 33ÿ33Ì33™33f33333 3 ÿ3 Ì3 ™3 f3 33   ÿÿ ÿÌ ÿ™ ÿf ÿ3 ÿ  Ìÿ ÌÌ Ì™ Ìf Ì3 Ì  ™ÿ ™Ì ™™ ™f ™3 ™  fÿ fÌ f™ ff f3 f  3ÿ 3Ì 3™ 3f 33 3   ÿ  Ì  ™  f  3î  Ý  »  ª  ˆ  w  U  D  "     î  Ý  »  ª  ˆ  w  U  D  "     î  Ý  »  ª  ˆ  w  U  D  "  îîîÝÝÝ»»»ªªªˆˆˆwwwUUUDDD"""   !ù    ,    Û Œ Gý H° Áƒ*\È°¡Ã‡#JœHQa¾Šþû€£ÇŽ3Ši0$É“/¢\	²£Ë,šŒ)“¦Í‚*oŽÜÈs Ï¾´çO£Gƒ‚„É)Á¢gê™sªD¦CKÖÔÊµ T_]v}*ókX««¢}ˆhX“0Å¾l97$P°xïÂõy—®Ùµ1Õ†Ø”o[¢Kë¶­ËXïâ£s[**÷*c–‚K&ÝÌ¹³çÏ‡BÞLWòÓÉ’“.%ªZïjÐ°cÕz'C×}5úŒø±r^…µÉ&|ìø^Þb¥öNØaæá‹Á¶žùuÓÑÔYWW½{¹f·†ýµ‹GŠ}»ùòãã^Nøœ"êõ¹s›æ[¹°ôÒöï¾ùþL¬ô©—_~Yu÷_iÌyÕ˜zÂ)8Ö~^É&ahÉ§Ù‚f¡†xI7á‡=9HnÐu˜b‰¥( ]žX ‹"VDƒ…èV\7ÞA9èá‡õšhA*Fâ‘ý‘d×{BŽæ"THùbK¶¨`Xí…Çàl?ÂÅåj§mb—ZjHcMKøÝŠcVg]—iÚ&‘y™ m”‘¨¤‰ZÜŒ;B¨~~6”%mýEÙXr}fZaJ9ª‡Ð1¹¨¢®=ê_jY9*)Ÿì4 ¥["_¢Iú8K£âGýê¥.wªwª¦4a9šxœ\»ö*è¯ºË+‚·¢th±NºSwuRéÛ²ÈŽtl´§Íùh¤ÅM†é¥—E÷)¬ÔF4m±I^zE¡k]ºç:EY¸¶Â[!nµÁ(Ò™IV¨Û ò4.µMòÛï¾Üf*ï¿#ú­×‡Z«±Âúç³6Yè¹ìÆwì+Ç3z›c¿
+²°!§Œ2}1â©Ÿž½UÉ"—äÝ§âÂ‘­h3ŽÉ‡á6~™®‡Dã÷›_8V™/ÅþòÆpP)µhFlõËÕŠ95”ToëØ×Þ‚‡æw+ŸLæÙC¢íæÚl·ù%‡>öJóÜnÏÆÝÝsþMç»#.ºÕ[ÍÙËìºe(FÞÉ›8B*LÚãwŸ§.ä’—ª$kZ^7yvAÛÍ¹æm.írž÷½WÃ8§žµ—ÄÎVª¨¯ ëX:ß<bl$ˆ¼÷þázÉJíûðÄSÈ4 Ç")ª—µêô'½l%í8Þ/¸¡‹é”wµ¹Õ¿8¸^w>»çÍ©øØ'¦û—ÃŸÂƒ	È2ZÅË&¼òG×ºŒ=+J&?úÆ~6‹ŸŠò&8hí!$WÒ2'vî‚q’ÞæÖ&º$‚·âYÑÒÔ¡°¡JV‰ŠÛÃˆ¯>y„	“ªfˆ:ÚÙÐv8Ä‘÷@ý­iaZ¢™Ç¦ †ib§â¿üIh-Üá{(·¹L²RZµ”õ¤MNŠ¡êa
+Áh26MŠšÛÏÌJx´5–ŒY§ÓuªZmq£h·.6éŽU	Ù×7Vo"Kì—c—,–±ŽW‚‹d-E;$y)2£ âÃ<Y`úª&C¦IÝ•/‰hüä(áè”ë¤F;DR¾è¥­FåÌgYVçÎu³˜)gA(Åø5-ïAÜQKÉÉ‹áŠ†=æ|°Õ)6Â(˜ÚóØ!g7Çifë›§ôÛ fGú	M„rZ :Ó‰"¹èu¼£ì„Îzý
+S–ïÌ'>9è*Bî^¦:a6U×È9ò „;&³ÆÐÙ9Ô?·«Sý)¨2s‹È1‹Ø.Z¢„T¡UÞÈÆÈQBáQ›_¬æ›Z“À…ö¢ý‹áâƒJ5Æ‹h‹	1ÿXÓTîé‘%ÕWûæÉ´µmE$âéì:7]o—ì´§/U˜ÅªB²nIuã­•7Ò©rê£ç<gÓˆ»ÛÐ>©Vº«Y:È¸$YŸ²±QÂQÓ{ŠLOtS-ŽAñJØ»RtŠžü_Pÿ;‹_x\%ÇÛ²U”²¡\ˆd·‰¸Ö—ŒK§ÊTƒ€Ôˆ½øšÌ‘ý•&¬½^j_gÁ¯2}NÂ©nÛ)ËÓ¾‹3·åšpÕç¤âRé¸N#´öúP‰.žðfl;úÈê6€fÓæ`Åµ¼~ÖÎ@¦{.ð¤Û‡™7 ß…î¬RÆñð"ð}¯|ãKßùÚ·¾øå¡÷»ßûú7¿ þ¯€L`¶V±‹.feÙßÏÁ1¬'"GX¨
+TS%-¬HºÇ@3Ó™ckÄác ×$%]WbÅ¸bŸm±"-gaËxO«úå/ëê›Äù¸Ç|j`m|ã7‹FvâêÛ’Ìd$Ó³ÉIŽg‘uô+å8™½:–çûjX)»pÊÑÚvÇLWíývŒÌ^¦˜Éµ!ºêµA*²œÛ»fçøÌnÎ+œíúæÂÖY8«q½þLå²ÂÀM3¡Ø×yÑör=¸¿L¬9fb¤{û$W†Xaæób,i³¾XW³žØ´È3¨tÑ›•-µNeZcYãÏc•Ãàºvý¦]SNh|–­ýIš-‡çˆ²²²“-DfZ€+^´¯–ÍåUmp†±lŸ¿¬iJC© q«¡ªT‡{ÎŽ}4sÔÒ6£[ÏÁžlžOcB‹yÞ]Ž3žß]x´Fwó9˜Æ2©mà;¦³ŸhÛ@›_Ç»Y•R#ÿÑ²›ñŽýÓŒÅc-*µXÈÃŠÈdûòÛ
+w¦s;ä GT§öx6]õYÞZÒŒ¹•”—p@5oËÛ˜m¤µôåeLyŠ?ÝorÞ”[;³åÓémØˆRóÚnéR£‰sQEšêð»tÏ¿½’¡s8Pf¯õ¬Ý]òk»}–üÆöÛ5<hRÂÇYnûÝ·Ýå»è€·žà•åd;»¯Ju²²›mìÁC™ñÿäëêšw¹ÏòÊ;uxojÔÚp÷<`»¬pØ²0Þ¡Åûž9Î7ˆ_Võ¨_&ßI.sóØÌ÷Ž;î…ÝÌÖÃ;ß±ÿ=šÛ»x'Â)òHÕ òõ-æÖ†‚½.jò¡¹—þ"ÁhxÏÞ{¼”ßWfÎ&.ÈŽÝÙßðêãš¹Ž«ßä/o!iÿöó¯éwJ¸{Èâ¯§Ô¶`ED2^SR¥v|G-Ât¶Ç~R–uGG+D÷3¨öM]ç:?@Ÿ&1ü§fÖa¶ç`óGcd×]ø×n%~zZægBd	gc¾tf{'|.¨wøÖw&Õvµòc¢gm?(ƒ±¦x„ä¥ƒ=†y8øl=(wCXyŽÇH–—†dHH…š—…°—‚¨5{v5|`ÈƒOmÂWfÌw†ºg×7†f&†jH†¨e†08g»§{;8@äv|7V{ØkGå“þ·.ÆS}ˆXµ||(~Fö}àwXô‡YŽx}E‚7 hl¸IEHYNHj	æmð'Šªåbþ'Z1c
+ö‰©øV†€œ¨A:GBÙ2‰_G‰ Ø†·wk§Ø}±@¥N^‡c¹¨‚›æ<š¨‡zeˆí¢k¿ö‡Ïh‚>têâkle¹VAø…(¤„;Æw9X…v¨pWG„Þè à„/8ŽÄ¨€UÈ„ŸŽŽÇŽ“.çØxB¨Ž÷è…U7†‡÷—IÀpZ#S¸xÈH¶yÉø†;˜†xHŠ”(‘Iw¨7flÖw|ux€ƒh‘pè‘]È]v’G_)©_5<_?á’Bq!“1‰<5™79`:©’/i“=‰“?¹0¹C	4ÙGi”>©”'‰< !þclip2gif v.0.7 by Yves Piguet ;Yimage/gif_/http://virtualschool.edu/cox/pub/PSIR/PSIR6.gifOBbplist00ÔfgX$versionX$objectsY$archiverT$top † ¯"()012JKLMNOPQRSTUVWXYZ[\`aU$nullÝ	
+ !R$6S$10R$2R$7R$3S$11R$8V$classR$4R$9R$0R$5R$1€€€ €€€€ €Ó#$%&[NS.relativeWNS.base€€€ _/http://virtualschool.edu/cox/pub/PSIR/PSIR6.gifÒ*+,-Z$classnameX$classesUNSURL¢./UNSURLXNSObject#A´‘r²\ÄÈÓ3456@WNS.keysZNS.objects€©789:;<=>?€	€
+€€€€€€€©ABCDEFGHI€€€€€€€€€VServerZConnection\Content-Type]Last-Modified]Accept-RangesTDate^Content-LengthZKeep-AliveTEtag_"Apache/2.0.48 (RedHat Linux) DAV/2ZKeep-AliveYimage/gif_Mon, 08 Mar 2004 01:11:28 GMTUbytes_Thu, 08 Dec 2011 22:30:42 GMTT3686_timeout=15, max=100_"ac814a-e66-58529000"Ò*+]^_NSMutableDictionary£]_/\NSDictionaryfÒ*+bc_NSHTTPURLResponse£de/_NSHTTPURLResponse]NSURLResponse_NSKeyedArchiverÑhi_WebResourceResponse€    # - 2 7 X ^ y | € ƒ † ‰   — š    £ ¦ ¨ ª ¬ ® ° ² ´ ¶ ¸ º ¼ ¾ Å Ñ Ù Û Ý ß!*039BKMT\gisuwy{}ƒ…‘“•—™›Ÿ¡¨³ÀÎÜáðû %0:Z`€…›³¸ÎÒßâçûÿ!36L             j              NÔ/012OÚGIF89aà ^ ÷  ÿÿÿÿÿÌÿÿ™ÿÿfÿÿ3ÿÿ ÿÌÿÿÌÌÿÌ™ÿÌfÿÌ3ÿÌ ÿ™ÿÿ™Ìÿ™™ÿ™fÿ™3ÿ™ ÿfÿÿfÌÿf™ÿffÿf3ÿf ÿ3ÿÿ3Ìÿ3™ÿ3fÿ33ÿ3 ÿ ÿÿ Ìÿ ™ÿ fÿ 3ÿ  ÌÿÿÌÿÌÌÿ™ÌÿfÌÿ3Ìÿ ÌÌÿÌÌÌÌÌ™ÌÌfÌÌ3ÌÌ Ì™ÿÌ™ÌÌ™™Ì™fÌ™3Ì™ ÌfÿÌfÌÌf™ÌffÌf3Ìf Ì3ÿÌ3ÌÌ3™Ì3fÌ33Ì3 Ì ÿÌ ÌÌ ™Ì fÌ 3Ì  ™ÿÿ™ÿÌ™ÿ™™ÿf™ÿ3™ÿ ™Ìÿ™ÌÌ™Ì™™Ìf™Ì3™Ì ™™ÿ™™Ì™™™™™f™™3™™ ™fÿ™fÌ™f™™ff™f3™f ™3ÿ™3Ì™3™™3f™33™3 ™ ÿ™ Ì™ ™™ f™ 3™  fÿÿfÿÌfÿ™fÿffÿ3fÿ fÌÿfÌÌfÌ™fÌffÌ3fÌ f™ÿf™Ìf™™f™ff™3f™ ffÿffÌff™fffff3ff f3ÿf3Ìf3™f3ff33f3 f ÿf Ìf ™f ff 3f  3ÿÿ3ÿÌ3ÿ™3ÿf3ÿ33ÿ 3Ìÿ3ÌÌ3Ì™3Ìf3Ì33Ì 3™ÿ3™Ì3™™3™f3™33™ 3fÿ3fÌ3f™3ff3f33f 33ÿ33Ì33™33f33333 3 ÿ3 Ì3 ™3 f3 33   ÿÿ ÿÌ ÿ™ ÿf ÿ3 ÿ  Ìÿ ÌÌ Ì™ Ìf Ì3 Ì  ™ÿ ™Ì ™™ ™f ™3 ™  fÿ fÌ f™ ff f3 f  3ÿ 3Ì 3™ 3f 33 3   ÿ  Ì  ™  f  3î  Ý  »  ª  ˆ  w  U  D  "     î  Ý  »  ª  ˆ  w  U  D  "     î  Ý  »  ª  ˆ  w  U  D  "  îîîÝÝÝ»»»ªªªˆˆˆwwwUUUDDD"""   !ù    ,    à ^ Gý H° Áƒ*\È°¡Ã‡#JœHña¾Š3ü€#ÇŽÿ>~ÔHâÈ’(#^LÉRâÉ“%C¶,è±ãF›3g®ÌÉ³§Ï†0{ÖšqgÎ¡0‰þÌ8rèÍšKY:¥htéË¨)›ÚÔ
+u¦R’_!VÅJ–g×ŸgËŠ½)0¤Û·pãÊK·®]ºµ¶Ý
+ò®ß¿€ñNU›°jÐ°e¶yÔàá§{Ýâô(óíäzgfÌx/áµŸC‹öŠÓ,_†c	7¸µk×yóRŒôµmÀ±‰¦þ¬˜-æÎ’³ž½˜¯f§•=Ç¦™”©d‘+#Nìp÷èˆ³okßÞû:JëÞýRö]Ú%äì½§;T^!øöðÉ²‡™ðû˜}¹ë‡­½à­ûq—PZÕ™Us¹G[zå±–ƒÇ)Çp4%&f“!Ut}aGÒ}ñ…˜ yŠˆf¨¢eå!œ_õù·b\Šrj”tÝeEÛr \~Ç™tEÂ•"& ^‰M’w”Q¶(e¥†ˆh	9ãŒV:¶šmç}©äzqIÚú6H‚‹%wá”?^iÒyˆ_Cjªeæ göGè¡VÉÐ¡„*º¥£6f˜"£ÚIia—&È•žvæ§æeŠP M5Ÿ˜<©ä©XŠzý©R%‚mfÙ¬®æÊ*š–¶„«K”~	ÔmÊû\­»¦iUÇ­êìsgFË¢´ÐZvìr…nö¢µÏnëí…ßÆY+hkÇ¤gaÉ"}ŽÊÜi-Îw-¯Y}•©ØÚ™*z§É5imÐ¶;.§¨jè§^ræ¡F¿êèn©.²[,Á¼Ù›«ˆÉ.škÃc¤Whcµ“ƒ—l«É§ìæ„­Â«2Ê+Ã,³­!Wl0Å&ª|•®Ujy®Ç'“/²’rÝ]]õ&ËÜdjºªTÔRÇ´Ó:u¬uc><êÖ`;,èB£t¤±*FÌ#nY¢M#¹cãˆ3Ä3g:_Ù@þ÷*á¦$»\£¤TÇaºPÖÌw¿5|âžÚ=`ã—ÞíääUNùå–gŽùæšwÎùçž‡úè¢—Núé¦§Žúê¦‡Ý§Ûú¹.{nàÂ¾Ýì`#,£ídâ¹]F;î{äEö[W3ÛõðŽê{s¨æ¾<óvïhx„~¦
+õZ‹+*Žàs1ï±ã~ââ§?àö²ªï~ÄíS$÷ûôÇo ×ð5K~`ø‡ûßîÁ‚þ@°ý½f}ÀCŽßÖ.ôy%B¼]Œ¢÷¯âEb£Ià o¤ª!õ¨yCk¿’ö®$	fHsjš‰#&#QhXœË’Ö¶.zåÌAó#RÒØ¡|ýyz†è!
+d‚^¬r8¦ G{Õ¢Ó¾ ¨8Ù°i=›RÐÒ6·*VÏ~!:}ÆÁîYð€Ôà÷G?EÑFol£úâXÄÊ1w!DKÇwÆÖ«RDT¤fÕG4º€ÖÒ¢[6¾x¨ÒaôYÃ.
+*‘,üÞ÷èFsåïNCK˜Æâ™l`ŠKÊ¼>XFÞpidœÈ·Ä­!ñEÅÁáŽbd¤	&ÑŽÞ!!útÇÊé®•p’äªŒ§!"6Í’Œe'ÈÉžm2‡×Ù¥ðÔFÊ²àë››ô&%ÿ²¨qÂˆšòóä×‰N³©“ï£#Ðº)sŸÞåR$˜àL¬Ø“œP ¥±FvËšTBaäÇwÔyŽ„Ó=šLµ‰0™òæ5)ØIi‚Ì„A«Ó”ðÙœ©—ÅKÜ¼ôØ3$1‘OÊœÖÎjÄÁ5°–Õ
+ŸªµRYj’„("¦ý¥Pú§W%Å v`YAÒS>Õ!sJ·Že4›ü¬ZTÇUÖyµ«`ýªXÃJÖ±šUt !þclip2gif v.0.7 by Yves Piguet ;Yimage/gif_/http://virtualschool.edu/cox/pub/PSIR/PSIR7.gifOBbplist00ÔfgX$versionX$objectsY$archiverT$top † ¯"()012JKLMNOPQRSTUVWXYZ[\`aU$nullÝ	
+ !R$6S$10R$2R$7R$3S$11R$8V$classR$4R$9R$0R$5R$1€€€ €€€€ €Ó#$%&[NS.relativeWNS.base€€€ _/http://virtualschool.edu/cox/pub/PSIR/PSIR7.gifÒ*+,-Z$classnameX$classesUNSURL¢./UNSURLXNSObject#A´‘r¾‰üÈÓ3456@WNS.keysZNS.objects€©789:;<=>?€	€
+€€€€€€€©ABCDEFGHI€€€€€€€€€VServerZConnection\Content-Type]Last-Modified]Accept-RangesTDate^Content-LengthZKeep-AliveTEtag_"Apache/2.0.48 (RedHat Linux) DAV/2ZKeep-AliveYimage/gif_Mon, 08 Mar 2004 01:11:28 GMTUbytes_Thu, 08 Dec 2011 22:30:42 GMTT2266_timeout=15, max=100_"ac8149-8da-58529000"Ò*+]^_NSMutableDictionary£]_/\NSDictionaryÚÒ*+bc_NSHTTPURLResponse£de/_NSHTTPURLResponse]NSURLResponse_NSKeyedArchiverÑhi_WebResourceResponse€    # - 2 7 X ^ y | € ƒ † ‰   — š    £ ¦ ¨ ª ¬ ® ° ² ´ ¶ ¸ º ¼ ¾ Å Ñ Ù Û Ý ß!*039BKMT\gisuwy{}ƒ…‘“•—™›Ÿ¡¨³ÀÎÜáðû %0:Z`€…›³¸ÎÒßâçûÿ!36L             j              NÔ4567OGIF89aÛ ¦ ÷  ÿÿÿÿÿÌÿÿ™ÿÿfÿÿ3ÿÿ ÿÌÿÿÌÌÿÌ™ÿÌfÿÌ3ÿÌ ÿ™ÿÿ™Ìÿ™™ÿ™fÿ™3ÿ™ ÿfÿÿfÌÿf™ÿffÿf3ÿf ÿ3ÿÿ3Ìÿ3™ÿ3fÿ33ÿ3 ÿ ÿÿ Ìÿ ™ÿ fÿ 3ÿ  ÌÿÿÌÿÌÌÿ™ÌÿfÌÿ3Ìÿ ÌÌÿÌÌÌÌÌ™ÌÌfÌÌ3ÌÌ Ì™ÿÌ™ÌÌ™™Ì™fÌ™3Ì™ ÌfÿÌfÌÌf™ÌffÌf3Ìf Ì3ÿÌ3ÌÌ3™Ì3fÌ33Ì3 Ì ÿÌ ÌÌ ™Ì fÌ 3Ì  ™ÿÿ™ÿÌ™ÿ™™ÿf™ÿ3™ÿ ™Ìÿ™ÌÌ™Ì™™Ìf™Ì3™Ì ™™ÿ™™Ì™™™™™f™™3™™ ™fÿ™fÌ™f™™ff™f3™f ™3ÿ™3Ì™3™™3f™33™3 ™ ÿ™ Ì™ ™™ f™ 3™  fÿÿfÿÌfÿ™fÿffÿ3fÿ fÌÿfÌÌfÌ™fÌffÌ3fÌ f™ÿf™Ìf™™f™ff™3f™ ffÿffÌff™fffff3ff f3ÿf3Ìf3™f3ff33f3 f ÿf Ìf ™f ff 3f  3ÿÿ3ÿÌ3ÿ™3ÿf3ÿ33ÿ 3Ìÿ3ÌÌ3Ì™3Ìf3Ì33Ì 3™ÿ3™Ì3™™3™f3™33™ 3fÿ3fÌ3f™3ff3f33f 33ÿ33Ì33™33f33333 3 ÿ3 Ì3 ™3 f3 33   ÿÿ ÿÌ ÿ™ ÿf ÿ3 ÿ  Ìÿ ÌÌ Ì™ Ìf Ì3 Ì  ™ÿ ™Ì ™™ ™f ™3 ™  fÿ fÌ f™ ff f3 f  3ÿ 3Ì 3™ 3f 33 3   ÿ  Ì  ™  f  3î  Ý  »  ª  ˆ  w  U  D  "     î  Ý  »  ª  ˆ  w  U  D  "     î  Ý  »  ª  ˆ  w  U  D  "  îîîÝÝÝ»»»ªªªˆˆˆwwwUUUDDD"""   !ù    ,    Û ¦ Gý H° Áƒ*\È°¡Ã‡#JœHQa¾Šþðo#Ç ?v	²ãGŽ(G¦D)ÒãI0M®ù²¥É’*3êÜið"O„7ÒÜ)“¨KG&ýÉ4¢Ï¦ƒºŠtiÅ¢HZ…Ê5áS®X£jSdÊ°5Y½	ó¤Ò’jÇ¾u»Un×»¿âå™´¯P–{ìP/á¦uýKR©â„##KžL¹²åË˜söŠÖ`b%RÕzXôR¸qJ5+5òL²[‹ÂÕºág…šcLýš·ïÞ’¤)ùíïâ³qW;Õ.ä°·O]ºkôê‡sG¼N›;nçÂýzÜ=³ùóè1ŸõZ;D÷ ÇÿõŒý¡|Ç«U–]LV7 ÃõÙ÷Óo»ù`i (š‚6¸Y`lµFY|™½æà…‡%ˆØpë©›~¬YˆáˆxiÈT„é'"‰,6eâ€¢¢jÊØâ<½È×qÀñ˜Ú}8ùàm(ä‘éÈ‹@"‰’NF)%DPNiå•CBåÚTAíã€tˆå{u‰_„¬¡©ŸšlÖØfšnÆi}cT%ƒÑ5Yç…w:ùYcßùˆ`zFygnkÕ¦e‡Ì)¶š\Eò¶yQ¥hé¥êAÊ™¢ßMŸtÛ­ÙeNlµDá}ÄÙæ l‰‰:ýÓ¨1š
+k£uQ‡£­´&¡©ê—lâj§zê¤‰é²Ìº&±›Rô©Xâ¡,hÖä¬°âíVè‚ñÑåQŸ{jJÞ·óEÉí@ä‰®‘åNÔît=ÖÛœ ñN9o¨ŒJØr3®”¯”û¾7\sžõ£#Y°}±JøªL "Ûð‘;Ôš¬o›ŸÀcŒW‘ô¾KZÈõe¬ª¹kJ×2¶§Zª¹(?YóÍ8ªŒóÎLéLop?ƒžÉtÞìó’·òLÑÑÏ•×ìÓPgšn¾LW
+rÍÙ•µ®šmíµË_kêÖÔ\õ³?fÕÚÏ²]4µÀ¾-ô™dÇ{ör~þ¶¯
+í·Ønñ½wÝà•{÷rì)Œ"ÂÎrŒÜ–[Ò½¸âRj¶Ÿ‚+-ò•_­ùN‡ƒå·Þ£_½˜çN†nnW6Öõ.fÃûWÝ½®¾	sÌ®Šû7ßqž¹ðƒÿÎålYFwÙÓfå—£'O=·ìl“<ýëïI?ì«=9ñØ‚Oá‚Åhî1íG±ñBŸ¦-¬Žnrû%ÎawÔŸ¼Vô•¶w}ëØÜÇ:þýë%¨Tûæ›ªZ3ò¸D<Rk$" Úp'ªæÎ&²¢QÂ÷9ù®brª˜ëöt¬®‘Ê…¼;^úd8>i­O|Ùºàñ0ˆ¥uýÕÌ‚r£YÙƒ þoP
+Œö€WÂ¨9QEmÃaÖâ¦ÃæIqF2*•ùÇ@öQH,âÓ5-í¬ÍŠd$Íó–hÄüMYhˆœ71V¥ï.”Véâ¤ÅÉ pŒå["˜f·IuÏJ¶jãÓÈ£ÏDuˆñ¢é äÈGb.€•d$ûg)ÉY&“ÚäÇ’HJP6H”Ëbä ¦Bšr/¨TÜûÖÇÊQ¾RA±ô¿Ry°ÞÒf¢ÑWôKÆ_³¬#ãˆYLÂä2„]a+'ÙÌÀ<rÑá4]YÍž³—(\˜š|ÙMk~ó‰—)gu×G„õfÌ‰”y™JuýJd“²´0	4{.í˜ƒËþúÃ½¹dq>¨{%>ý²‹8”L(D'*ÑŠRô¢Í(F7ªÑŽrô£)HG*Ò’~”¡(½Q«NT­”º«C³2ÓM5§GéÆ¬
+\üHèR‰~çë
+á™(«Ñ’‚[ŒÔ>{02udèŒªT+ôÔ€òó*ƒYUHI¾t•©½’]V¼Z¦ª¾,¡bK­Vx®Ž¬Y½^J•£U¸âq«Á«+ÒÞjV›Lõ¯€Ýê§J¹FØ‰ö"§ çúIÆAnŽt‹æ.µ‰Epúµ2xåkfÛzÕÍþÐ³žUäWA Ö™V®"mQK:nýö­ª%¤¯øÆÌÂ6µ–+$j›Êu-u{9¼¶v§Å4ÅSRÈƒ˜Ÿz´œæ·QåÓ"?,†X„[i\»õE‘ün²n
+SóÑôW5|aZEKÄë¸¼íçxwP@­ð_”Ylø×^pZòÙá…)Nøb/O«ênÂükšZ½ÕÁ&›âãÒY¡¨ëOÐí¬>Ù‹È¶%j‡ˆ[0¢>l5ã 7Öjª¢ZEEòÉVt…}[kûgU“x.8ÎkiÌ+ª¯,vÄím÷z.—ÑLž¾BrðØúßü&9b°¡U¸úb&¥vŠGf™‘óŠä&™·žŠí…Ìßìý”…¦$³‚½+^1['Ã»Ýpt™èÕëi†€}š §¬ÖP½ËÀÉÍí†$Y<ÚêÇÏõrsÑuãlyìºÛª²sòØó™Á~Ž/Ðd¦©bÍbºU•ƒ:fÚ§+“¯\šç‘ZÎã”šw;dxévœI+}}éèBÎb-êtï"»6˜«wöcÃS¨ÎzX(úÐî|ll-­~å”5ê(=UÒî»n3Ã-jT“»aµ>÷”Ò­n"-¶ÝV&¼WÅ,SuÞ
+jÖe‹o<uRB¥éÙÝï"[h¦øýÕ½
+îîá&gÉ×š²>gôYÊÅå!Å…ëð0ÏÉ3Ò?Ý8v>ñ‡ËXùµp7éyâ*WBsÂÌr~la^sV<ÊŸ)5{¾¨ŽßÓÈ1Ñïjq·Ôã5^ºèŒNòyruÁR/º“Ž^¨Ÿ9ëZ7¹R\9¬ƒFÜvíÙÍ|hC¯zí¾örÊá>½ '·/eÏ©ÞKw"~z~b4¨RÊ÷àö]¹?<K×»<0§Zñµõ££¬ÅKêúuW¯-Å§÷Îóá™/sƒæz¸›ôô$M=êW¯úÖ³þõ®}E !þclip2gif v.0.7 by Yves Piguet ;Yimage/gif_/http://virtualschool.edu/cox/pub/PSIR/PSIR8.gifOAbplist00ÔfgX$versionX$objectsY$archiverT$top † ¯"()012JKLMNOPQRSTUVWXYZ[\`aU$nullÝ	
+ !R$6S$10R$2R$7R$3S$11R$8V$classR$4R$9R$0R$5R$1€€€ €€€€ €Ó#$%&[NS.relativeWNS.base€€€ _/http://virtualschool.edu/cox/pub/PSIR/PSIR8.gifÒ*+,-Z$classnameX$classesUNSURL¢./UNSURLXNSObject#A´‘rµ§	ÈÓ3456@WNS.keysZNS.objects€©789:;<=>?€	€
+€€€€€€€©ABCDEFGHI€€€€€€€€€VServerZConnection\Content-Type]Last-Modified]Accept-RangesTDate^Content-LengthZKeep-AliveTEtag_"Apache/2.0.48 (RedHat Linux) DAV/2ZKeep-AliveYimage/gif_Mon, 08 Mar 2004 01:11:28 GMTUbytes_Thu, 08 Dec 2011 22:30:42 GMTT3076_timeout=15, max=99_"ac8148-c04-58529000"Ò*+]^_NSMutableDictionary£]_/\NSDictionaryÒ*+bc_NSHTTPURLResponse£de/_NSHTTPURLResponse]NSURLResponse_NSKeyedArchiverÑhi_WebResourceResponse€    # - 2 7 X ^ y | € ƒ † ‰   — š    £ ¦ ¨ ª ¬ ® ° ² ´ ¶ ¸ º ¼ ¾ Å Ñ Ù Û Ý ß!*039BKMT\gisuwy{}ƒ…‘“•—™›Ÿ¡¨³ÀÎÜáðû %0:Z`€…š²·ÍÑÞáæúþ 25K             j              M            1   <   N   d   ‚   ™   ¨  Ð¯  Ð¹  Ð¿  ÐÀ  Ðé  Ðò  Ðû  Ñ  Ü³  Ü¼  ìU  ýä  ýí P P PX T± Tº ^” ^ž ^Ð c c ‚Ž ‚˜ ‚Ê ‡ ‡ •Ã •Í •ÿ šE šN ¨¸ ¨Â ¨ô ­: ­C ¶! ¶+ ¶] º£ º¬ Æ´ Æ¾ Æð             8             Ë5

@@ -1,0 +1,135 @@
+Jeremy
+    Absolutely brilliant
+        both technically
+        and oratorically
+    He wrote CoffeeScript
+    1st place 5k 
+    21 min, 3 seconds
+    <7min mile
+
+Big picture
+    Codeconf - opportunity to talk about code in general
+
+"What makes code strange?"
+    Laptop: 50 years of code running at one time
+
+base of code culture
+    taken for granted
+    review what we take for granted
+    fresh eyes
+    cultural artifact
+    take it to the surface
+
+Minor miracles
+    What
+        Ruby
+        Python
+        JS
+    Why
+        "Fit the way you think"
+        We use them in a way that resembles literature
+        Ruby - existence proof against code as math
+
+Dijkstra & Knuth
+    Angel and Devil
+
+Dijkstra
+    "I do not know of any other tech covering ratio of 10^10"
+        from indiv bits through hadoop cloud
+
+"Is it bigger than a breadbox?"
+
+Dijkstra
+    "By evoking the need for deep conceptual hierarchies, the automatic ocmputer confronts us with a radically new intellectual challenge that has no precedent in our history."
+    Code as FUNDAMENTALLY new thing
+
+Code as Logic
+    1s and 0s
+    art, film, books, music
+    Knuth's Defn
+        Finiteness
+        Definiteness
+        Input
+        Output 
+        Effectiveness
+    Semantic gap
+        code
+        AST
+        Bytecode
+        Machine Instructions
+        Electricity & gates
+
+Code as Law
+    in machine, code is only possible law
+
+Code as Art
+    Knuth: The Outer Paren
+        "Science is knowledge which we understand so well that we cna teach it to a computer, and if we don't understand something, it is an art to deal with it." - Donald Knuth
+        "Even the most perfect repoduction of a work of art is lacking in one element: its presence in time and space, its unique existence at the place where it happens to be." - Walter Benjamin
+        diffs make it interesting
+    Concrete vs Abstract art
+        Concrete: Art Object / Event
+            exist in single space & time
+            can be copied, but no longer original
+        Abstract: Architecture, composition
+            Need to be executed to become real
+
+Code has a dual audience
+    machine
+    reader
+
+"the competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility" - Dijkstra
+    "complexity grows with the square of the program length"
+    "Abstraction... most vital activities"
+    "New semantic level where one can be absolutely precise"
+
+Dijkstra -> Anti-scripting
+Matsumoto: "pseudo-code that runs"
+
+Dijkstra's Structured Programming vs Knuth's Literate Programming
+    "GOTO Considered Harmful"
+    Structured: limited to 3 methods:
+        sequencing
+        selection
+        repetition
+    Literate: 
+        "Structured Programming w/ GOTO Statements"
+        Knuth's Literate Programming as alternate to Structured Programming
+
+Code as Literature
+    Not fancy fiction
+    Instead,
+        a book is a program that runs in the mind of the reader
+    meaning belongs to a text or program to the extent that it acts upon intelligence in a consistent/particular way
+    "literary" if it contains a high density of meaning
+        as opposed to art, which has a high density of emotion
+
+"In a culture whose already classical dilemma is hte hypertrophy of the intellect at the expense of energy and sensual capability, interpretation is the revenge of the intellect upon art" - Susas Sontag
+"the battles here are fought, won or lost, on how much power or meaning lies under the syntactic forms."-Alan Kay
+
+Code is writing
+    testament to power of the written word
+
+Literary abstractions
+    Metaphor
+        Class Circle < Ellipse
+    Simile
+        class rose include fragrant
+    Synecdoche
+        tree = nodes.root
+    in C:
+        int *ptr
+        ptr = &array[0]
+    Metonymy
+        documents.map &:id
+    Personification
+        #this buffers knows how to clear its own cache
+        "Never personify a program" - Dijkstra 
+        OOP is a Biological Metaphor
+            Alan Kay was inspired by biological cells
+
+Code is a Commons
+    participate as a citizen
+    express yourself clearly
+
+"Some programs are elegant, some are exquisite, some are sparkling. My claim is that it is possible to write grand programs, noble programs, truly magnificent ones!" - Knuth
