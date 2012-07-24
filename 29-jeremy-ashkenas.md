@@ -1,9 +1,7 @@
 ﻿# Can Code Be Like Literature?
 
-## Jeremy Ashkenas
-## 10 Apr 2011
-
-[slides][1], [audio][2]
+<a rel='author' href='http://ashkenas.com'>Jeremy Ashkenas</a>,
+10 Apr 2011
 
 We don't just program because it's our day job. We write open source
 software because there's something deeply intellectually satisfying
@@ -49,7 +47,7 @@ But for now, let's say that we use high-level languages because somehow
 they fit the way you think. You know: they're "fluent." And reading
 well-written code in a scripting language is an aesthetic experience.
 
-Because, let's be honest here, right: we certainly don't use Ruby for
+Because, let's be honest here: we certainly don't use Ruby for
 engineering reasons.
 
 This is the position I want to advance here. The fact that Ruby is as
@@ -116,7 +114,7 @@ ephemeral like a song, does it disappear after it runs? If you write
 a piece of code that never runs, is it still software, or have you
 written a bizarre poem?
 
-So, Dijkstra continues:
+Dijkstra continues:
 
 > "By evoking the need for deep conceptual hierarchies, the automatic
 > computer confronts us with a radically new intellectual challenge that
@@ -167,7 +165,7 @@ politics: a large part of human cultural production is already mediated
 through digital bits. This doesn't have to be a something to terribly
 concern us, that code just exists in digital bits.
 
-So, this is something that we know but, again, something that we take
+This is something that we know but, again, something that we take
 for granted. We're lucky to be able to say oh, it's a string, I know
 what a string is, and not think about the fact that everything that the
 string consists of is a layer of crazy hacks, stacked on top of one
@@ -175,11 +173,11 @@ another. Chicken scratch on magnetic disks getting treated as small
 numbers, and then the numbers being codified through a fancy hierarchy
 to become symbols for the English language.
 
-So, Code As Logic.
+## Code As Logic
 
 Here's Knuth's definition for what code is, what an algorithm is.
 
-It has to be finite. Infinite loops are not algorithms, right? They're
+It has to be finite. Infinite loops are not algorithms. They're
 not code. It has to finish.
 
 Each step must be unambiguous. It must be definite.
@@ -195,7 +193,7 @@ you need to be able to do it on paper by hand. There's no magic involved
 here in the algorithm. It's something that maybe, if you had many
 lifetimes to work it out, you could work it out with pencil and paper.
 
-So, what's going on at the logic level? And, it's good that we've heard
+What's going on at the logic level? And, it's good that we've heard
 so much today about code as it exists in dialog with documentation, and
 as it exists... the difference between the mental model of your code
 right ((garbled)) and the actual code as it's running.
@@ -232,6 +230,8 @@ a high-level language but you're pretty damned certain it's not just
 doing that; it's doing a hell of a lot more. ((something)) find out
 what.
 
+## Code As Law
+
 The next aspect I want to talk about is Code As Law.
 
 So here we've got a little bit of code. Ball's X coordinate is getting
@@ -267,7 +267,7 @@ the machine all code behaves as law.
 
 This metaphor starts to make less sense, because if running code is the
 only action that takes place, there's nothing there to regulate outside
-of the code.  So, if the ball would never want to move off the screen,
+of the code.  If the ball would never want to move off the screen,
 then what does it mean to say that it's being constrained? It might not
 mean anything.
 
@@ -287,6 +287,8 @@ ones that you've used that constrain your programs into a mathematically
 sound structure, versus the ones that let you scribble and draft and
 sludge any sort of idea that comes into your head. ((garbled)) come
 back up later.
+
+## Code As Art
 
 So after Code As Law, let's talk a bit about Code As Art.
 
@@ -312,7 +314,7 @@ What he has to say about it:
 > deal with it."
 
 And this is a cute little proof, because we all know that computers can
-be taught to program, yet programming remains an Art. So let's see, now
+be taught to program, yet programming remains an Art. Let's see, now
 that we have Knuth's position, if we can situate where code might fit
 among other arts.
 
@@ -354,13 +356,13 @@ code, which would be considered an abstract art, like the others, like
 architecture, musical composition, writing, where with the abstract arts
 you lose nothing from making a copy, from reproducing a blueprint,
 reproducing a score or a book, and they need to be reified, they need to
-be performed, they need to be executed in order to become real. So in
+be performed, they need to be executed in order to become real. In
 the same sense that we asked earlier what is a piece of code that never
 runs, we can also ask, what is a blueprint for a house that is never
 built, what is a song that has never been played, and what is a book
 that has never been read?
 
-So, probably the closest cousin among the abstract arts to code is
+Probably the closest cousin among the abstract arts to code is
 writing, because they're both forms of written expression, you're
 expressing yourself through text. But Code has this sort of funny
 property that makes it unlike other types of writing. Code has a dual
@@ -374,14 +376,14 @@ were only writing for the machine, and I think a lot of the time we
 forget that we're writing for the reader too, and we pretend like we're
 only writing for the machine because we understand the problem space, or
 understand the engineering, if we were only writing for the machine we
-never would have stopped writing in machine code, right? Because we
+never would have stopped writing in machine code. Because we
 would still speak to the processor in the way that the processor is best
 equipped to understand. But the entire history of programming languages
 is a history of trying to find the optimal position for the hardware of
 the time, where you can address both audiences at once, where you can
 speak clearly to the machine as well as the reader and we're shifting
 ever more towards the reader as we go along, because the fundamental
-point is that the machine doesn't care, right. In the end the machine
+point is that the machine doesn't care. In the end the machine
 doesn't care at all. Doesn't care if you feed it from instructions
 carefully poked into main memory with tweezers, or if you generate code
 that generates code that generates code. The computer isn't going to pat
@@ -398,10 +400,10 @@ arbiter of working code? It means that you can't just read it as you
 would read English. As you read code you have to constantly be keeping
 off little bits of it running in your head and executing it. Sort of
 monolithic. Whether or not someone stuck ** SOMETHING EACH LOOP **, you
-still have to pretend like you know what each does. So this creates an
+still have to pretend like you know what each does. This creates an
 aesthetic effect when you read a well-written program. Because by
 reading it you're also sort of running it, and you learn how to perform
-the task that the program performs. So in a literal sense it shows you
+the task that the program performs. In a literal sense it shows you
 how to accomplish the task instead of telling you how to it, and this is
 part of the enjoyable feeling of reading a program that you don't
 understand. Because it's much more pedagogically complete than an
@@ -418,9 +420,9 @@ problem by writing it out, by running it, by debugging it, by testing
 it, by rewriting the broken bits until you sort of understand how the
 pieces fit together.
 
-So, this need to read and execute large programs makes them very much
+This need to read and execute large programs makes them very much
 less manageable than they otherwise would be, because you can't just
-read them. You also have to keep them in your head. So Dijkstra says,
+read them. You also have to keep them in your head. Dijkstra says,
 the competent programmer is fully aware of the strictly limited size of
 his own skull, therefore he approaches the programming task in full
 humility.
@@ -447,26 +449,26 @@ having to keep the code in your head as you work with it. He says:
 > suggest that we confine ourselves to design and implementation of
 > intellectually manageable programs."
 
-And so this is Dijkstra talking about this problem, of seventies-sized
-code problems, and the problem of fitting it in your head. But this is
-still a problem we have today; we haven't solved it yet. Here's a more
-modern author, Steve Yegge:
+This is Dijkstra talking about this problem, of seventies-sized code
+problems, and the problem of fitting it in your head. But this is still
+a problem we have today; we haven't solved it yet. Here's a more modern
+author, Steve Yegge:
 
 > "I happen to hold a hard-won minority opinion about code bases. In
 > particular I believe-- quite staunchly, I might add--that the worst
 > thing that can happen to a code base is size."
 
-And so Steve Yegge has been in the position to have dealt with several
-code bases of quite a large size. So, the history of programming
-languages addresses this right, we're trying to figure out how we can
-address both audiences correctly, as the machine gets faster and faster
-we can begin to speak more clearly to the reader and make it easier for
-them to keep everything in their head, and rely on the machine to do
-a little bit of extra legwork to understand us. And the point that I'm
-trying to make here is that as high-level language programmers in
-particular, as people who use Ruby and python and JavaScript we take
-this argument to the extreme every day. And I think we need to be aware
-of that, that you're taking a stance just by using those languages.
+Steve Yegge has been in the position to have dealt with several code
+bases of quite a large size. The history of programming languages
+addresses this, we're trying to figure out how we can address both
+audiences correctly, as the machine gets faster and faster we can begin
+to speak more clearly to the reader and make it easier for them to keep
+everything in their head, and rely on the machine to do a little bit of
+extra legwork to understand us. And the point that I'm trying to make
+here is that as high-level language programmers in particular, as people
+who use Ruby and python and JavaScript we take this argument to the
+extreme every day. And I think we need to be aware of that, that you're
+taking a stance just by using those languages.
 
 So we know this quite familiarly from programming languages where you
 have two different ways to transform a list of strings into all caps
@@ -478,7 +480,7 @@ no way of counting, that can only say many or few, or groups of
 islanders that don't have words for cardinal directions. You can left,
 you can go right, but you can't go north, south, east, or west. Or,
 languages without tenses, and no way to distinguish between past and
-future events in words. So, Dijkstra takes one side of the argument,
+future events in words. Dijkstra takes one side of the argument,
 what should be allowed to be said in code. And this is kind of a fun
 one. He's talking about how to deal with an introductory programming
 seminar. He says:
@@ -495,9 +497,9 @@ seminar. He says:
 > the temptation to test their programs."
 
 Oh, the outrage, that you might be tempted to ever test or run your
-program. Because of course testing is a terribly fuzzy and error-prone
+program! Because, of course, testing is a terribly fuzzy and error-prone
 way to ensure the correctness of your program. What you really need is
-a proof, right. And so He goes on:
+a proof. He goes on:
 
 > "Another lesson we should have learned from the recent past is that
 > the development of 'richer' or 'more powerful' programming languages
@@ -514,15 +516,15 @@ philosophy saying--Matz being the creator of Ruby--saying that
 > be like that, like pseudocode that runs."
 
 And here's the point where our ((something)) argument isn't just
-theoretical, right? Dijkstra's famous "GOTO Statement Considered
-Harmful" essay marked the moment at which structured programming ((was
-born)), and to treat it quickly apart from just abolishing the use of
-GOTOs, structured programming aimed to make programs more understandable
-in a mechanical sense by limiting them to three methods of combining
-computation: you could do sequencing, selection or repetition.
-Statements in order, if-elses to choose which branch to run, and
-repetition loops to do things repeatedly. This is kind of the manifesto
-for procedural programming right.
+theoretical. Dijkstra's famous "GOTO Statement Considered Harmful" essay
+marked the moment at which structured programming ((was born)), and to
+treat it quickly apart from just abolishing the use of GOTOs, structured
+programming aimed to make programs more understandable in a mechanical
+sense by limiting them to three methods of combining computation: you
+could do sequencing, selection or repetition.  Statements in order,
+if-elses to choose which branch to run, and repetition loops to do
+things repeatedly. This is kind of the manifesto for procedural
+programming.
 
 But who do you imagine might be the main person to rebut Dijkstra's
 original paper on "GOTO Considered Harmful?"
@@ -532,7 +534,7 @@ Programming with GOTO statements" in which he demonstrated with examples
 that sometimes the GOTO can be used to make the code both more efficient
 and clearer. Damn the engineering, clarity is what we're going for here.
 
-So, later on then Knuth actually introduced Literate Programming as an
+Later on, Knuth actually introduced Literate Programming as an
 alternative to the structured programming paradigm. And so, what Knuth
 has to say about the fundamental idea of literate programming is: "Let
 us change our traditional attitude towards the construction of programs.
@@ -558,31 +560,34 @@ FORTRAN, as sort of an essay that explains how the program works, from
 annotated source code to Pow, which is 37Signals's new development
 server for Rack apps.
 
+## Code As Literature
+
 This is bringing us to Code As Literature.
 
 And, you might be thinking I'm talking about literature like fancy
-fiction. That's not really what I mean. So let's dive in to what we mean
+fiction. That's not really what I mean. Let's dive in to what we mean
 when we talk about literature here. We can consider a book or an essay
-kind of like a program that runs in the mind of the reader, right? When
+kind of like a program that runs in the mind of the reader. When
 we write literature, we do so to convey certain definite meanings to the
 minds of the readers and the minds of the audience, and a great author
 is great because they're able to craft language that evokes the same
 intended meaning with force and subtlety and precision across a large
-swath of the reading public. So, what we mean by this is that meaning
+swath of the reading public. What we mean by this is that meaning
 belongs to a text or to a program to the extent that it acts upon
 intelligence in a particular way. Imagine trying to write a piece of
 software that accomplished something in a world where every place it
 ever ran was a different platform. Machines read the same text in the
 same way, but each human reader brings their own histories, assumptions
-and prejudices to a text when they read it. And so if a text provokes
-wildly different unrelated thoughts in its readers, than to what extent
-can it be said to have meaning in it? It doesn't have any right? Meaning
-belongs to a text to the extent to which it acts on ((intelligence)) in
-a particular way. And unlike literature of course code has this nasty
-property where even the slightest perturbation has terrible
-consequences. Flipping a bit or forgetting to put in a semicolon will
-break your program, where to misspell a word in an essay, there's no
-such similar problem to the meaning of the text.
+and prejudices to a text when they read it.
+
+If a text provokes wildly different unrelated thoughts in its readers,
+than to what extent can it be said to have meaning in it? It doesn't
+have any, right? Meaning belongs to a text to the extent to which it
+acts on ((intelligence)) in a particular way. And unlike literature of
+course code has this nasty property where even the slightest
+perturbation has terrible consequences. Flipping a bit or forgetting to
+put in a semicolon will break your program, where to misspell a word in
+an essay, there's no such similar problem to the meaning of the text.
 
 So we can say that a textual work is literary if it contains a high
 density of meaning. And we're contrasting this from in part where you
@@ -613,9 +618,8 @@ essays, where maybe you'll feel something maybe you won't, but you're
 going to learn a hell of a lot and have a very strong high count of
 meaning per word there.
 
-So, this comes back to code in terms of sort of the fundamental ideas
-behind some programming paradigms, like Alan Kay and object-oriented
-programming, right:
+This comes back to code in terms of the fundamental ideas behind some
+programming paradigms, like Alan Kay and object-oriented programming:
 
 > "While we count the lines of code we use (which are expressed in
 > languages with careful syntax we define), the battles here are fought,
@@ -631,7 +635,7 @@ equivalently thousands of machine instructions and clock cycles. And
 that's just one word. Paragraphs or methods, function bodies, can
 provide a large explosion in possibilities of meaning that might take
 shape in the reader's mind or might take shape, might be enacted
-((garbled)). So to write literature and to write programs you have to
+((garbled)). To write literature and to write programs you have to
 decide how to balance the expressiveness of your language versus your
 control over the details. Because a literary abstraction can be seen as
 a way to trade precise control over how it's going to be accomplished
@@ -639,7 +643,7 @@ for strong expressive power.
 
 So you can choose to twiddle bits and place your opcodes or you can say
 `list.eachNewItem()` and not caring about what the class or type of the
-item is. And let's be clear here, right: because when we sit down to
+item is. And let's be clear here: because when we sit down to
 write code it's not an inevitable thing. We're still *writing*.
 
 Almost every other field of engineering has been transformed by
@@ -665,7 +669,7 @@ classes, models, proxies, factories, all those kinds of code
 abstractions you're used to.
 
 It turns out that literary forms and literary abstractions aren't
-necessarily so different or so alien. So let's go through a few of the
+necessarily so different or so alien. Let's go through a few of the
 fun ones.
 
 *Metaphor*: Circle is an Ellipse. Except that it's not quite the same
@@ -675,7 +679,7 @@ thing, it's specialized in a certain way.
 fragrant.
 
 *Synecdoche*: where you have a piece of the thing standing for the
-entire thing itself. So if we're talking about a tree, we can refer to
+entire thing itself. If we're talking about a tree, we can refer to
 the root node and say that the root node is the tree, because it's
 a recursive data structure and any sub-tree can used as the entire tree.
 And also in C, where a pointer to the beginning of the array can be
@@ -717,7 +721,7 @@ To wrap things up, as a final exhortation:
 Contributing to open-source software is the programming equivalent to
 being an engaged citizen in your community. It's the way that we
 participate in a world of code as literature, reading what others have
-written and writing for others to read our code. So it's not only about
+written and writing for others to read our code. It's not only about
 getting bug reports and patches and pulls on Github, it's about reading
 and writing code, being edited by your peers and editing others, and
 learning how to express yourself in code in a way that's understood
@@ -735,6 +739,8 @@ excellent sense of what the fundamental problems with code are, Knuth
 has a much better handle on how we as writers can solve them.
 
 Thank you.
+
+Source: [slides][1], [audio][2]
 
 [1]: https://docs.google.com/present/view?id=0AcVl9Wd2snSHYWpnY2RtcWRjZzlrXzMxZjRkZndoZzg&hl=en
 [2]: http://dl.dropbox.com/u/5764687/jashkenas-code-as-literature.mp3
