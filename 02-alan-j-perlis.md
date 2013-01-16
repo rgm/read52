@@ -96,7 +96,7 @@ computer.
     described with pictures.
 40. There are two ways to write error-free programs; only the third one
     works.
-41. Some programming languages manage to absorbe change, but withstand
+41. Some programming languages manage to absorb change, but withstand
     progress.
 42. You can measure a programmer's perspective by noting his attitude on
     the continuing vitality of FORTRAN.
