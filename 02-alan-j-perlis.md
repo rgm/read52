@@ -54,7 +54,7 @@ computer.
 20. Wherever there is modularity there is the potential for
     misunderstanding: Hiding information implies a need to check
     communication.
-21. Optimiziation hinders evolution.
+21. Optimization hinders evolution.
 22. A good system can't have a weak command language.
 23. To understand a program you must become both the machine and the
     program.
