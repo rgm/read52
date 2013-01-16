@@ -34,14 +34,14 @@ computer.
    10 functions on 10 data structures.
 10. Get into a rut early: Do the same processes the same way. Accumulate
     idioms. Standardize. The only difference (!) between Shakespeare and
-    you was the size of his idiom list - not the size of his vocabulary.
+    you was the size of his idiom list --- not the size of his vocabulary.
 11. If you have a procedure with 10 parameters, you probably missed
     some.
 12. Recursion is the root of computation since it trades description for
     time.
 13. If two people write exactly the same program, each should be put in
     micro-code and then they certainly won't be the same.
-14. In the long run every program becomes rococco - then rubble.
+14. In the long run every program becomes rococo --- then rubble.
 15. Everything should be built top-down, except the first time.
 16. Every program has (at least) two purposes: the one for which it was
     written and another for which it wasn't.
@@ -73,25 +73,25 @@ computer.
 29. For systems, the analogue of a face-lift is to add to the control
     graph an edge that creates a cycle, not just an additional node.
 30. In programming, everything we do is a special case of something more
-    general - and often we know it too quickly.
+    general --- and often we know it too quickly.
 31. Simplicity does not precede complexity, but follows it.
 32. Programmers are not to be measured by their ingenuity and their
     logic but by the completeness of their case analysis.
 33. The 11th commandment was "Thou Shalt Compute" or "Thou Shalt Not
-    Compute" - I forget which.
+    Compute" --- I forget which.
 34. The string is a stark data structure and everywhere it is passed
     there is much duplication of process. It is a perfect vehicle for
     hiding information.
 35. Everyone can be taught to sculpt: Michelangelo would have had to be
     taught how not to. So it is with the great programmers.
 36. The use of a program to prove the 4-color theorem will not change
-    mathematics - it merely demonstrates that the theorem, a challenge
+    mathematics --- it merely demonstrates that the theorem, a challenge
     for a century, is probably not important to mathematics.
 37. The most important computer is the one that rages in our skulls and
     ever seeks that satisfactory external emulator. The standardization
-    of real computers would be a disaster - and so it probably won't happen.
+    of real computers would be a disaster --- and so it probably won't happen.
 38. Structured Programming supports the law of the excluded muddle.
-39. Re graphics: A picture is worth 10K words - but only those to
+39. Re graphics: A picture is worth 10K words --- but only those to
     describe the picture. Hardly any sets of 10K words can be adequately
     described with pictures.
 40. There are two ways to write error-free programs; only the third one
@@ -113,12 +113,12 @@ computer.
 49. Giving up on assembly language was the apple in our Garden of Eden:
     Languages whose use squanders machine cycles are sinful. The LISP
     machine now permits LISP programmers to abandon bra and fig-leaf.
-50. When we understand knowledge-based systems, it will be as before --
+50. When we understand knowledge-based systems, it will be as before ---
     except our finger-tips will have been singed.
 51. Bringing computers into the home won't change either one, but may
     revitalize the corner saloon.
 52. Systems have sub-systems and sub-systems have sub-systems and so on
-    ad finitum - which is why we're always starting over.
+    ad finitum --- which is why we're always starting over.
 53. So many good ideas are never heard from again once they embark in
     a voyage on the semantic gulf.
 54. Beware of the Turing tar-pit in which everything is possible but
@@ -140,7 +140,7 @@ computer.
 63. When we write programs that "learn", it turns out we do and they don't.
 64. Often it is means that justify ends: Goals advance technique and
     technique survives even when goal structures crumble.
-65. Make no mistake about it: Computers process numbers - not symbols.
+65. Make no mistake about it: Computers process numbers --- not symbols.
     We measure our understanding (and control) by the extent to which we
     can arithmetize an activity.
 66. Making something variable is easy. Controlling duration of constancy
@@ -189,7 +189,7 @@ computer.
     first think of tomorrow.
 85. Though the Chinese should adore APL, it's FORTRAN they put their
     money on.
-86. We kid ourselves if we think that the radio of procedure to data in
+86. We kid ourselves if we think that the ratio of procedure to data in
     an active data-base system can be made arbitrarily small or even
     kept small.
 87. We have the mini and the micro computer. In what semantic niche
@@ -199,7 +199,7 @@ computer.
 89. One does not learn computing by using a hand calculator, but one can
     forget arithmetic.
 90. Computation has made the tree flower.
-91. The computer reminds one of Lon Chaney - it is the machine of
+91. The computer reminds one of Lon Chaney --- it is the machine of
     a thousand faces.
 92. The computer is the ultimate polluter. Its feces are
     indistinguishable from the food it produces.
