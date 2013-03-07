@@ -562,8 +562,9 @@ the joke is actually a jump from one context to another, and the slower
 guy, who is dealing with the real meanings, has to catch up to it.
 
 There have been many, many studies of this. This argues that the surface
-form of a language, whatever it is, has to be adjustable in some form.SF
-As you probably know, recent research has looked at how different parts
+form of a language, whatever it is, has to be adjustable in some form.
+
+**SF** As you probably know, recent research has looked at how different parts
 of the brain recognize and react to jokes. Physically, they are quite
 distinct.
 
