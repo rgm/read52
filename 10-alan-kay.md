@@ -226,8 +226,9 @@ The stuff that is in vogue today is only about “one- half” of those
 languages. Sun Microsystems had the right people to make Java into
 a first-class language, and I believe it was the Sun marketing people
 who rushed the thing out before it should have gotten out. They made it
-impossible for the Sun software people to do what needed to be done.SF
-What should Java have had in it to be a first-quality language, not just
+impossible for the Sun software people to do what needed to be done.
+
+**SF** What should Java have had in it to be a first-quality language, not just
 a commercial success?
 
 **AK** Like I said, it’s a pop culture. A commercial hit record for
