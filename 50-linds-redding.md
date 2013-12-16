@@ -212,7 +212,7 @@ So where does that leave the artists and artisans? Well, up
 a watercolour of shit creek without a paintbrush. That one thing that we
 prize and value above all else--the idea--turns out to be just another
 plastic gizmo or widget to be touted and traded. And to add insult to
-injury, we now have to create them not in our own tine, but according to
+injury, we now have to create them not in our own time, but according to
 the quota and the production schedule. "We need six concepts to show the
 client first thing in the morning, he's going on holiday. Don't waste
 too much time on them though, it's only meeting-fodder. He's only paying
