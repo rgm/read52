@@ -246,7 +246,7 @@ most of the bright-young-things.
 So how did I survive for thirty years? Well, it was a close shave. Very
 close. And while on the inside I am indeed a 'delicate flower' as some
 Creative Director once wryly observed, I have enjoyed, until recently,
-the outward physical constitution and rude heath of an ox. I mostly hid
+the outward physical constitution and rude health of an ox. I mostly hid
 my insecurity and fear from everyone but those closest to me, and ran
 fast enough that I would never be found out. The other thing I did,
 I now discover, was to convince myself that there was nothing else,
