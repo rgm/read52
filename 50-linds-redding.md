@@ -25,7 +25,7 @@ overflowing ash-tray, there would also be a satisfying thick sheaf of
 misshapen and graceless fragments, but harbouring perhaps the glimmer of
 a smile or a grain of human truth which had won its temporary reprieve
 from the reject pile. Before trotting off to Clark's Bar to blow the
-froth of a pint of Eighty-Bob, our last task was to pin everything up on
+froth off a pint of Eighty-Bob, our last task was to pin everything up on
 the walls of our office.
 
 Hangovers notwithstanding, the next morning at the crack of ten o'clock
